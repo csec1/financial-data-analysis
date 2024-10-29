@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: navy;  /* Set the title color to navy */
+}
+
+.news-container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.news-item {
+    margin-bottom: 15px;
+}
+
+.news-item a {
+    text-decoration: none;
+    color: #007bff;
+}
+
+.news-item a:hover {
+    text-decoration: underline;
+}
+
+.positive {
+    color: green;
+}
+
+.neutral {
+    color: grey;
+}
+
+.negative {
+    color: red;
+}

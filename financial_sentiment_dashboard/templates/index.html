@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+    <title>Financial News Sentiment Dashboard</title>
+</head>
+<body>
+    <h1>Financial News Sentiment Dashboard</h1>
+    <div class="news-container">
+        {% if articles %}
+            <ul>
+            {% for article in articles %}
+                <li class="news-item">
+                    <h2>{{ article.title }}</h2>
+                    <p>{{ article.description }}</p>
+                    <p class="{{ 'positive' if article.sentiment['label'] == 'Positive' else 'negative' if article.sentiment['label'] == 'Negative' else 'neutral' }}">
+                        Sentiment Score: {{ article.sentiment['score']['compound'] }} ({{ article.sentiment['label'] }})
+                    </p>
+                    <a href="{{ article.url }}" target="_blank">Read more</a>
+                </li>
+            {% endfor %}
+            </ul>
+        {% else %}
+            <p>No news available.</p>
+        {% endif %}
+    </div>
+</body>
+</html>
