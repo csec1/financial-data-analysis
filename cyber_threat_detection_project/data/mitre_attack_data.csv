@@ -1,0 +1,1001 @@
+timestamp,attacker_name,tactic,technique,attack_vector,severity,affected_system,ip_address,user_account,region,status
+2022-06-02 17:25:11.401841,Thomas Jones,Defense Evasion,Command and Scripting Interpreter,USB,High,either,201.79.69.26,wilsoncassandra,US,Successful
+2020-12-16 13:57:08.479788,Daniel Brown,Impact,Phishing,Network,Low,compare,140.254.123.252,victoriafoster,Europe,Successful
+2024-10-30 22:56:58.005656,David Rivera,Lateral Movement,Access Token Manipulation,Network,High,degree,116.64.174.59,samuelmurphy,Asia,Failed
+2021-03-20 03:12:54.720701,Darren Johnson,Execution,Spearphishing Attachment,Email,Low,whom,37.196.198.253,williammayer,Europe,Successful
+2021-06-26 05:16:34.908632,John Miller,Exfiltration,Command and Scripting Interpreter,Web,Low,successful,158.105.28.135,michaeljoseph,Europe,Failed
+2020-01-30 10:56:50.169807,William Solomon,Collection,Ransomware,Network,Low,foreign,167.200.216.42,charlene99,Asia,Successful
+2021-04-19 13:42:58.133439,Monica Stanley,Collection,Taint Shared Content,Network,Medium,cut,45.107.82.199,shepherdrichard,Australia,Successful
+2020-10-26 02:48:33.597995,Victoria Juarez,Defense Evasion,Data Encrypted,Phishing,Low,economic,176.127.144.184,jevans,Australia,Successful
+2024-05-28 02:35:38.748329,Tanya Anderson,Discovery,Spearphishing Attachment,USB,Critical,front,8.143.139.197,cynthiaparsons,Europe,Successful
+2024-06-03 13:16:41.161725,Duane Tyler,Impact,Spearphishing Attachment,Network,Medium,either,86.203.206.104,edward72,South America,Successful
+2020-11-07 00:00:13.983135,Edward Evans,Lateral Movement,Data Encrypted,Network,High,role,154.98.245.60,cherylreynolds,Australia,Successful
+2022-08-13 16:49:22.521734,April Marks,Persistence,Data Encrypted,Email,Medium,better,178.187.122.0,rebekahcampbell,Asia,Failed
+2022-06-21 17:56:12.081166,Emily Daugherty,Impact,Spearphishing Attachment,Network,Critical,within,105.137.127.182,jshaw,Australia,Failed
+2024-07-08 11:31:31.628108,Renee Schultz,Persistence,PowerShell,Web,High,road,196.70.107.32,vasquezsteven,Asia,Successful
+2023-07-08 12:05:57.945260,Melissa Wallace,Credential Access,Taint Shared Content,USB,Low,partner,56.84.209.248,simsryan,Europe,Failed
+2022-10-29 00:08:54.621136,Sarah Craig,Defense Evasion,Spearphishing Attachment,Web,Low,force,154.159.49.161,jessica27,Europe,Failed
+2024-01-02 08:04:44.997256,Eric Eaton,Lateral Movement,PowerShell,Web,High,the,156.248.29.5,paul45,Australia,Successful
+2022-08-28 12:12:42.099408,Rachel Mcbride,Collection,Network Sniffing,Network,Medium,price,223.201.46.6,corymalone,US,Successful
+2023-05-30 00:54:16.429425,Alexander Burnett,Persistence,Exploitation of Vulnerability,Web,Critical,evidence,40.205.56.120,jgarcia,Australia,Successful
+2020-08-18 19:03:36.979836,Heidi Howe,Defense Evasion,Command and Scripting Interpreter,Email,High,fine,208.232.13.219,douglas30,South America,Failed
+2022-02-19 01:26:27.078896,Katherine Williams,Discovery,Credential Dumping,Network,Critical,establish,88.114.217.18,wilsonmicheal,Europe,Successful
+2024-03-17 22:17:00.809296,Gary Stokes,Persistence,Access Token Manipulation,Network,Medium,whose,112.83.160.121,ljames,South America,Successful
+2020-04-20 17:57:34.401922,Mercedes Martinez,Discovery,PowerShell,Network,Low,factor,116.86.100.135,ngordon,Asia,Successful
+2023-03-05 03:29:11.830718,Catherine Mccann,Credential Access,Data Encrypted,Network,Critical,stage,15.174.57.112,vargasmark,South America,Successful
+2021-07-27 11:03:13.745325,David Perry,Defense Evasion,Taint Shared Content,Network,Medium,audience,6.54.6.114,christinatucker,Africa,Successful
+2022-06-20 14:02:31.739944,Amanda Payne,Persistence,Ransomware,USB,Critical,less,154.26.26.91,leslie21,Australia,Failed
+2022-02-21 15:56:39.431390,Kimberly Rodriguez,Defense Evasion,PowerShell,Network,Low,range,200.189.50.184,briannunez,US,Successful
+2021-09-18 14:44:48.647846,Jeremiah Stuart,Exfiltration,Network Sniffing,USB,Medium,suggest,153.51.241.245,torresjeremiah,Europe,Successful
+2020-11-04 18:18:56.484323,William Norman,Persistence,Network Sniffing,USB,Low,as,124.236.237.13,abigailheath,Europe,Successful
+2022-03-20 21:50:48.152840,Aaron Curry,Lateral Movement,Taint Shared Content,Phishing,Critical,poor,88.98.30.177,gonzalezbrittany,Europe,Failed
+2020-08-13 05:59:29.813625,Victor Jacobson,Collection,Spearphishing Attachment,Web,High,production,20.141.202.196,wjohnson,South America,Failed
+2020-04-26 11:04:51.949409,Roy Robles,Lateral Movement,Command and Scripting Interpreter,Phishing,Low,one,48.44.11.48,james31,US,Failed
+2022-03-21 14:17:33.547351,Wendy Thomas,Lateral Movement,Network Sniffing,USB,Critical,shoulder,116.254.125.157,moralescarol,South America,Successful
+2021-08-20 05:26:56.005133,Julie Hernandez,Discovery,Network Sniffing,Network,Critical,policy,1.144.74.122,garrettbender,Africa,Successful
+2024-03-25 16:15:25.110705,Allen Morris,Defense Evasion,Data Encrypted,USB,High,score,61.184.18.182,afox,Australia,Successful
+2020-01-09 19:58:39.213060,Michael Vaughan,Execution,Credential Dumping,Email,Critical,civil,90.53.52.119,nancyspencer,Australia,Successful
+2021-11-05 05:16:02.912328,James Reed,Persistence,Data Encrypted,Phishing,Medium,thank,26.160.25.72,lopezangela,US,Failed
+2022-12-27 05:49:48.035884,Tyler Reed,Exfiltration,Phishing,USB,Medium,five,6.220.46.79,hectorsmith,US,Successful
+2024-09-08 03:50:26.441558,Cassidy Bender,Defense Evasion,Phishing,Phishing,High,sister,211.43.117.5,qduarte,Europe,Successful
+2021-01-21 06:53:42.762156,Joseph Hill,Privilege Escalation,Command and Scripting Interpreter,Phishing,High,statement,18.152.105.12,garyburns,South America,Failed
+2021-01-11 21:24:55.637603,Michael Eaton,Defense Evasion,Exploitation of Vulnerability,USB,Medium,thousand,110.140.104.212,villanuevabrandon,South America,Successful
+2023-06-07 23:48:31.096390,Cody Cook,Impact,Phishing,Email,High,amount,174.232.143.74,davidmiller,Australia,Successful
+2021-06-15 23:00:32.557368,Joshua Christensen,Impact,Exploitation of Vulnerability,Email,High,later,15.31.70.193,allison97,South America,Successful
+2021-03-07 04:39:51.654179,Carol Sanders DVM,Impact,PowerShell,Network,Critical,add,9.163.146.78,zroberson,Australia,Failed
+2021-03-05 13:00:55.780315,Robert Kerr,Persistence,Ransomware,Web,Medium,kind,31.225.18.137,michaelscott,Europe,Successful
+2022-02-14 12:38:18.692193,Sandra Sims,Defense Evasion,Spearphishing Attachment,Phishing,High,up,36.12.210.28,jamie61,Africa,Failed
+2024-05-18 03:12:02.898879,Danielle Jones,Persistence,Data Encrypted,USB,Low,election,4.24.81.17,csimmons,Asia,Successful
+2021-08-30 02:41:54.677864,Kristen Lamb,Initial Access,Spearphishing Attachment,Email,High,worry,129.191.214.54,patricia69,South America,Successful
+2021-07-18 09:09:23.876776,Nicole Austin,Lateral Movement,Command and Scripting Interpreter,USB,Low,alone,57.129.86.129,pughkimberly,US,Failed
+2020-02-27 19:31:21.066580,Brittany Hernandez,Execution,Command and Scripting Interpreter,Email,Low,son,145.18.105.137,david61,Australia,Successful
+2020-04-19 07:28:16.165168,Mark Adams,Exfiltration,Credential Dumping,Email,Medium,boy,191.85.6.64,thomashannah,South America,Failed
+2024-01-27 14:01:01.543803,Nancy Duran,Defense Evasion,Ransomware,Network,Low,high,109.232.181.92,whitebrittany,US,Failed
+2022-07-06 09:21:09.427483,Stephen Evans,Impact,Phishing,Web,Critical,out,41.234.203.31,julie09,South America,Failed
+2022-08-22 01:29:45.371063,Karen Moss,Exfiltration,PowerShell,Web,Low,great,184.68.34.68,kyle62,US,Successful
+2024-07-23 19:42:41.759243,Erica Davis,Defense Evasion,Spearphishing Attachment,Web,Low,song,89.18.248.15,barnescharles,South America,Failed
+2023-04-17 14:07:58.953424,Jessica Jackson,Collection,Command and Scripting Interpreter,Network,Medium,he,158.22.24.205,phillip63,Europe,Failed
+2023-08-02 09:27:52.410290,Christopher Santiago,Credential Access,Credential Dumping,Phishing,High,present,67.51.63.44,charles00,Africa,Failed
+2020-11-16 15:31:38.749741,Timothy Avery,Initial Access,Spearphishing Attachment,Web,Low,teacher,215.31.179.145,stewartrodney,Asia,Successful
+2020-04-14 14:09:58.458436,Nathan Davis,Exfiltration,Ransomware,Web,Medium,fall,211.85.162.206,nicholesmith,Europe,Successful
+2024-10-02 13:51:35.243808,Nicholas Pope,Credential Access,Exploitation of Vulnerability,Phishing,Critical,role,207.66.131.38,kimberlycombs,Africa,Successful
+2024-01-23 20:01:41.480440,Stephanie Huffman,Initial Access,Access Token Manipulation,Email,Medium,effort,211.233.0.175,taylordustin,Europe,Successful
+2021-05-28 01:22:58.659470,Tina Norman,Lateral Movement,Ransomware,Phishing,High,heavy,191.69.135.214,nancy25,US,Failed
+2022-01-23 20:41:38.971400,Kyle Schultz,Exfiltration,Exploitation of Vulnerability,Web,Critical,man,5.165.175.138,jessicasalas,Europe,Failed
+2020-10-29 11:11:44.349996,James Gonzalez,Lateral Movement,Ransomware,Network,Low,less,10.125.179.27,lauriemedina,Australia,Successful
+2023-08-12 06:42:34.156795,Phyllis Aguilar,Lateral Movement,Network Sniffing,USB,Medium,letter,170.7.15.32,toddpamela,US,Successful
+2020-04-15 15:41:50.677904,Roger Yu,Discovery,Phishing,Email,Low,position,114.34.14.123,swhite,Europe,Failed
+2020-08-03 13:28:14.695124,Kevin Riley,Defense Evasion,Taint Shared Content,Email,Low,leg,168.74.130.77,mooredavid,Africa,Successful
+2022-05-26 10:49:15.841939,Julian Cain,Defense Evasion,Credential Dumping,Email,Critical,pull,100.231.248.55,emma13,Australia,Failed
+2024-06-09 12:17:36.443049,Mitchell Thomas,Exfiltration,PowerShell,Network,High,hand,19.250.229.50,sheri45,Africa,Failed
+2023-03-21 23:12:42.257896,Patricia Cantu,Impact,Phishing,Email,High,process,21.132.222.126,hernandezapril,Europe,Failed
+2020-03-15 09:55:39.542237,Rebecca Nielsen,Lateral Movement,Access Token Manipulation,Email,Low,station,199.95.104.128,xmurphy,Africa,Successful
+2021-08-02 08:15:03.800391,Luke Best,Exfiltration,Network Sniffing,Phishing,Low,front,57.103.25.151,wmorgan,US,Failed
+2024-07-12 19:26:30.940372,Maria Harvey,Discovery,Exploitation of Vulnerability,Network,Low,no,52.141.71.233,matthewyoung,Australia,Successful
+2024-08-17 22:28:12.711453,Todd Ortiz,Impact,PowerShell,USB,Low,until,195.229.223.150,tyler79,Australia,Failed
+2022-03-13 22:15:39.167903,Julie Mccann,Execution,Network Sniffing,Web,High,old,46.167.61.123,nhayes,Africa,Successful
+2024-09-24 15:23:10.583918,Dennis Reyes,Lateral Movement,Access Token Manipulation,Email,Low,population,205.8.249.0,tellis,South America,Failed
+2024-06-25 13:25:26.894431,Jill Roberts MD,Persistence,Exploitation of Vulnerability,Email,Low,fall,183.73.105.2,joshuajensen,Europe,Successful
+2022-05-08 13:15:54.114982,Diane Maldonado,Execution,Credential Dumping,Web,Low,nation,59.55.65.252,egardner,South America,Failed
+2022-06-10 09:57:40.339405,Courtney Flores,Discovery,Command and Scripting Interpreter,Network,High,during,201.23.164.23,joseph53,Asia,Failed
+2021-02-10 07:54:34.220993,Nicholas Bates,Impact,Taint Shared Content,Web,High,professor,40.133.106.136,uthomas,South America,Successful
+2020-07-18 09:11:34.098840,Mr. Vernon Carrillo,Privilege Escalation,Credential Dumping,Web,Low,money,18.250.184.252,gbowers,Australia,Failed
+2020-04-21 20:23:05.535921,Margaret Gamble,Persistence,Credential Dumping,Phishing,High,sure,201.115.93.23,lblevins,Asia,Failed
+2021-11-20 12:17:20.540290,Thomas Rose,Exfiltration,Network Sniffing,USB,Critical,why,30.49.36.95,stephaniebryan,US,Successful
+2021-11-02 11:19:33.215072,David Arroyo,Persistence,Exploitation of Vulnerability,USB,Low,recent,122.27.179.195,martinezkelly,Australia,Successful
+2023-10-16 04:52:06.019106,Patrick Petty,Credential Access,Data Encrypted,Phishing,Critical,strong,178.131.24.20,fhumphrey,Asia,Successful
+2024-04-13 17:32:41.161083,Jeff Hatfield,Impact,Credential Dumping,Phishing,High,first,169.25.18.157,perezscott,US,Successful
+2022-02-12 17:06:04.930598,Matthew Haney,Collection,Network Sniffing,Web,Low,several,49.149.178.132,colemanleslie,South America,Failed
+2021-02-15 13:30:11.068534,Patricia Evans,Discovery,Spearphishing Attachment,Network,Critical,wonder,52.4.183.151,caitlinmartin,US,Successful
+2021-11-13 09:04:30.635782,Robert Conley,Discovery,Spearphishing Attachment,Email,Medium,economic,76.68.102.194,scott12,US,Failed
+2021-10-03 03:23:10.009527,Robert Green,Execution,Credential Dumping,Email,Medium,city,48.195.33.197,munozpaige,Africa,Successful
+2020-10-14 06:45:34.777891,Judith Mendoza,Impact,Network Sniffing,USB,Medium,ok,125.167.57.184,lmendoza,Australia,Successful
+2023-06-22 09:42:05.462665,Yvonne Johnson,Impact,Command and Scripting Interpreter,Network,Medium,fact,138.217.112.77,joseph66,South America,Failed
+2021-10-26 10:33:44.548285,David Knight,Collection,Exploitation of Vulnerability,USB,Low,market,77.27.226.5,millerpaul,US,Failed
+2023-05-01 01:56:20.351843,Brian Oconnell,Persistence,Credential Dumping,Web,Low,none,20.6.0.55,judy21,Australia,Successful
+2024-08-21 05:08:28.346412,Brad Hanson,Execution,Access Token Manipulation,Web,High,condition,32.95.18.179,hkelley,Asia,Failed
+2024-02-15 11:12:31.160595,Joseph Tran,Credential Access,Phishing,Email,Critical,want,170.28.144.204,wlee,US,Failed
+2020-04-26 15:27:46.777006,Janet Huang,Execution,Taint Shared Content,Network,High,sport,92.87.245.94,teresaharrison,Australia,Failed
+2023-04-04 03:34:42.097506,David Johnson,Persistence,Taint Shared Content,Phishing,Critical,left,95.15.34.15,jeff75,Africa,Successful
+2023-08-17 02:27:30.670716,Angelica Cox,Defense Evasion,Phishing,USB,Medium,seven,165.7.102.201,clintonoconnell,Asia,Successful
+2021-10-05 16:59:32.666989,Barbara Graves,Lateral Movement,Data Encrypted,Network,Low,be,138.213.137.46,whitetimothy,US,Failed
+2021-01-31 00:58:07.048700,Karen Thomas,Impact,Taint Shared Content,Web,Low,after,71.36.173.80,davemyers,Africa,Failed
+2020-05-26 20:12:28.296684,Patrick Cervantes,Impact,Phishing,Network,Medium,charge,12.171.27.235,briansparks,South America,Successful
+2021-05-15 09:11:26.168095,Glen Mccormick,Initial Access,Credential Dumping,Network,Low,range,47.31.253.80,nealcraig,Australia,Successful
+2022-08-19 00:19:12.315401,Alyssa Brewer,Discovery,Command and Scripting Interpreter,Email,Critical,raise,206.147.16.244,wmitchell,South America,Failed
+2021-03-19 22:17:50.313530,Sharon Little,Initial Access,Access Token Manipulation,Web,High,few,160.4.95.247,michael97,South America,Failed
+2020-03-10 12:59:41.834966,Lee Castillo,Lateral Movement,Network Sniffing,USB,High,use,115.179.207.250,hillgregory,Africa,Successful
+2020-12-10 06:33:17.799336,Denise Brown,Privilege Escalation,Command and Scripting Interpreter,Web,High,watch,31.212.205.18,samantha80,Australia,Failed
+2022-02-02 18:33:48.151883,Ricky Holloway,Privilege Escalation,Phishing,Network,Low,kid,141.250.17.13,christopher22,Australia,Successful
+2024-09-18 12:26:09.596046,Colleen Nguyen,Discovery,PowerShell,Network,Low,he,218.28.3.58,jake37,South America,Failed
+2021-09-13 16:59:14.237058,Joel Miller,Collection,Ransomware,Web,Medium,none,46.208.78.54,petergonzales,South America,Successful
+2021-10-27 21:47:42.367299,Pamela Vang,Impact,Spearphishing Attachment,Web,Low,certainly,180.217.220.175,dclayton,US,Successful
+2024-03-12 13:51:57.910109,Douglas Logan,Impact,PowerShell,Network,High,you,98.211.179.36,harrisedward,Africa,Failed
+2023-05-11 00:15:00.962064,Michelle Chan,Initial Access,Spearphishing Attachment,Email,High,quickly,177.204.142.202,mooregary,Europe,Failed
+2020-12-24 01:22:27.588484,Gabrielle Horne,Persistence,Spearphishing Attachment,USB,Medium,create,176.116.57.222,nicholsoncody,Asia,Successful
+2021-08-13 16:20:57.123767,Mary Benitez,Defense Evasion,Network Sniffing,Network,High,fly,83.95.114.237,isantana,Asia,Successful
+2022-08-12 06:42:13.811876,Andrea Hernandez,Privilege Escalation,Spearphishing Attachment,Phishing,Low,coach,150.23.105.233,twilliams,South America,Failed
+2024-10-23 01:56:29.619908,Amber Moore,Execution,Phishing,Phishing,High,keep,59.226.129.67,ashley03,Europe,Failed
+2023-08-16 19:06:11.190561,Angela Rose,Lateral Movement,Exploitation of Vulnerability,USB,Critical,maintain,18.171.100.84,vanessa11,Australia,Failed
+2021-01-10 04:47:50.507543,Richard Villarreal,Execution,Data Encrypted,Email,Medium,economic,177.85.108.106,derrickhernandez,US,Successful
+2024-04-08 19:27:15.543524,Shawn Knight,Persistence,Spearphishing Attachment,Email,Low,thing,142.49.146.182,dustinbrown,Asia,Successful
+2023-12-26 22:52:34.950405,Katherine Clark,Privilege Escalation,Credential Dumping,USB,Medium,beat,153.162.82.214,bryan84,Australia,Failed
+2021-01-22 16:04:34.410814,Amanda Miller,Execution,Access Token Manipulation,Web,High,ready,112.111.215.142,zharris,US,Successful
+2022-04-23 04:04:22.299789,Thomas Ellis,Privilege Escalation,Command and Scripting Interpreter,Email,Low,various,105.80.196.124,joshuabyrd,Asia,Failed
+2020-07-20 20:43:13.600131,Mario Fuller,Exfiltration,Taint Shared Content,USB,Medium,collection,79.204.83.129,kevin89,Africa,Failed
+2020-05-06 23:46:27.515607,Vickie Huang,Defense Evasion,Network Sniffing,Email,Medium,behavior,182.54.187.88,gvelasquez,Africa,Successful
+2024-02-18 17:16:07.766073,Pam Garrett,Credential Access,Ransomware,Phishing,Medium,coach,134.159.236.155,cheryl79,US,Failed
+2020-03-27 14:08:10.938496,Brian Price,Initial Access,PowerShell,Web,Medium,blood,39.222.229.79,clarkjoshua,Europe,Successful
+2022-04-16 14:37:45.376756,Dennis Wright,Execution,Ransomware,Phishing,Medium,space,145.72.18.189,anthonysanchez,Australia,Failed
+2023-03-08 05:42:48.043129,Jessica Reeves,Credential Access,Taint Shared Content,Phishing,High,capital,120.57.29.223,qwhite,Africa,Successful
+2023-03-03 23:25:42.932151,Phillip Miller,Privilege Escalation,Spearphishing Attachment,Phishing,Medium,wish,149.215.109.74,andrewwhite,Europe,Failed
+2024-02-28 06:36:51.888364,Jeffrey Lewis,Impact,Access Token Manipulation,Network,Critical,chance,193.230.51.148,hvaldez,South America,Failed
+2022-04-20 12:35:20.820427,Lance Simpson,Privilege Escalation,PowerShell,USB,Low,series,209.164.51.47,tinaharris,Africa,Successful
+2021-04-22 19:45:02.883416,Anne Campbell,Impact,Credential Dumping,Phishing,Low,never,41.153.130.241,angelica44,Australia,Failed
+2024-06-19 11:31:33.726168,Kyle Johnson,Collection,Network Sniffing,USB,Medium,form,222.83.221.224,patrickgardner,Asia,Failed
+2023-05-09 15:16:53.049788,Paul Cooke,Credential Access,Ransomware,Network,High,body,134.109.198.177,willisjamie,Australia,Failed
+2024-04-15 04:45:29.182025,Gregory Jacobs,Defense Evasion,Taint Shared Content,USB,Critical,manager,7.184.158.106,butleralexandra,Africa,Failed
+2022-04-27 23:54:37.278947,Joe Price,Defense Evasion,Exploitation of Vulnerability,USB,High,beyond,41.101.0.29,marvin71,Africa,Successful
+2022-09-10 13:25:15.083179,Chad Cooper,Persistence,Exploitation of Vulnerability,Email,Low,billion,33.92.211.148,jjones,South America,Successful
+2024-09-08 22:39:26.096441,Sarah Castaneda,Initial Access,PowerShell,Network,High,particularly,22.164.61.183,madison05,US,Failed
+2022-12-10 10:20:50.565872,Dr. Alexandra Wood,Execution,Network Sniffing,USB,Low,forget,48.245.88.64,fwolfe,Asia,Failed
+2020-08-06 03:17:33.147861,John Humphrey,Initial Access,Exploitation of Vulnerability,Phishing,Critical,choice,51.70.140.58,jessica42,Europe,Failed
+2021-07-09 05:14:09.159658,Jasmine Alexander,Impact,Ransomware,Phishing,Medium,concern,32.134.103.204,nmurray,Asia,Failed
+2023-11-22 12:08:12.408465,Dustin Ryan,Impact,Phishing,Phishing,Medium,war,208.153.178.254,annahayes,Africa,Successful
+2020-05-23 17:12:16.661421,Mark Washington,Persistence,Data Encrypted,Phishing,High,grow,201.143.217.154,troy19,Europe,Failed
+2023-07-16 14:01:00.108641,Jennifer Odonnell,Collection,Command and Scripting Interpreter,Network,Critical,fast,106.179.2.25,phelpskarl,South America,Successful
+2020-04-09 21:12:43.394026,James Manning,Impact,Access Token Manipulation,USB,Medium,term,24.164.29.102,johnsonpaul,Australia,Failed
+2024-01-07 20:21:55.639921,Christopher Thompson,Execution,PowerShell,USB,High,general,76.78.61.75,ruben56,South America,Successful
+2020-09-30 23:03:56.817972,Samantha English,Execution,Ransomware,USB,Low,true,58.152.183.255,owensjacob,Asia,Successful
+2022-09-25 11:17:09.527729,Scott Lang,Credential Access,Network Sniffing,Phishing,Critical,vote,38.172.140.75,josewilkerson,South America,Successful
+2023-02-05 11:54:43.279189,Ronald Jones,Execution,Ransomware,Network,Critical,team,86.166.177.179,dbaker,Asia,Failed
+2020-03-28 12:26:23.643431,Terri Frank,Privilege Escalation,Credential Dumping,Web,Low,foot,41.210.196.19,emily32,South America,Failed
+2024-07-08 22:05:06.763402,Alyssa Taylor,Lateral Movement,Taint Shared Content,Email,High,enter,154.42.225.93,christopher01,Europe,Successful
+2021-01-21 00:09:19.620008,Christopher Gray,Execution,Exploitation of Vulnerability,Web,High,work,109.163.104.93,mcintoshsamantha,Asia,Successful
+2023-09-06 20:39:32.419237,Miss Kristin Freeman,Discovery,Phishing,Network,Medium,realize,104.225.111.237,samuelcallahan,South America,Successful
+2021-07-03 07:08:28.021846,Victor Sanchez,Exfiltration,Network Sniffing,Web,Low,cause,215.111.104.213,simmonschristopher,Asia,Successful
+2024-05-17 09:18:57.509450,Joanne Fuller,Lateral Movement,Network Sniffing,USB,High,evidence,107.244.171.246,victorialopez,South America,Successful
+2023-08-09 23:27:31.624349,Rebecca Riley,Exfiltration,Command and Scripting Interpreter,Web,Medium,upon,181.19.106.22,ebennett,Africa,Failed
+2022-10-17 17:47:17.483270,Crystal Graham,Discovery,Phishing,Phishing,High,herself,110.122.75.134,jaime62,US,Failed
+2020-10-30 17:52:52.673280,Latoya Ramirez,Discovery,Command and Scripting Interpreter,Phishing,Critical,red,176.43.39.65,amalone,US,Failed
+2021-04-02 21:45:45.881206,Miguel Robbins,Persistence,Command and Scripting Interpreter,Web,Critical,cost,105.74.76.34,gilbertjoshua,Africa,Successful
+2020-03-14 19:34:08.699939,Robert Mann,Collection,PowerShell,Email,High,best,75.63.235.223,tonya67,South America,Failed
+2022-11-01 14:07:07.263151,Christopher Jenkins,Lateral Movement,Data Encrypted,Phishing,Critical,party,56.213.165.105,david98,South America,Successful
+2021-08-13 05:27:56.927572,Richard Rodriguez,Defense Evasion,Command and Scripting Interpreter,Network,High,me,84.219.57.15,alicia00,South America,Successful
+2021-10-12 17:59:10.033334,Nicole Chang,Lateral Movement,Phishing,USB,Critical,scene,179.49.183.239,rivascameron,Africa,Failed
+2020-01-17 12:19:34.064789,Patricia Medina,Collection,Spearphishing Attachment,Network,Critical,tree,151.97.76.59,barbara16,Europe,Failed
+2021-10-21 05:26:24.034307,Philip Jacobson,Impact,Network Sniffing,Phishing,Low,pattern,174.23.103.177,robert10,Africa,Successful
+2021-06-19 01:14:54.385227,Jason Harris,Lateral Movement,Access Token Manipulation,Phishing,High,follow,216.186.227.48,denise97,South America,Failed
+2021-11-10 07:35:19.347231,Ms. Carol Miller DVM,Collection,Taint Shared Content,Network,Medium,table,162.59.229.80,jeffrey14,Europe,Successful
+2020-11-23 04:19:07.154500,John Byrd,Discovery,Access Token Manipulation,Phishing,Low,way,63.26.155.69,teresa59,Australia,Failed
+2023-05-29 16:34:38.959554,Marissa Forbes,Privilege Escalation,Spearphishing Attachment,Phishing,Low,build,203.15.253.207,briannalee,Africa,Successful
+2022-04-23 10:18:33.459419,Julie Koch,Credential Access,PowerShell,Email,Low,make,85.139.231.200,gvillegas,Africa,Failed
+2021-12-13 19:10:53.318275,Ashley May,Exfiltration,Exploitation of Vulnerability,Web,Low,charge,136.29.42.34,paullewis,Asia,Failed
+2022-12-15 15:19:52.046190,David Taylor,Persistence,Network Sniffing,Web,High,itself,186.105.223.185,amyle,Africa,Successful
+2022-10-22 04:57:09.765867,Melissa Johnson,Persistence,Exploitation of Vulnerability,USB,High,probably,169.24.12.195,jennifer51,US,Successful
+2022-03-30 11:31:05.589123,Michelle Holland,Privilege Escalation,Taint Shared Content,Phishing,Critical,hundred,21.254.69.154,eestrada,Africa,Successful
+2024-08-03 18:57:40.064354,Robert Reyes,Defense Evasion,Access Token Manipulation,Email,Medium,know,151.74.124.208,stephenyoung,US,Successful
+2022-07-02 21:13:48.593834,Edwin Dalton,Defense Evasion,Command and Scripting Interpreter,USB,High,realize,182.85.138.17,joyce58,South America,Failed
+2022-05-16 20:48:33.489276,Michael Daniels,Credential Access,PowerShell,USB,Critical,hit,150.34.104.76,tracy08,Asia,Successful
+2020-02-04 17:45:50.549030,Amy Patel,Initial Access,Access Token Manipulation,Email,Critical,art,74.64.128.249,davidthompson,Asia,Failed
+2022-06-23 08:48:48.666403,Brenda Mitchell,Exfiltration,Command and Scripting Interpreter,USB,Low,fill,161.107.50.140,harrisonkayla,US,Successful
+2020-10-25 18:56:02.444575,Robert Leonard,Discovery,Credential Dumping,Network,Medium,fill,89.36.24.214,orrsara,Africa,Failed
+2023-12-20 01:45:18.325294,Joshua Vazquez,Execution,Command and Scripting Interpreter,Email,Low,enough,60.45.242.191,jonesluis,South America,Failed
+2020-04-23 21:24:04.492453,Michael Jones,Persistence,Credential Dumping,Phishing,Medium,individual,25.56.224.162,susanyoung,US,Successful
+2023-02-23 01:54:56.104785,Stacey Evans,Discovery,PowerShell,Email,High,road,65.241.82.72,robinsonsabrina,Europe,Failed
+2023-02-28 17:47:38.304093,Veronica Sullivan,Initial Access,PowerShell,Web,Low,part,162.128.30.252,bhubbard,Europe,Successful
+2024-04-18 10:39:27.512807,Julie Jensen,Collection,Exploitation of Vulnerability,USB,High,hotel,199.187.243.107,imccoy,Australia,Successful
+2020-03-11 13:11:23.698629,Ronald Howard,Discovery,Access Token Manipulation,Web,Medium,no,108.136.191.36,goodmankathleen,US,Successful
+2020-09-24 14:14:57.859253,Joshua Valenzuela,Privilege Escalation,Credential Dumping,Phishing,Medium,himself,40.84.187.247,juliahenderson,Asia,Successful
+2021-09-02 02:46:51.609058,Victoria Marshall,Privilege Escalation,Access Token Manipulation,USB,Medium,build,31.141.177.166,deborah58,Europe,Failed
+2020-12-17 02:44:35.393977,Kenneth Cummings,Lateral Movement,Exploitation of Vulnerability,Email,Low,far,53.130.55.65,knicholson,Europe,Successful
+2022-06-24 02:19:34.845323,Mark Hale,Defense Evasion,Access Token Manipulation,Network,Medium,play,24.99.59.147,nodonnell,South America,Failed
+2020-05-07 04:59:28.468235,Caroline Rodriguez,Credential Access,Taint Shared Content,USB,Medium,until,35.169.219.41,jonesandrea,Asia,Failed
+2024-02-13 07:25:12.268248,Mr. Michael Benton,Exfiltration,Phishing,USB,Low,together,92.185.120.140,amandaellis,Asia,Failed
+2021-10-26 16:43:32.544330,Pamela Monroe,Execution,Credential Dumping,Network,Low,pull,108.172.66.123,lindseysullivan,US,Successful
+2021-11-10 15:15:30.445729,Stephanie Salazar,Initial Access,Spearphishing Attachment,Network,Low,woman,130.87.137.169,xlewis,South America,Successful
+2020-12-06 14:19:19.637174,Cathy Mason,Execution,Spearphishing Attachment,Phishing,Medium,yourself,93.184.84.26,ublanchard,Australia,Failed
+2020-05-03 00:38:09.895744,Eric Castillo,Defense Evasion,Phishing,Phishing,High,debate,25.138.48.111,tina37,US,Failed
+2020-06-28 16:05:46.689544,Ann Martinez,Impact,Taint Shared Content,Email,High,bag,99.84.45.168,tbarnes,Europe,Failed
+2024-05-15 22:55:04.978210,Sara Prince,Collection,Command and Scripting Interpreter,Email,Medium,sing,3.94.245.59,nmason,Australia,Failed
+2020-10-05 02:04:54.326025,Steve Brown,Defense Evasion,Network Sniffing,Phishing,Critical,commercial,215.208.254.70,morrisdestiny,Australia,Failed
+2022-09-17 17:02:27.971897,Heather Howell,Collection,Phishing,Phishing,High,across,191.169.207.171,jonesbrittney,Africa,Failed
+2022-06-19 18:28:34.526922,Sheila Martin,Impact,Spearphishing Attachment,USB,Medium,crime,30.248.79.115,rserrano,Europe,Successful
+2022-10-27 22:25:20.076388,Lisa White,Discovery,Access Token Manipulation,Web,Medium,weight,205.141.57.18,micheal61,Africa,Failed
+2022-08-26 23:13:30.315170,Timothy Smith,Defense Evasion,Spearphishing Attachment,Web,Critical,cut,98.109.33.17,johnsonchristopher,South America,Failed
+2023-07-17 00:27:49.486043,Kimberly Ward,Collection,PowerShell,Email,Low,both,23.66.53.142,billyballard,Asia,Successful
+2022-06-25 14:57:11.745560,George Cooper,Persistence,Credential Dumping,Email,Critical,laugh,48.156.218.145,gtaylor,US,Failed
+2023-01-15 21:15:44.840836,Tiffany Hawkins,Execution,Taint Shared Content,Email,Critical,heavy,135.94.41.230,eric79,Europe,Successful
+2021-03-16 11:49:01.128897,Eduardo Johnson,Impact,Taint Shared Content,Phishing,High,window,140.21.68.132,kristenrowe,Australia,Failed
+2023-10-07 09:59:11.566600,Lisa Scott,Exfiltration,Access Token Manipulation,Web,High,rate,132.218.132.243,nicholas44,Australia,Failed
+2023-02-07 08:15:26.560916,Justin Franco,Defense Evasion,Spearphishing Attachment,Web,Medium,require,189.166.36.164,juliatran,Africa,Failed
+2023-12-24 11:37:33.803276,Regina Pennington,Execution,Credential Dumping,Web,Critical,rather,133.219.214.97,melindaspencer,Asia,Successful
+2021-04-20 19:40:23.630906,Nathan Rivas,Collection,Spearphishing Attachment,Email,Critical,why,161.62.213.237,michelleholland,Asia,Failed
+2022-07-20 08:07:30.163937,Bethany Bailey,Defense Evasion,Access Token Manipulation,Email,Critical,sea,189.175.228.107,lucascourtney,Africa,Failed
+2022-04-11 08:43:45.787921,Elizabeth Hudson,Defense Evasion,Access Token Manipulation,Web,Medium,major,209.211.20.62,hortontimothy,US,Successful
+2021-05-03 17:49:31.623364,Rebecca Patel,Defense Evasion,Exploitation of Vulnerability,Web,High,throughout,3.63.162.129,rthompson,Africa,Successful
+2021-09-01 22:18:36.961536,Sandra Mendoza,Privilege Escalation,Network Sniffing,Phishing,Critical,minute,53.227.129.12,emma02,US,Successful
+2020-06-12 23:26:24.484849,Alexis Fernandez,Credential Access,Credential Dumping,Email,Medium,could,99.239.223.222,laurarocha,Australia,Failed
+2024-07-11 18:41:02.050714,James Sandoval,Discovery,PowerShell,USB,Low,evening,201.168.33.252,careymarcus,Australia,Successful
+2022-08-17 14:38:31.826074,Matthew Howard,Lateral Movement,Ransomware,Web,High,toward,143.7.116.218,george59,Asia,Failed
+2024-06-16 17:00:31.807559,Tracy Smith,Persistence,Phishing,Web,Medium,process,94.101.175.76,sheilamcfarland,South America,Failed
+2022-05-21 11:41:19.726714,Thomas Turner,Lateral Movement,Access Token Manipulation,Phishing,Low,administration,223.53.38.72,matthewrobinson,Asia,Failed
+2021-07-18 01:03:08.146519,Joseph Carlson,Exfiltration,Spearphishing Attachment,Email,Medium,base,185.82.221.118,ronald11,Europe,Successful
+2024-07-31 01:48:19.721860,Alicia Bailey,Lateral Movement,Exploitation of Vulnerability,Network,High,southern,54.152.180.200,jacobsbrett,Asia,Failed
+2022-11-06 17:22:43.667623,Tammy Cook DDS,Privilege Escalation,Data Encrypted,Email,Low,than,104.33.107.28,handerson,South America,Failed
+2022-12-17 05:54:13.813949,Christopher Mccarthy,Credential Access,Command and Scripting Interpreter,Web,Critical,anything,166.43.179.132,harveydoris,Australia,Failed
+2024-03-07 03:11:39.224878,Katherine Smith,Impact,Credential Dumping,Phishing,Medium,which,202.32.8.233,lisa14,Asia,Failed
+2021-09-01 09:34:42.672886,Jeffrey Lawrence DVM,Credential Access,PowerShell,Web,Critical,next,96.255.161.222,nevans,Australia,Successful
+2020-01-15 17:12:32.411851,Jason Bradshaw,Initial Access,PowerShell,USB,High,book,176.7.10.151,matthewdrake,Africa,Successful
+2021-08-18 08:32:49.712533,Judy Padilla,Lateral Movement,Command and Scripting Interpreter,Network,Critical,lead,32.132.107.4,amber68,Asia,Successful
+2022-02-24 04:08:46.944841,Mr. Christian Martin DDS,Impact,Spearphishing Attachment,USB,Medium,town,10.103.232.91,amber30,Australia,Successful
+2021-05-03 04:20:25.329599,Amber May,Exfiltration,Credential Dumping,Email,Medium,fire,150.208.43.117,johnwilkins,Asia,Failed
+2023-01-16 08:22:31.906914,Grace Jackson,Discovery,Access Token Manipulation,Web,Critical,gun,124.221.16.28,owenjohn,Africa,Successful
+2024-08-15 22:17:21.850109,Billy Palmer,Lateral Movement,Network Sniffing,Network,Low,physical,160.106.69.211,holtdonald,US,Failed
+2021-05-30 08:37:49.600405,Yvonne Miller,Discovery,Spearphishing Attachment,Network,Low,team,93.59.205.99,brian21,Asia,Failed
+2021-05-13 12:13:06.938508,Brett Mueller,Privilege Escalation,PowerShell,Network,Critical,win,195.134.55.127,rramirez,Africa,Successful
+2022-07-17 22:03:34.870149,David Richmond,Impact,Data Encrypted,Web,Critical,common,210.87.25.89,jessica48,US,Failed
+2020-07-19 06:23:09.968530,Maria Adkins,Collection,Ransomware,Network,Medium,beat,62.95.238.175,jacksonhaley,Europe,Successful
+2024-04-11 16:49:26.599143,Robert Fisher,Discovery,Network Sniffing,Network,Critical,hair,64.11.38.195,prestonwhite,US,Successful
+2021-12-24 12:42:32.409865,Jimmy Johnson,Defense Evasion,Command and Scripting Interpreter,Network,Critical,cut,179.156.90.64,brandonshah,Africa,Successful
+2020-04-19 18:01:36.269454,Kristen Fuller,Persistence,Network Sniffing,Email,Medium,standard,3.45.163.129,diazthomas,Australia,Successful
+2023-06-27 01:36:11.999525,Jeremy Dunn,Lateral Movement,Credential Dumping,Web,Critical,step,168.116.146.149,vwade,Europe,Failed
+2021-05-10 22:49:40.967235,Mary Wall,Execution,Taint Shared Content,Web,High,concern,8.170.128.210,kevin24,South America,Failed
+2024-02-08 19:58:25.246103,Alexis Pearson,Persistence,Taint Shared Content,Email,Critical,know,206.245.71.57,dunlapbrian,Australia,Failed
+2021-01-14 10:37:48.802944,Kathleen Lee,Defense Evasion,Spearphishing Attachment,Phishing,High,half,52.202.54.190,nwright,Europe,Successful
+2023-03-16 11:24:07.784379,Bruce Hale,Impact,Network Sniffing,Email,High,away,154.177.35.17,katiecarter,Europe,Failed
+2021-02-13 12:54:34.760882,Hector Bird,Initial Access,Data Encrypted,Network,Medium,for,178.45.187.122,ucoleman,US,Successful
+2023-07-14 10:28:01.205685,Ashley Martinez,Execution,Access Token Manipulation,Network,Critical,race,191.32.210.7,stevenescobar,US,Failed
+2024-10-01 17:28:33.515221,Jerome Hendrix,Impact,Access Token Manipulation,Phishing,Critical,then,183.78.7.40,evansjeremy,Europe,Successful
+2020-09-02 18:27:49.753736,Crystal Young,Defense Evasion,Data Encrypted,Phishing,High,most,216.193.213.16,christopher41,Europe,Failed
+2020-04-16 10:30:44.856913,Mikayla Espinoza,Defense Evasion,Access Token Manipulation,Web,Critical,mean,15.254.137.23,carrieschwartz,US,Successful
+2024-09-09 20:40:35.432455,Steven Brewer,Defense Evasion,Spearphishing Attachment,USB,High,that,134.46.197.2,littlehaley,Europe,Failed
+2023-10-13 01:42:08.743036,Christopher Smith,Exfiltration,Ransomware,Web,Critical,bed,17.78.223.82,carmenwilliams,US,Failed
+2023-10-05 11:08:47.651741,Kenneth Hayes,Lateral Movement,Taint Shared Content,Network,Low,full,120.158.200.126,davidbennett,Africa,Successful
+2023-01-05 05:06:42.331053,Heather Allen,Privilege Escalation,Network Sniffing,Phishing,High,nearly,145.31.81.59,stanleyerika,Asia,Successful
+2021-01-27 23:34:30.317415,Bridget Malone,Credential Access,Access Token Manipulation,Web,Low,and,1.203.248.95,jefferydavis,Australia,Failed
+2022-05-01 03:20:19.076827,Logan Estes,Lateral Movement,Access Token Manipulation,Phishing,Medium,coach,72.189.93.80,leonrobert,Asia,Failed
+2021-01-07 01:29:46.698889,Andrew Stewart DDS,Execution,Ransomware,Phishing,Medium,head,147.166.82.59,larry13,US,Successful
+2022-07-21 12:58:48.782159,Heidi Williams,Collection,Taint Shared Content,Phishing,High,ahead,201.232.156.42,markbanks,South America,Successful
+2023-01-23 15:35:14.959903,Kendra Fitzgerald,Persistence,PowerShell,USB,Low,million,54.145.184.207,dunnwilliam,Australia,Successful
+2022-04-08 06:21:22.156227,James David,Initial Access,PowerShell,Web,High,most,107.229.155.184,emily58,Asia,Successful
+2022-06-01 13:45:49.097866,Heather Smith,Initial Access,Exploitation of Vulnerability,Email,High,positive,155.201.220.13,jessica43,Europe,Successful
+2020-06-09 02:11:21.070438,Kristina Nelson,Exfiltration,PowerShell,USB,High,walk,34.129.96.37,gvasquez,US,Successful
+2022-12-28 09:14:58.609281,Brandon Johnson,Credential Access,Credential Dumping,Web,Medium,receive,126.76.250.133,ohouston,Europe,Successful
+2022-12-16 20:13:21.132137,Melissa Gentry PhD,Privilege Escalation,Spearphishing Attachment,Email,Medium,short,78.174.12.178,zbarr,Europe,Successful
+2023-01-11 05:02:42.587457,Paul Bates,Initial Access,Taint Shared Content,Network,Critical,blue,192.187.67.5,ehuynh,Australia,Successful
+2020-06-27 15:00:12.884271,Lynn Ross,Privilege Escalation,Ransomware,Network,High,people,131.145.165.135,wagneryvonne,US,Failed
+2020-08-25 20:58:00.983039,Jasmine Smith,Privilege Escalation,Network Sniffing,Email,Low,eight,36.241.99.191,mossalyssa,Africa,Successful
+2020-10-12 09:40:54.492931,James Patel,Persistence,Ransomware,Phishing,Low,spend,59.29.204.157,hernandezjohnny,South America,Successful
+2022-09-30 10:34:58.384417,Jennifer Hammond,Exfiltration,Command and Scripting Interpreter,Network,Critical,back,49.216.216.122,sanchezjacqueline,Asia,Failed
+2020-08-05 07:49:46.297292,Tracey Smith,Impact,Credential Dumping,Phishing,High,society,49.204.162.236,smithdalton,South America,Successful
+2021-02-02 08:08:45.966826,Dale Kelly,Exfiltration,Network Sniffing,USB,Critical,phone,101.25.4.64,william32,Europe,Successful
+2023-09-11 14:29:06.857598,Marcus Allen,Collection,Command and Scripting Interpreter,Email,Critical,blue,78.179.239.79,lozanomelanie,US,Successful
+2021-11-25 07:51:39.185600,Jordan Kelly,Defense Evasion,Data Encrypted,Network,High,positive,69.179.141.17,cyoung,South America,Successful
+2023-07-23 09:14:52.908052,Taylor Cisneros,Defense Evasion,PowerShell,Email,Critical,oil,69.76.178.76,reynoldsbonnie,Africa,Failed
+2024-06-10 23:18:03.464176,Joseph King,Lateral Movement,PowerShell,Web,Low,but,63.2.221.254,matthew11,Europe,Failed
+2024-10-10 19:14:29.175367,Madeline Turner,Collection,Phishing,USB,Medium,condition,59.14.241.226,guymartinez,US,Successful
+2021-07-11 20:16:08.769202,Dylan Gutierrez,Credential Access,Taint Shared Content,Web,High,bit,162.27.55.201,ryan27,US,Successful
+2020-06-05 05:03:47.843296,Margaret Robinson,Lateral Movement,Exploitation of Vulnerability,Email,Medium,exist,160.45.204.218,heathercampbell,Australia,Failed
+2024-10-04 02:15:33.982626,Jerry Pierce,Execution,Credential Dumping,Network,Medium,arm,24.29.240.161,qpollard,Africa,Successful
+2021-07-01 12:34:32.038427,Mrs. Crystal Herrera,Initial Access,Spearphishing Attachment,Web,Low,culture,131.103.153.115,rreyes,US,Successful
+2023-10-18 03:43:29.110769,Dustin Gardner,Initial Access,Phishing,USB,Critical,toward,152.173.103.98,sydneymercer,Africa,Successful
+2023-05-13 13:03:40.597049,Ashley Gomez,Exfiltration,Access Token Manipulation,Network,High,apply,112.200.67.190,juliaherrera,Australia,Failed
+2021-07-29 08:00:27.362582,Tina Walker,Persistence,Command and Scripting Interpreter,Email,High,bag,143.8.123.198,rachelrandolph,Africa,Failed
+2023-12-05 17:25:11.380619,Edward Jacobs,Impact,Phishing,Network,Low,government,110.56.231.75,braunwilliam,Africa,Successful
+2023-01-22 02:04:07.716971,Lori Reid,Credential Access,Command and Scripting Interpreter,Web,High,successful,187.249.172.206,vegajeremy,Africa,Successful
+2024-09-26 00:48:51.287566,Joanne Brown,Discovery,Exploitation of Vulnerability,Phishing,Medium,simply,186.191.234.80,brianacollier,Africa,Successful
+2020-09-06 17:35:59.098163,Claudia Thompson,Exfiltration,Taint Shared Content,Phishing,Low,public,103.125.44.67,icarroll,South America,Successful
+2024-10-04 16:35:36.566760,Nicole Green,Defense Evasion,Network Sniffing,Email,Medium,area,70.107.189.100,blairadrian,Europe,Failed
+2021-11-19 23:03:15.809087,Christine Jones,Lateral Movement,Spearphishing Attachment,Web,High,politics,40.188.205.196,rojaskeith,Africa,Failed
+2020-08-31 13:20:29.147737,Madeline Gill,Privilege Escalation,Ransomware,USB,Low,employee,188.221.205.74,changkelly,South America,Successful
+2023-11-11 10:48:51.558933,Tiffany Floyd,Execution,Exploitation of Vulnerability,Web,Critical,election,147.234.175.181,ghunter,South America,Failed
+2023-06-15 22:52:03.583593,Morgan Moore,Initial Access,Credential Dumping,Phishing,Low,fear,106.208.127.73,robertsnancy,Australia,Successful
+2021-11-06 10:09:34.608484,Jill Blake,Collection,PowerShell,Phishing,High,central,87.6.36.162,jonesjoseph,Australia,Failed
+2020-05-08 06:50:33.935975,David Kerr,Privilege Escalation,Network Sniffing,Phishing,Medium,peace,138.17.245.187,phillipramos,Australia,Successful
+2024-07-23 00:21:50.131222,Lindsey Costa,Execution,Taint Shared Content,Network,High,minute,154.134.160.21,meyercalvin,Africa,Successful
+2022-02-06 18:43:26.914654,Paul Patel,Discovery,PowerShell,Web,High,back,176.66.180.171,gtucker,Europe,Successful
+2020-04-14 11:24:54.893274,Tonya Grant,Privilege Escalation,Credential Dumping,Web,High,future,167.124.55.22,qlane,US,Successful
+2020-01-27 18:27:00.870075,Makayla Massey,Execution,Exploitation of Vulnerability,Network,Medium,sport,4.228.148.212,amylopez,Australia,Successful
+2020-07-16 10:53:33.364072,Sarah Roberson,Collection,Command and Scripting Interpreter,Network,Low,ready,154.57.9.205,jeannenguyen,Australia,Successful
+2022-12-31 03:58:56.452150,Gary Nelson,Privilege Escalation,Taint Shared Content,USB,Low,usually,100.160.110.104,christopherstephenson,Australia,Successful
+2022-06-09 03:16:30.589391,Brian Weber,Discovery,Spearphishing Attachment,Email,Low,both,108.237.210.144,ballsally,Asia,Successful
+2024-08-07 13:49:59.476260,George Crawford,Collection,Spearphishing Attachment,Network,Low,reason,50.95.149.131,gonzalezjenny,Europe,Failed
+2024-01-23 21:04:58.540579,Crystal Bell,Discovery,Exploitation of Vulnerability,Phishing,Critical,market,70.144.48.178,njohnson,US,Failed
+2021-08-26 13:53:23.575768,Miranda Carpenter,Defense Evasion,Exploitation of Vulnerability,Email,Critical,peace,68.130.136.96,sarah20,Europe,Failed
+2022-05-08 16:22:23.212966,Alan Smith,Lateral Movement,Command and Scripting Interpreter,Network,Low,show,50.134.226.107,grantbilly,Europe,Failed
+2020-07-02 07:40:18.782972,Steven Levine,Persistence,Credential Dumping,Email,Critical,why,182.217.33.218,scottdougherty,Australia,Failed
+2024-07-19 03:06:38.381075,Alexandra Bailey,Impact,Command and Scripting Interpreter,Network,Critical,defense,152.28.222.153,joshua69,Africa,Failed
+2020-10-08 20:10:52.259016,William Evans,Privilege Escalation,Credential Dumping,Network,Critical,individual,24.243.85.219,blackdana,Europe,Successful
+2024-08-08 15:05:54.514649,George Wise,Defense Evasion,Network Sniffing,USB,High,own,26.173.35.38,michellesims,Africa,Failed
+2023-07-25 08:45:13.558703,Mr. Raymond Lucas Jr.,Privilege Escalation,Taint Shared Content,USB,Medium,should,142.101.57.226,james70,South America,Successful
+2024-10-27 10:44:40.450102,Bruce Tapia,Collection,Access Token Manipulation,Network,Medium,father,60.44.32.36,ewiley,Europe,Successful
+2024-02-22 21:55:39.026649,Melissa Williams,Defense Evasion,PowerShell,Email,Low,street,140.90.255.96,daniel93,Australia,Successful
+2021-04-27 21:12:58.947672,Julie Pearson,Credential Access,Exploitation of Vulnerability,Email,Low,oil,218.86.43.193,groach,Europe,Successful
+2023-01-24 09:47:12.193343,John Martin,Discovery,Credential Dumping,Email,Critical,begin,117.13.55.55,sbaker,Australia,Successful
+2024-01-03 07:06:42.750005,Deborah Smith,Collection,Access Token Manipulation,USB,High,spend,200.44.146.229,xevans,US,Failed
+2023-08-02 04:27:00.639802,James Brown,Impact,Command and Scripting Interpreter,Phishing,High,bill,187.66.244.191,istanton,Africa,Successful
+2022-07-13 11:04:13.347906,Andrea Bell,Discovery,Access Token Manipulation,Email,Low,young,204.169.13.113,krivera,Australia,Failed
+2024-07-04 09:17:14.800003,Amber Roberts,Initial Access,Spearphishing Attachment,USB,Low,light,154.139.26.26,brettwilliams,Australia,Failed
+2023-07-05 23:34:45.687622,Annette Russo,Lateral Movement,PowerShell,Phishing,Medium,cup,18.72.11.200,gina79,Asia,Failed
+2022-09-23 20:58:30.434868,Mr. Dustin George,Exfiltration,Ransomware,USB,High,figure,114.94.54.146,roy63,US,Successful
+2020-10-19 11:37:44.786489,Jessica Adams,Privilege Escalation,Phishing,Phishing,High,admit,61.95.135.77,fergusonelizabeth,Asia,Successful
+2021-09-09 14:33:34.295923,Amy Jenkins,Execution,Access Token Manipulation,Network,High,always,149.56.228.163,mccluremichael,Europe,Failed
+2022-01-02 17:55:07.204741,Ann Webb,Lateral Movement,PowerShell,Phishing,Critical,go,88.143.155.131,meyerstephanie,Europe,Failed
+2020-11-23 18:58:21.874064,Joanna Robles,Privilege Escalation,Phishing,Network,High,idea,151.222.127.181,ojimenez,Africa,Failed
+2020-01-17 17:41:59.405969,Stephanie Schroeder,Defense Evasion,Credential Dumping,Phishing,Low,participant,128.57.168.163,qboyer,Europe,Failed
+2020-02-25 06:43:37.949016,Lauren Lane,Lateral Movement,Taint Shared Content,Web,Medium,eye,202.83.209.60,jason12,Australia,Failed
+2020-06-12 07:56:06.420846,Mrs. Kristina Alexander,Privilege Escalation,Ransomware,Email,Low,must,63.17.9.26,wlee,Asia,Successful
+2024-05-23 06:03:56.912444,Amy Davis,Initial Access,Exploitation of Vulnerability,Web,Medium,design,55.121.23.203,fergusonbryan,US,Failed
+2024-11-05 20:27:55.621472,Holly Wright,Privilege Escalation,Access Token Manipulation,Email,High,seek,45.137.86.182,taylorrobert,Africa,Successful
+2023-08-14 23:34:07.629224,Sheila Archer,Collection,Access Token Manipulation,Phishing,Medium,institution,129.9.235.235,shelbybird,Africa,Failed
+2022-04-20 03:57:06.681081,Michael Price,Initial Access,Exploitation of Vulnerability,Web,Critical,rate,185.109.211.6,belliott,Asia,Successful
+2022-10-31 08:31:47.441661,Jonathan Hill,Execution,Network Sniffing,USB,High,position,12.63.32.213,patrickvilla,Asia,Successful
+2022-03-24 15:03:22.078907,Pamela Gonzalez,Collection,Network Sniffing,Network,High,building,43.86.180.183,ochoajennifer,Africa,Failed
+2020-08-22 08:05:54.377506,Richard Green,Persistence,Credential Dumping,Web,Critical,offer,160.100.119.236,crystalhebert,Australia,Failed
+2021-04-08 15:28:58.247364,Michael Rose,Collection,Credential Dumping,Phishing,Low,nice,160.179.223.138,margaret58,Asia,Failed
+2022-01-25 16:13:05.587363,Brian Garcia,Lateral Movement,Taint Shared Content,Email,High,laugh,142.248.226.67,hsalazar,Asia,Successful
+2022-01-20 14:24:36.113247,Theresa Hart,Initial Access,Credential Dumping,Web,High,company,69.12.91.138,william74,Asia,Failed
+2022-05-05 17:33:54.012371,Jennifer Zuniga,Exfiltration,Network Sniffing,Web,Low,design,122.246.82.205,jeanavery,US,Failed
+2023-03-04 23:59:26.748279,Elizabeth Lloyd,Exfiltration,Access Token Manipulation,Email,Critical,side,185.168.147.7,delacruzjessica,South America,Failed
+2021-04-04 14:23:12.487026,Nancy Brewer,Lateral Movement,Command and Scripting Interpreter,USB,Low,draw,97.44.21.56,kfuller,Asia,Successful
+2020-08-12 00:14:10.267580,David Gonzalez,Defense Evasion,Command and Scripting Interpreter,USB,Critical,wonder,172.224.138.135,benjamin29,Africa,Successful
+2023-10-22 02:45:22.433343,Julian Mcintosh,Execution,Spearphishing Attachment,Phishing,High,five,61.181.104.223,phogan,South America,Failed
+2022-03-12 14:42:03.582970,Kevin Wells,Initial Access,Ransomware,Email,Critical,direction,214.26.53.183,eddiewalker,Asia,Successful
+2021-11-05 09:09:21.620506,Brenda Martinez,Execution,Access Token Manipulation,Network,Low,executive,138.157.30.93,fboyer,Europe,Failed
+2024-02-21 05:19:03.631085,Jessica James,Discovery,Data Encrypted,USB,Medium,environmental,183.117.236.120,fdavis,Australia,Successful
+2023-10-16 15:28:56.437640,Kenneth Sullivan,Impact,Command and Scripting Interpreter,Email,Low,reason,33.82.49.3,kathleencarter,South America,Failed
+2021-10-13 16:41:50.881078,Paul Murray,Persistence,Spearphishing Attachment,Email,Low,marriage,73.244.59.66,alexis07,Asia,Successful
+2023-05-17 17:08:53.913823,Crystal Gray,Collection,PowerShell,Phishing,High,benefit,84.133.204.227,pchang,Australia,Failed
+2024-01-12 11:59:03.717997,Daniel Hoover,Exfiltration,Spearphishing Attachment,Phishing,Critical,service,122.172.24.40,gevans,US,Failed
+2021-10-05 23:34:58.014533,David Morrison,Persistence,Data Encrypted,Phishing,Medium,probably,57.21.95.61,luiswu,South America,Failed
+2024-08-04 13:23:32.536338,Timothy Hoover,Defense Evasion,Data Encrypted,Network,Low,image,170.24.112.206,myersandrew,Australia,Successful
+2020-01-04 17:37:22.995549,James Blackwell,Initial Access,Credential Dumping,Web,Medium,room,31.52.41.33,waltersamy,US,Successful
+2022-02-12 17:42:45.353682,Andrew Zimmerman,Defense Evasion,Phishing,Web,Medium,or,158.0.110.225,eric76,Europe,Successful
+2021-03-01 17:29:42.595104,Casey Cunningham,Discovery,Access Token Manipulation,Network,Low,tree,140.66.116.48,matthewjohnson,Asia,Successful
+2020-11-24 21:37:26.504170,Joseph Taylor,Privilege Escalation,Data Encrypted,Phishing,Low,political,134.219.81.222,mark93,South America,Successful
+2022-06-04 08:10:53.963564,Antonio Hudson,Defense Evasion,Access Token Manipulation,Email,High,hundred,147.105.67.87,joshuagutierrez,South America,Successful
+2022-10-23 12:55:40.157960,Courtney Williams,Impact,Ransomware,Phishing,Low,quality,192.134.75.195,patrickconley,US,Successful
+2022-11-16 08:21:52.448648,Todd Ritter,Defense Evasion,Access Token Manipulation,Network,Critical,somebody,48.120.224.100,edward15,South America,Failed
+2021-07-15 12:52:31.721972,Earl Roman,Initial Access,Access Token Manipulation,Phishing,High,culture,156.127.105.148,stephanielopez,Africa,Failed
+2023-06-30 07:12:37.363805,Garrett Harris,Exfiltration,Spearphishing Attachment,Web,Medium,power,109.134.188.27,spencerbrendan,Australia,Failed
+2022-05-17 19:00:25.080817,Randy Mcdonald,Credential Access,Phishing,Network,Critical,area,113.204.123.181,dcastro,Asia,Successful
+2021-10-21 04:04:35.646524,Cameron Crawford,Discovery,Ransomware,Email,Medium,simply,48.27.104.79,qrhodes,Africa,Successful
+2022-07-24 07:06:58.531259,Allison Marks,Execution,Credential Dumping,Web,Critical,cell,212.148.204.234,rodriguezraymond,US,Failed
+2024-05-29 12:34:52.248351,Donna Martin,Privilege Escalation,Ransomware,USB,High,more,181.190.33.156,ffreeman,South America,Failed
+2020-06-23 20:38:35.218635,Todd Lee,Discovery,Phishing,Email,Low,stop,138.140.78.58,torresamy,Australia,Failed
+2021-01-05 12:18:33.846175,Marie Lewis,Initial Access,Phishing,Email,High,technology,21.150.98.45,garciacorey,US,Successful
+2020-04-16 07:22:51.072229,Dawn Barnett,Privilege Escalation,Command and Scripting Interpreter,Email,High,seven,149.235.234.64,oscarmoore,Africa,Failed
+2024-09-16 07:00:46.997447,Karen Robinson,Impact,Exploitation of Vulnerability,USB,Medium,fish,221.187.104.119,kbeck,Europe,Failed
+2024-02-05 03:37:10.894326,Wesley Olson,Defense Evasion,Phishing,Network,Critical,lay,177.145.1.219,obrown,US,Failed
+2023-04-25 00:32:00.175102,Seth Valdez,Collection,Command and Scripting Interpreter,Web,High,sport,98.173.171.248,richard65,Australia,Failed
+2020-05-22 22:11:40.194064,Heather Green,Impact,Data Encrypted,Email,Critical,morning,146.218.157.70,brianrangel,South America,Successful
+2023-10-13 05:34:33.732500,Mary Hill,Impact,Exploitation of Vulnerability,Phishing,High,big,120.72.25.76,greenjennifer,South America,Successful
+2020-12-27 13:21:33.629476,Alexander Gonzalez,Discovery,Exploitation of Vulnerability,Email,Critical,result,3.32.6.211,garciadebbie,Asia,Successful
+2024-08-16 19:33:21.329524,Andrew Brown,Persistence,Access Token Manipulation,Email,Critical,position,87.22.91.132,ericvasquez,Africa,Successful
+2024-07-28 22:06:58.187524,Charles Graham,Persistence,PowerShell,Phishing,High,very,91.99.120.197,brian25,Africa,Successful
+2020-04-14 22:24:29.780232,Cheryl Jones,Collection,Data Encrypted,Network,Low,career,128.126.20.23,briangood,US,Successful
+2024-09-07 02:55:33.029794,Catherine Edwards,Privilege Escalation,Credential Dumping,Phishing,Low,sign,57.78.110.238,brandon43,US,Successful
+2021-02-27 15:32:15.885469,Thomas Davidson,Privilege Escalation,Spearphishing Attachment,Web,Low,total,27.33.151.13,amylarsen,Africa,Successful
+2023-12-27 17:22:18.926569,John Reed,Collection,Access Token Manipulation,USB,Medium,despite,166.76.137.52,sdavis,Africa,Failed
+2023-05-24 17:38:00.616548,Emily Rodriguez,Lateral Movement,Exploitation of Vulnerability,Web,Low,figure,207.35.157.2,mandyvincent,Australia,Successful
+2024-07-14 00:56:40.465501,Laurie Chavez,Persistence,Data Encrypted,USB,Medium,up,174.145.84.132,reeddaniel,Asia,Failed
+2020-03-18 03:18:14.962081,Sarah Brooks,Defense Evasion,Command and Scripting Interpreter,Web,Medium,community,180.177.29.192,yallen,Australia,Failed
+2023-12-14 18:57:39.366824,Christopher Walker,Exfiltration,Taint Shared Content,Email,Medium,necessary,110.175.200.39,mark80,US,Successful
+2023-11-18 16:27:20.098015,William Mann,Collection,Taint Shared Content,USB,High,despite,12.158.56.60,ctucker,South America,Successful
+2024-09-10 21:31:24.895372,Megan Jennings,Lateral Movement,PowerShell,Phishing,Medium,know,161.47.192.211,paul76,Australia,Successful
+2024-02-13 00:48:58.203056,Eric Mckee,Credential Access,Ransomware,Web,Low,result,153.166.73.228,martinezrichard,Europe,Failed
+2024-11-10 06:22:34.896106,Michael Estes,Exfiltration,Network Sniffing,USB,High,mission,175.203.176.156,hunteranna,South America,Successful
+2020-06-09 12:17:30.488636,Caitlyn Merritt,Execution,Exploitation of Vulnerability,USB,High,matter,147.104.15.96,grace82,Asia,Failed
+2021-09-19 17:26:12.812537,Teresa Knight,Execution,Network Sniffing,Network,Low,gas,223.78.45.120,lisa24,Africa,Failed
+2022-03-26 07:14:55.931819,Samuel Yoder,Defense Evasion,Taint Shared Content,Network,Low,wall,3.223.163.166,wpeters,Africa,Failed
+2024-04-26 14:59:47.971159,Vanessa Camacho,Impact,Phishing,Phishing,Medium,person,1.83.111.116,rwilson,US,Failed
+2023-04-13 03:17:03.784036,Michael Christensen,Execution,Phishing,Web,Medium,pass,78.99.29.194,andre40,US,Failed
+2020-03-26 09:26:00.110105,Chris Yates,Lateral Movement,PowerShell,Web,Critical,similar,115.146.218.39,heathercase,Asia,Failed
+2021-06-05 02:48:22.859830,Jeffrey Mason,Exfiltration,Network Sniffing,Phishing,Low,detail,194.139.33.180,morrisonnathan,US,Failed
+2021-10-30 08:42:38.938288,Jennifer Cooke,Initial Access,Taint Shared Content,Email,Medium,radio,87.114.164.125,monroeelizabeth,Asia,Successful
+2022-10-18 04:48:03.883677,John Taylor,Privilege Escalation,PowerShell,Web,Medium,trade,100.160.1.172,ryanmyers,Africa,Failed
+2020-12-07 04:38:14.638483,Erica Baker,Impact,Credential Dumping,Network,Medium,trip,23.50.217.206,ithomas,South America,Failed
+2020-09-06 19:13:49.780668,Traci Jenkins,Defense Evasion,Phishing,Email,Medium,hold,102.209.85.32,priscilla24,Europe,Successful
+2022-06-07 12:21:37.453550,Sara Baker DDS,Exfiltration,Credential Dumping,Web,Low,radio,77.184.198.145,berryjohn,Africa,Successful
+2021-11-07 19:48:41.093028,Jacob Eaton,Lateral Movement,PowerShell,USB,High,method,202.21.188.250,joseph08,Australia,Successful
+2022-03-02 16:22:33.370968,Jason Mcbride,Persistence,PowerShell,Network,High,employee,91.24.227.187,lisa24,US,Failed
+2021-10-29 23:51:36.427733,David Castillo,Lateral Movement,Spearphishing Attachment,Phishing,Low,service,11.89.66.240,hbarnes,Europe,Successful
+2020-03-29 19:38:37.631548,Matthew Stevens,Collection,Spearphishing Attachment,USB,Low,month,40.173.192.195,sarahthompson,Australia,Failed
+2024-02-29 23:44:37.382455,Jordan Miller,Impact,Credential Dumping,Email,High,common,48.166.67.221,amy09,Africa,Successful
+2023-10-03 06:12:17.089355,Daniel Mcconnell,Discovery,Taint Shared Content,Web,Medium,choice,188.127.189.186,qwilliams,South America,Successful
+2021-09-18 19:41:49.832134,Mary Ballard,Persistence,PowerShell,Phishing,Low,ago,42.202.63.159,sanchezcourtney,Asia,Failed
+2020-07-15 05:36:51.743245,Jessica Mathews,Lateral Movement,Phishing,Network,Medium,join,9.159.24.130,coopermichael,Africa,Successful
+2020-12-23 19:58:08.787032,Linda Gilbert,Collection,Ransomware,Network,Critical,three,103.122.17.243,davidsonashley,US,Successful
+2020-04-06 03:10:17.017165,Kenneth Rice,Execution,Ransomware,Network,Low,modern,177.170.140.41,gcurry,Europe,Failed
+2024-07-17 14:07:56.937754,Vickie Steele,Exfiltration,Command and Scripting Interpreter,USB,Medium,wait,165.210.254.7,rodriguezdeborah,Asia,Successful
+2021-08-24 17:38:48.946276,Holly Buck,Privilege Escalation,PowerShell,Web,Low,order,40.15.57.178,wilsonjames,Europe,Successful
+2023-10-13 03:21:15.156902,Craig Martin,Collection,Network Sniffing,Network,Low,blood,188.106.14.40,jwade,Asia,Successful
+2023-10-01 19:53:52.688252,Roger Garcia,Initial Access,Ransomware,USB,Critical,street,35.249.228.105,hortonjohn,US,Failed
+2020-05-05 09:23:01.537348,Brenda Guzman,Credential Access,Taint Shared Content,Network,Low,fight,45.170.211.226,vbrown,Asia,Successful
+2020-11-26 09:34:32.395815,Willie Barnes,Impact,Command and Scripting Interpreter,Phishing,High,budget,207.23.137.239,mcdonaldamber,Europe,Successful
+2020-02-04 12:46:53.475703,Jason Lucas,Persistence,PowerShell,Network,Critical,own,83.139.73.9,sherry14,US,Failed
+2022-12-24 17:01:37.834551,Joann Kim,Exfiltration,Network Sniffing,Network,Critical,very,43.132.173.92,pnorris,South America,Successful
+2020-05-05 01:25:52.103015,Cassandra Ramirez,Persistence,Taint Shared Content,USB,Critical,positive,199.46.155.65,stephen60,US,Failed
+2021-09-23 03:06:19.021834,Marco Stevens,Exfiltration,Access Token Manipulation,Phishing,Low,season,213.88.163.71,osweeney,Asia,Successful
+2022-09-07 04:04:53.241436,Tina Garcia,Execution,Command and Scripting Interpreter,Network,Low,score,106.6.37.124,swoodard,Europe,Successful
+2020-06-19 03:16:20.512626,Chelsea Holland,Collection,Phishing,Email,High,growth,67.33.149.75,lisawest,US,Successful
+2021-07-22 20:24:38.689799,Maria Hayes,Credential Access,Exploitation of Vulnerability,Network,Medium,natural,53.57.91.157,dominique70,South America,Failed
+2023-09-14 11:34:34.797460,Miss Denise Cardenas DDS,Exfiltration,PowerShell,Email,High,receive,101.162.2.108,morenokathy,Europe,Successful
+2024-07-12 13:27:09.932578,Robert Petersen,Persistence,Access Token Manipulation,Web,Medium,although,83.147.124.165,tanner41,Asia,Failed
+2023-01-24 21:53:34.466239,Heather White,Privilege Escalation,Ransomware,Email,Low,project,37.254.219.13,melissa25,Asia,Successful
+2021-05-05 20:52:02.014311,Heather Good,Initial Access,Ransomware,Email,Medium,month,60.247.15.122,patrickevans,Asia,Successful
+2023-09-16 19:11:08.946786,Joseph Silva,Privilege Escalation,Ransomware,Network,Critical,use,52.152.157.47,vargaschristine,Europe,Successful
+2021-12-24 06:26:10.310895,John Spencer Jr.,Impact,Exploitation of Vulnerability,Web,Medium,east,5.34.47.14,laura18,Africa,Successful
+2020-08-19 14:39:34.901679,Hannah Mcintosh,Initial Access,Ransomware,Email,Medium,environmental,136.32.217.234,deborahjones,Europe,Failed
+2020-08-04 17:33:22.106479,Megan Davenport,Credential Access,Phishing,Web,Critical,job,216.51.21.148,brandon32,US,Failed
+2024-04-12 16:43:08.633587,Wendy Johnson,Lateral Movement,Data Encrypted,USB,Critical,truth,131.30.87.134,howemartin,Australia,Failed
+2024-08-26 03:30:54.792006,Patricia Ayala,Impact,PowerShell,Network,Low,stay,208.203.17.84,normaharper,Europe,Successful
+2022-06-03 06:50:46.787774,Amy Robinson,Privilege Escalation,Credential Dumping,Web,Critical,whose,82.117.248.166,steven57,Australia,Successful
+2021-04-12 15:29:31.371100,Matthew Walker,Collection,Access Token Manipulation,USB,Medium,order,117.217.151.239,dfleming,US,Successful
+2022-01-17 06:32:51.757493,Timothy Gallegos,Initial Access,Exploitation of Vulnerability,USB,High,grow,126.24.50.27,reidmichael,Europe,Failed
+2023-12-31 17:00:02.225276,Shannon Marshall,Discovery,Network Sniffing,Network,High,know,151.251.156.31,nathan97,South America,Failed
+2024-01-08 21:38:08.366229,Alicia Reed,Credential Access,Network Sniffing,Web,Low,agreement,65.205.111.132,xsolis,US,Successful
+2022-04-16 18:25:30.675629,Andrea Molina,Persistence,Network Sniffing,USB,High,tonight,56.220.113.52,mnicholson,Africa,Successful
+2020-09-01 10:15:28.854414,Briana Mercado,Credential Access,Command and Scripting Interpreter,Network,Medium,ever,34.100.185.111,chasemichael,US,Failed
+2024-03-25 16:03:06.508821,Joshua Ferguson,Credential Access,Data Encrypted,Web,Low,ground,193.198.49.92,leblanckathryn,Asia,Failed
+2021-09-22 22:45:46.927441,Christopher Melendez,Privilege Escalation,Ransomware,Phishing,Medium,story,89.197.192.49,elizabeth06,Asia,Failed
+2021-04-12 17:25:04.205207,William Green,Exfiltration,Ransomware,USB,Medium,television,211.70.140.197,wgarcia,US,Failed
+2023-12-26 19:54:10.415356,Laura Mccarty,Credential Access,Credential Dumping,Email,Low,smile,208.5.168.51,dorothysmith,Australia,Successful
+2022-12-19 17:55:11.880375,Janet Wang,Collection,Ransomware,Web,High,party,164.157.140.183,xwang,South America,Successful
+2021-11-27 12:17:21.254057,Kelly Russell,Impact,Command and Scripting Interpreter,Web,High,exist,214.249.233.11,jimenezstacey,US,Successful
+2020-01-20 02:42:25.111620,Nicholas Flores,Collection,Spearphishing Attachment,Network,High,factor,46.255.42.131,richardsonangela,US,Successful
+2020-08-18 13:51:54.437221,Yvette Brewer,Credential Access,PowerShell,Network,Critical,time,4.242.226.72,jmartin,US,Failed
+2020-11-23 03:30:49.594645,Michele Weaver,Privilege Escalation,PowerShell,Web,Medium,indeed,3.215.226.76,paul73,Australia,Failed
+2022-02-02 00:14:20.727964,Krista Orr,Exfiltration,PowerShell,Email,High,art,113.60.138.99,jeremy47,US,Failed
+2021-11-13 11:28:40.340142,Philip Garcia,Execution,Command and Scripting Interpreter,Phishing,High,military,159.142.147.215,tamarawilson,Australia,Failed
+2024-02-27 17:44:07.771874,Joel Davidson,Discovery,Exploitation of Vulnerability,Network,Medium,result,7.231.62.83,carlsondiane,Europe,Successful
+2022-11-02 01:59:58.515458,Joshua Smith,Collection,Exploitation of Vulnerability,Network,Low,very,74.20.119.89,lindsaycohen,Africa,Successful
+2024-08-04 20:12:28.687283,Tyler Baker,Exfiltration,Command and Scripting Interpreter,Phishing,Low,decide,91.21.73.53,jmorgan,US,Failed
+2023-06-08 02:47:58.041374,Lauren Barnes,Exfiltration,Spearphishing Attachment,Web,Critical,process,89.44.240.65,ericrodgers,Europe,Successful
+2020-02-21 09:52:26.722701,Michael Lucas,Lateral Movement,Credential Dumping,Network,Medium,coach,44.135.20.200,gwilson,Africa,Successful
+2020-10-07 22:17:51.900680,Gregory Lawson,Impact,Credential Dumping,Phishing,Medium,me,212.110.46.68,andreamorgan,Australia,Failed
+2023-12-28 01:30:01.282015,James Powell,Collection,Credential Dumping,Network,Low,those,217.104.119.37,webermichael,US,Failed
+2023-07-05 13:18:51.027594,Christina Davis,Execution,Taint Shared Content,Web,Critical,president,113.0.221.60,hallmolly,Europe,Failed
+2020-01-31 20:06:20.543396,Justin Baker,Persistence,Taint Shared Content,Email,Critical,clear,114.254.197.39,caitlinstephenson,Africa,Successful
+2022-03-09 09:31:51.278504,Sergio Smith,Exfiltration,Ransomware,Email,High,director,205.112.131.225,erinjennings,Asia,Successful
+2021-02-23 02:05:13.272429,Kim Waters,Discovery,Command and Scripting Interpreter,USB,Low,apply,146.131.85.238,pburke,US,Successful
+2023-01-02 05:10:29.771426,Matthew Wong,Lateral Movement,Exploitation of Vulnerability,Web,Critical,amount,22.205.42.80,justin84,Europe,Successful
+2024-01-15 08:16:57.355354,Jennifer Stephens,Impact,Exploitation of Vulnerability,Phishing,Low,change,137.162.141.151,lynn52,Europe,Failed
+2020-01-30 23:04:31.698087,Mr. Mark Charles,Initial Access,Exploitation of Vulnerability,USB,High,exist,212.213.62.203,buchanantom,Africa,Successful
+2021-06-26 01:42:49.444787,John Ellis,Collection,Network Sniffing,Email,High,wish,118.147.187.179,beanrachel,South America,Successful
+2020-11-06 14:51:36.260063,Shannon Gardner,Defense Evasion,Spearphishing Attachment,Phishing,Low,herself,8.83.14.10,josevelasquez,Australia,Failed
+2021-06-02 03:38:01.872161,Charles Ramos,Exfiltration,Spearphishing Attachment,Network,Low,near,188.233.101.61,daisy80,South America,Failed
+2023-11-12 15:55:35.508848,Sherri Long,Privilege Escalation,Spearphishing Attachment,USB,Medium,wind,2.62.253.220,william84,US,Failed
+2022-03-17 20:44:44.663266,Monica Miller,Privilege Escalation,Access Token Manipulation,USB,Medium,wait,155.108.19.250,olsenjames,US,Successful
+2023-10-13 17:54:04.697256,Kayla Coffey,Collection,Ransomware,Web,High,provide,150.59.76.5,jessicamassey,US,Failed
+2020-03-18 09:02:30.363412,Mrs. Meagan Steele MD,Credential Access,Access Token Manipulation,Phishing,Medium,staff,216.127.12.189,deanna48,Europe,Successful
+2020-01-07 18:40:03.264474,Christopher Rosales,Execution,Phishing,Phishing,Medium,country,180.153.15.93,sanchezlinda,US,Successful
+2023-04-03 09:12:35.626266,David Stevens,Collection,Phishing,Network,High,stock,206.79.164.152,wmaldonado,Asia,Successful
+2021-05-09 13:10:15.457779,Brian Phillips,Execution,PowerShell,Email,Low,could,167.46.180.169,kevin76,Australia,Failed
+2022-02-13 07:20:29.282224,Jamie Hess,Impact,Taint Shared Content,Phishing,Critical,option,219.233.195.68,gonzalezvictoria,Asia,Successful
+2023-08-17 11:36:51.634443,Margaret Garcia,Exfiltration,Spearphishing Attachment,Network,Medium,wrong,103.159.108.71,williamcortez,Africa,Successful
+2022-12-18 15:26:57.471932,Ann Ho,Credential Access,Ransomware,Phishing,Low,manager,57.213.137.31,jwashington,Africa,Successful
+2021-09-08 13:12:47.433201,Erin Wong,Persistence,Exploitation of Vulnerability,USB,Low,think,122.20.2.100,richard60,Europe,Successful
+2021-07-24 08:17:57.570799,Paul Johnson,Privilege Escalation,Credential Dumping,Phishing,Low,opportunity,169.107.5.149,amanda05,Europe,Successful
+2024-09-06 05:42:48.299035,Jerome Kaufman,Exfiltration,Credential Dumping,Web,Critical,recent,214.50.192.152,xboyer,Asia,Successful
+2023-06-19 04:11:35.339252,Christine Lee,Execution,Access Token Manipulation,Phishing,Low,tree,158.61.181.237,alvarezmitchell,Asia,Successful
+2022-12-16 22:06:56.496064,Cynthia Green,Defense Evasion,Command and Scripting Interpreter,Phishing,High,company,35.254.207.122,heidimorgan,US,Failed
+2023-09-15 09:59:13.071819,James Gray,Initial Access,Access Token Manipulation,Network,Medium,others,81.204.145.69,laura03,Asia,Failed
+2021-08-14 19:08:40.623585,Nicholas Robles,Privilege Escalation,Exploitation of Vulnerability,Web,Critical,investment,14.3.76.68,joshua97,South America,Failed
+2022-08-25 00:24:47.891395,Michele Berg,Lateral Movement,Credential Dumping,Network,Medium,arrive,123.107.71.135,bakermichael,Australia,Successful
+2021-12-18 02:51:00.982341,Don Williams,Initial Access,Network Sniffing,USB,High,moment,109.175.144.37,meghanreed,Africa,Failed
+2024-08-04 22:46:05.846596,Robert Ray,Discovery,Taint Shared Content,USB,Critical,enough,197.88.235.250,dheath,Australia,Failed
+2023-07-08 14:23:34.841893,Matthew Jones,Credential Access,Spearphishing Attachment,Network,Low,commercial,138.67.157.143,jimmy16,Asia,Failed
+2021-10-17 11:28:12.565668,Christopher Perry,Execution,Ransomware,Phishing,High,instead,27.178.41.225,courtneymiller,South America,Successful
+2022-05-12 06:12:37.533052,Sandra Ramsey,Exfiltration,Data Encrypted,Network,High,country,216.164.142.52,nathan28,US,Failed
+2022-07-29 08:21:47.497314,Hector Dawson,Initial Access,Spearphishing Attachment,Email,Low,rest,211.246.194.37,jessica61,Africa,Failed
+2020-08-10 03:51:28.150576,Kathleen Booker,Impact,Data Encrypted,USB,Low,market,85.243.157.77,vburns,Asia,Failed
+2020-01-18 22:35:04.959110,Joseph Smith,Discovery,Access Token Manipulation,Email,High,than,78.230.53.110,jackiebaker,South America,Successful
+2020-09-29 22:23:03.911391,Latoya Chan,Collection,Spearphishing Attachment,USB,Medium,fund,148.124.102.91,cohenjustin,Africa,Failed
+2023-09-20 06:18:05.755799,Eric Thompson,Exfiltration,Phishing,Phishing,Critical,later,33.126.213.32,turnercasey,South America,Failed
+2023-07-24 08:47:30.476784,Dr. Dennis Wilson,Execution,Data Encrypted,Phishing,Low,different,7.29.131.134,hillmary,South America,Failed
+2023-07-09 23:38:10.422230,Michelle Walker,Defense Evasion,Exploitation of Vulnerability,Network,Critical,recognize,106.51.96.111,ybrown,Australia,Successful
+2024-09-24 19:25:54.999131,Andrea Morales,Collection,Network Sniffing,Network,High,eat,20.173.125.138,bduncan,South America,Failed
+2022-08-03 20:57:17.183355,Kevin Cameron,Collection,Spearphishing Attachment,USB,Low,operation,204.211.124.230,ireynolds,Africa,Successful
+2023-06-16 11:27:17.233787,Jacob Higgins,Collection,Ransomware,Phishing,Critical,mother,179.183.61.93,bowersanthony,Asia,Failed
+2020-06-04 04:42:39.414503,Robert Martinez,Execution,PowerShell,USB,High,individual,103.211.10.115,kclark,US,Successful
+2022-11-19 15:09:04.109498,Michael Henderson,Credential Access,Command and Scripting Interpreter,Web,High,spend,214.169.12.135,zgeorge,Australia,Successful
+2020-06-09 03:00:41.901882,Dawn Anderson,Defense Evasion,Credential Dumping,Web,Critical,candidate,175.58.163.228,holdenjennifer,Australia,Successful
+2022-12-16 20:38:58.771684,Bonnie Schwartz,Lateral Movement,Credential Dumping,USB,Medium,nothing,144.122.197.174,moralessara,Australia,Failed
+2021-03-07 17:56:24.293251,Andrew Ballard,Impact,Data Encrypted,Web,Critical,join,81.12.41.70,rwood,Australia,Successful
+2024-03-27 10:50:36.625235,Lisa Allison,Discovery,Phishing,Web,Low,system,163.248.37.80,rebecca05,Africa,Successful
+2024-09-16 00:05:28.643033,Nicholas Smith,Execution,Access Token Manipulation,Email,Critical,five,80.97.141.227,mark74,South America,Failed
+2020-07-13 13:30:27.902530,Todd Ramsey,Defense Evasion,Spearphishing Attachment,Phishing,Low,somebody,141.80.18.165,william63,Europe,Failed
+2020-07-31 23:59:48.966953,Timothy Gonzalez,Credential Access,Credential Dumping,Email,Low,stuff,15.181.174.143,fwade,Europe,Successful
+2024-09-07 08:10:10.241333,James Spears,Persistence,Phishing,Phishing,Low,civil,158.191.222.12,bward,Australia,Failed
+2020-12-15 13:55:58.049760,Jack Lee,Exfiltration,Phishing,Network,Medium,season,87.107.43.252,andrewsrichard,Asia,Failed
+2023-10-12 20:03:56.599542,Timothy Fisher,Exfiltration,Access Token Manipulation,USB,Medium,sister,25.54.172.172,valeriedonaldson,Africa,Failed
+2020-10-11 15:59:29.756802,Suzanne Austin DVM,Impact,Exploitation of Vulnerability,USB,Critical,full,94.1.182.76,annsmall,Europe,Successful
+2021-05-23 08:02:19.548651,Carol Hogan,Initial Access,Phishing,Email,Low,lay,167.132.121.56,kbrown,US,Failed
+2022-04-24 08:20:34.045664,Samuel Brown,Exfiltration,Taint Shared Content,USB,High,police,62.35.13.124,jenniferevans,Europe,Successful
+2020-11-30 11:41:47.738900,Evan Gonzalez,Persistence,Ransomware,Email,Medium,approach,84.193.207.58,hharper,Australia,Successful
+2021-10-16 18:17:17.605747,Ann James,Collection,Exploitation of Vulnerability,USB,Critical,price,173.118.194.140,pnielsen,Africa,Successful
+2024-02-23 18:56:55.731620,Jennifer Clark,Discovery,Spearphishing Attachment,Email,Critical,finally,213.163.54.15,jacksonstephanie,US,Successful
+2020-05-08 05:56:40.096758,Francisco Walker,Collection,Command and Scripting Interpreter,Web,Low,form,99.250.103.99,richardsonadam,Europe,Failed
+2022-01-21 13:11:23.844618,John Goodman,Initial Access,Access Token Manipulation,Network,Medium,ok,28.252.195.51,jaredfleming,Europe,Successful
+2020-06-30 03:28:29.332847,John Short,Lateral Movement,Spearphishing Attachment,Network,Low,expert,8.214.3.44,lonniedillon,South America,Failed
+2022-07-23 11:01:37.669305,John Williams,Initial Access,Command and Scripting Interpreter,Web,High,city,138.66.242.227,jeremyevans,Europe,Failed
+2024-06-21 06:38:50.477474,Rebecca Walker,Collection,Credential Dumping,USB,Medium,perform,202.116.174.9,jacobwilson,Europe,Successful
+2020-01-20 22:32:24.772075,Amanda Swanson,Execution,Network Sniffing,USB,Medium,cold,129.114.52.80,ifoster,Australia,Successful
+2021-06-28 08:25:14.438973,Michelle Horn,Discovery,Command and Scripting Interpreter,USB,Low,energy,5.51.241.81,katrina69,Europe,Successful
+2022-04-24 09:46:02.372200,Meredith Brown,Execution,PowerShell,USB,Low,help,140.55.204.1,martinezandrew,US,Successful
+2021-09-04 13:48:13.768076,Zachary Soto,Execution,Access Token Manipulation,Network,Critical,individual,6.11.120.88,richardpena,Australia,Failed
+2022-06-06 17:37:51.033161,Tiffany Miller PhD,Privilege Escalation,Taint Shared Content,Email,Low,whatever,180.90.210.15,clarkjennifer,Asia,Failed
+2022-11-15 15:46:48.670439,Aaron Acevedo,Execution,Credential Dumping,USB,Low,system,52.10.87.231,adam74,Australia,Failed
+2022-10-21 02:26:17.454150,Victoria Ford,Credential Access,Spearphishing Attachment,Email,High,interesting,7.168.253.143,dmartinez,Europe,Successful
+2024-09-14 04:24:21.737310,Catherine Fitzpatrick,Defense Evasion,PowerShell,Email,Medium,such,189.253.159.254,hillkimberly,US,Successful
+2023-03-26 21:52:05.259769,Jonathan Coleman,Initial Access,PowerShell,Web,High,feeling,18.246.25.218,wroberts,US,Failed
+2023-11-26 10:33:44.050748,Robyn Jarvis,Defense Evasion,Exploitation of Vulnerability,Web,Medium,choice,62.156.200.29,acevedowendy,Europe,Successful
+2021-10-13 00:25:55.371499,Lisa Porter,Credential Access,Access Token Manipulation,USB,High,religious,111.31.160.35,sanfordmelissa,US,Failed
+2022-10-09 21:32:33.018101,Jessica Coffey,Collection,Exploitation of Vulnerability,Email,Medium,reflect,42.39.112.0,lisarhodes,US,Successful
+2021-09-25 22:46:16.282534,Lindsey Hughes,Credential Access,Credential Dumping,Network,Low,including,107.46.16.247,robertjefferson,Africa,Failed
+2023-01-02 23:57:39.312235,Emily Mendoza,Lateral Movement,Exploitation of Vulnerability,Phishing,High,raise,112.39.250.231,jnorris,Africa,Failed
+2023-03-21 11:08:57.511313,Carrie Buchanan,Initial Access,Command and Scripting Interpreter,Web,High,begin,66.104.147.67,russell00,US,Successful
+2022-12-19 04:18:51.728723,Natalie Mcdonald,Privilege Escalation,Taint Shared Content,USB,Low,pay,136.175.164.33,dgraham,Australia,Successful
+2022-01-28 08:11:01.949018,Megan Ritter,Collection,PowerShell,Network,Medium,space,91.232.10.92,colinshea,Africa,Successful
+2023-08-20 15:21:23.178797,Lucas Jackson,Impact,Ransomware,Phishing,Medium,I,125.213.118.40,leslieburns,Europe,Successful
+2023-04-27 14:01:44.958858,Lynn Lopez,Collection,Ransomware,Network,Medium,and,91.84.40.32,montesmichael,South America,Failed
+2023-08-18 09:11:27.507484,Matthew Williams Jr.,Initial Access,PowerShell,Web,Low,early,120.204.74.230,lindsey18,Europe,Failed
+2021-02-09 12:52:35.346657,Karen Thompson,Impact,Data Encrypted,Email,Low,present,210.231.90.42,ryan58,Europe,Failed
+2021-11-15 19:16:47.355246,Donna Jenkins,Exfiltration,PowerShell,USB,Medium,whole,222.163.144.10,derrick02,US,Failed
+2022-11-06 16:30:12.228177,Kari Blankenship,Initial Access,Exploitation of Vulnerability,Email,Low,participant,8.235.71.218,thomasjordan,Asia,Failed
+2021-10-13 18:04:02.368310,John King,Lateral Movement,Credential Dumping,Network,Low,nearly,217.197.168.217,thomasgarcia,Europe,Successful
+2021-03-10 17:07:42.851052,Jacqueline Ingram,Initial Access,Credential Dumping,USB,Medium,back,214.0.15.45,kvargas,Europe,Successful
+2020-01-18 18:09:47.564071,Angela Ford,Privilege Escalation,Credential Dumping,USB,Low,admit,116.103.89.143,kathy89,US,Failed
+2020-05-31 16:10:23.775269,Phillip Church,Lateral Movement,Phishing,Network,Medium,about,30.211.245.150,katherinesalinas,Asia,Successful
+2021-04-17 07:08:40.667077,Rachel Dunn,Discovery,Access Token Manipulation,Email,Medium,including,154.152.89.94,milleralan,Africa,Successful
+2022-09-02 19:47:28.752728,Todd Valencia,Credential Access,Data Encrypted,Email,High,land,62.57.6.148,marystrickland,South America,Successful
+2022-05-20 12:18:03.121351,Christopher Simon,Impact,Exploitation of Vulnerability,USB,Critical,bank,197.116.24.168,lmartinez,Europe,Successful
+2020-07-13 13:58:32.253782,Norma Davidson,Collection,Ransomware,Network,Medium,letter,136.243.67.137,wweiss,South America,Failed
+2022-09-24 01:42:14.912607,Brandon Hernandez,Exfiltration,Taint Shared Content,USB,Low,middle,30.235.36.191,carol92,US,Failed
+2022-11-25 21:43:51.337013,Mr. David Cruz III,Initial Access,Access Token Manipulation,Web,Low,radio,55.200.86.114,adamhogan,Australia,Failed
+2021-11-14 11:46:21.953875,Mark Woodard,Exfiltration,Exploitation of Vulnerability,USB,Low,blue,181.205.44.144,john08,Africa,Successful
+2020-04-25 22:41:22.087988,Corey Herman,Defense Evasion,Spearphishing Attachment,USB,Critical,available,177.125.77.26,scottray,Asia,Successful
+2022-08-08 22:18:44.842181,Donna Franklin,Exfiltration,PowerShell,USB,Low,process,34.187.140.226,clarknicholas,South America,Failed
+2022-04-15 07:47:46.343553,Christopher Robinson MD,Impact,Command and Scripting Interpreter,USB,Critical,key,77.21.208.140,hernandezscott,Africa,Successful
+2021-09-06 17:34:53.843781,Gregory Robinson,Execution,Exploitation of Vulnerability,Web,Critical,drop,28.122.120.124,brittneydavis,US,Failed
+2020-11-10 16:16:31.006746,Christina Franklin,Collection,Credential Dumping,Web,Critical,adult,101.124.3.150,ericksonkevin,South America,Successful
+2022-10-19 20:51:31.310198,Jerry Escobar,Credential Access,Command and Scripting Interpreter,Web,Critical,record,4.85.184.22,stephaniereed,Europe,Failed
+2020-04-20 12:34:02.734399,Kayla Lloyd,Privilege Escalation,Phishing,Network,Low,sense,105.66.201.149,laura78,Asia,Successful
+2022-04-09 05:51:10.112153,Monica Rocha,Execution,Data Encrypted,Web,Low,PM,167.123.59.176,derek86,Australia,Successful
+2024-03-24 02:38:29.062162,Sharon Lopez,Collection,Taint Shared Content,Web,High,least,88.184.183.130,holly03,US,Failed
+2022-02-16 09:01:47.396528,Joseph Lopez,Initial Access,Spearphishing Attachment,USB,Low,former,122.63.138.228,crystalharding,Australia,Successful
+2020-01-12 02:57:44.852861,William Fisher,Execution,Credential Dumping,Phishing,Low,win,195.31.216.48,zmcdaniel,Australia,Failed
+2023-09-10 02:07:21.866937,Luke Rivera,Credential Access,Spearphishing Attachment,Web,Critical,east,21.14.173.52,jchristensen,Asia,Successful
+2023-07-12 21:10:07.097356,Mark Adams,Privilege Escalation,Spearphishing Attachment,Phishing,High,house,94.212.57.76,rodriguezlauren,Australia,Failed
+2022-06-27 12:39:22.790158,Jillian Velasquez,Privilege Escalation,Data Encrypted,USB,Critical,painting,222.30.38.21,simpsonroger,Australia,Failed
+2022-11-25 18:17:01.334607,Suzanne Nielsen,Collection,PowerShell,USB,Critical,he,141.50.228.196,mnash,South America,Successful
+2021-10-21 13:03:24.627136,Amanda Cook,Collection,PowerShell,USB,High,company,110.80.52.78,jason39,Australia,Successful
+2022-08-23 01:21:00.797383,Ryan Cannon,Persistence,Command and Scripting Interpreter,Network,High,program,170.60.245.18,jonathan43,Australia,Successful
+2021-10-06 18:49:19.685412,Michele Powers,Execution,Exploitation of Vulnerability,USB,Low,series,129.255.70.119,janice86,Europe,Failed
+2021-11-23 06:39:22.979469,Robert Chang,Privilege Escalation,Exploitation of Vulnerability,Phishing,Medium,own,20.134.114.255,shannon21,Asia,Successful
+2020-11-08 11:05:04.367180,Sarah Martinez,Impact,PowerShell,Email,Low,group,69.157.72.228,larajoshua,Asia,Successful
+2023-09-09 05:37:14.404207,Michael Medina,Persistence,Data Encrypted,Phishing,Low,accept,5.146.47.46,tonyafitzgerald,Australia,Successful
+2021-02-14 23:36:13.648954,James Monroe,Impact,Data Encrypted,USB,High,arrive,59.191.233.215,kimjerry,Africa,Successful
+2020-05-31 03:41:07.160011,Jane Green,Persistence,Phishing,Email,High,last,5.253.8.67,kcampbell,Europe,Successful
+2021-08-10 23:00:10.485722,Krista James,Discovery,Access Token Manipulation,USB,Critical,hair,68.100.90.190,smithlisa,Africa,Failed
+2024-02-05 06:47:33.946812,John Taylor,Impact,Data Encrypted,Web,Low,never,162.247.138.99,taylor33,Asia,Failed
+2020-06-13 12:08:30.453469,Cynthia Spence,Initial Access,PowerShell,Email,High,make,188.15.212.41,kimberlythomas,South America,Failed
+2021-01-04 21:46:58.431894,Jose Pugh,Credential Access,Command and Scripting Interpreter,Network,Low,environment,37.221.52.110,nguyenjillian,South America,Successful
+2023-04-15 10:11:35.044416,Tyler Perez,Initial Access,Phishing,Web,Low,toward,149.114.186.151,jamesjackson,Africa,Successful
+2024-07-09 15:58:21.339269,Todd Rivera,Defense Evasion,Access Token Manipulation,Network,High,indicate,152.201.250.150,diazcheryl,Europe,Successful
+2022-03-10 20:37:38.847162,Christian Rogers,Collection,Exploitation of Vulnerability,Email,High,actually,72.217.91.211,vgarcia,Australia,Successful
+2024-06-10 05:44:18.502725,Wendy Bowen,Execution,Exploitation of Vulnerability,Email,High,stay,131.130.86.26,theresasmith,Asia,Failed
+2020-02-21 09:19:04.665270,Amy Reyes,Execution,Spearphishing Attachment,USB,High,third,134.77.126.184,omartin,South America,Failed
+2024-10-11 04:07:46.148722,Beth Thompson,Discovery,Phishing,Email,High,choose,102.42.226.58,xarmstrong,Africa,Successful
+2021-05-11 18:57:36.833334,Erika Barnett,Defense Evasion,Network Sniffing,USB,Low,seven,217.4.21.8,anthonyburgess,South America,Failed
+2023-07-09 21:39:36.746310,Timothy Marquez,Execution,Taint Shared Content,Network,High,field,160.166.19.105,espinozajeremy,US,Successful
+2023-09-13 05:35:27.645173,Madison Schaefer,Persistence,Network Sniffing,Email,High,figure,153.135.209.212,derekalvarado,Australia,Successful
+2020-06-21 09:58:27.484372,Christopher Freeman,Defense Evasion,Phishing,Network,Medium,final,126.211.250.81,christophercervantes,US,Failed
+2020-03-23 22:44:35.986687,Brittney Lee,Privilege Escalation,Access Token Manipulation,Web,Low,discussion,141.169.23.21,lwalters,Asia,Successful
+2023-07-22 14:04:28.156599,Rebecca Hart,Impact,Taint Shared Content,Email,Critical,manage,150.159.153.108,smcdaniel,Australia,Successful
+2021-09-18 16:42:21.624829,Mrs. Madison Wood,Impact,Command and Scripting Interpreter,Network,Low,woman,94.164.61.0,vstevens,Asia,Successful
+2023-05-29 16:19:23.987821,Stephen Flores,Lateral Movement,Network Sniffing,Web,Critical,item,102.194.54.25,steven00,Asia,Failed
+2020-03-01 14:54:38.742566,Renee Jones,Collection,Exploitation of Vulnerability,Email,High,every,118.112.28.226,victoria71,Europe,Successful
+2023-10-15 21:21:51.154518,Robert Kelly,Exfiltration,Ransomware,Phishing,High,successful,25.232.30.73,nancy51,Europe,Failed
+2022-01-17 07:05:23.558020,Matthew Leblanc,Initial Access,Spearphishing Attachment,Network,High,window,10.179.141.197,cooperbrian,South America,Failed
+2021-02-03 21:08:23.719388,Robert Rivera,Credential Access,Command and Scripting Interpreter,USB,High,stay,64.166.57.225,keith60,Europe,Successful
+2021-11-03 10:51:15.048364,Kaylee Bell,Lateral Movement,Network Sniffing,USB,High,memory,156.15.148.85,aedwards,Europe,Failed
+2024-10-08 10:54:07.343502,Melody Jacobs,Impact,Command and Scripting Interpreter,Network,Critical,remain,128.223.226.186,jessica67,South America,Failed
+2022-04-05 07:12:28.176140,Warren Little,Discovery,Credential Dumping,Web,Low,firm,138.106.61.182,stephaniemathews,Australia,Successful
+2021-03-13 17:19:33.588681,William Banks,Discovery,Exploitation of Vulnerability,Network,Medium,reason,172.206.156.18,jenniferbush,Australia,Successful
+2020-03-28 00:18:12.743661,Terry Duffy,Credential Access,Exploitation of Vulnerability,Web,Medium,central,162.195.206.80,eriksnyder,Australia,Successful
+2024-03-04 16:14:20.321770,Becky Young,Defense Evasion,Command and Scripting Interpreter,Phishing,High,however,205.161.38.187,john85,Asia,Failed
+2020-03-10 16:15:14.103724,James Garcia,Execution,Credential Dumping,Email,Low,entire,165.114.245.5,davidrojas,South America,Failed
+2023-09-13 22:04:27.137600,Shannon Vasquez,Privilege Escalation,Command and Scripting Interpreter,USB,Low,strong,10.145.118.39,karinawilliams,Asia,Failed
+2021-12-16 10:09:42.208784,Roberto Hansen,Collection,Data Encrypted,Web,Critical,reason,37.135.54.131,jordannicholson,Africa,Successful
+2024-09-23 08:44:34.174455,Daniel Gutierrez,Credential Access,Exploitation of Vulnerability,USB,Critical,state,123.43.21.147,rbenson,Australia,Successful
+2021-02-18 02:59:06.371175,John Walters,Impact,PowerShell,Phishing,Critical,reveal,202.161.253.30,monique62,Africa,Successful
+2024-05-07 20:12:52.186205,Dr. Kevin Jefferson,Privilege Escalation,Spearphishing Attachment,Email,Low,method,72.71.210.207,watkinseddie,Asia,Successful
+2020-05-15 04:58:54.752739,Samantha Silva,Collection,Command and Scripting Interpreter,Phishing,High,drop,74.42.152.252,mfleming,Africa,Successful
+2021-09-24 09:27:35.054101,Melanie Sims,Execution,Spearphishing Attachment,Network,High,claim,165.11.63.34,mjones,Australia,Failed
+2022-09-16 17:58:10.420312,Samuel Williams,Initial Access,Spearphishing Attachment,Phishing,Medium,TV,41.135.234.102,orrmitchell,Australia,Failed
+2023-03-28 16:15:09.513154,Andrea Mason,Initial Access,Access Token Manipulation,Network,Low,message,72.169.20.205,tuckerapril,Africa,Successful
+2024-04-01 14:13:35.224395,Amy Hart,Initial Access,Network Sniffing,USB,Critical,black,72.4.60.153,andersongrant,South America,Failed
+2024-06-01 11:09:14.138272,Robert Smith,Credential Access,Network Sniffing,Email,Low,admit,82.156.55.7,trichard,Africa,Failed
+2020-04-18 14:45:53.675529,Brent Davis,Impact,Command and Scripting Interpreter,Phishing,Medium,able,91.44.203.19,cwilliams,Africa,Failed
+2021-11-30 12:13:42.302872,Patrick Gamble,Lateral Movement,Network Sniffing,Network,Low,method,31.22.141.38,emily67,US,Successful
+2024-01-17 17:21:14.401265,Anna Hurst,Initial Access,Phishing,USB,Medium,day,84.93.19.97,julia54,Europe,Failed
+2020-01-30 10:44:54.207204,Benjamin Dawson,Privilege Escalation,Network Sniffing,Email,High,blue,100.238.29.223,elliskenneth,Australia,Successful
+2021-09-19 16:55:51.380033,Edward Sanchez,Privilege Escalation,Phishing,Phishing,Low,item,30.111.86.33,emason,Africa,Successful
+2022-01-26 17:46:23.899406,Justin Brown,Impact,Credential Dumping,USB,Low,TV,138.173.204.158,robinsonbrenda,South America,Successful
+2021-08-03 08:17:12.925824,Sabrina Robbins,Impact,Credential Dumping,Email,High,Mr,158.172.221.82,stephen75,Australia,Failed
+2020-07-10 22:20:01.032184,Daniel Mccullough,Lateral Movement,Command and Scripting Interpreter,Web,Medium,activity,104.13.131.91,nfranklin,US,Failed
+2020-04-26 02:37:06.330809,Samantha Smith,Lateral Movement,Exploitation of Vulnerability,Network,High,glass,143.90.174.128,ballardrussell,Asia,Successful
+2020-05-14 18:05:10.821184,Joshua Rios,Privilege Escalation,Ransomware,USB,Critical,ask,129.115.160.61,jeffreybrown,Africa,Successful
+2024-01-22 22:53:51.938455,Joseph Adkins,Collection,PowerShell,Web,Medium,necessary,51.57.32.182,heather43,Europe,Successful
+2022-08-28 09:58:24.259390,Kerri Wilson,Impact,Command and Scripting Interpreter,Email,High,skin,208.101.19.199,julia02,Australia,Failed
+2024-04-08 08:25:58.865614,Daniel Walker,Privilege Escalation,Network Sniffing,USB,Low,candidate,146.225.151.102,lawrencelaura,US,Failed
+2022-02-25 13:13:25.656730,Rebecca Miller,Exfiltration,Exploitation of Vulnerability,Phishing,Low,against,142.249.129.187,matthewhill,Asia,Failed
+2024-05-22 16:03:43.089913,Gilbert Diaz,Impact,Network Sniffing,Phishing,Low,author,164.193.52.119,vstephens,Africa,Failed
+2022-10-21 17:16:51.319298,Dorothy Wu,Collection,Access Token Manipulation,USB,High,beat,210.41.12.74,ipratt,South America,Failed
+2022-03-11 15:15:37.055353,Zachary Hopkins,Initial Access,Command and Scripting Interpreter,Network,High,create,48.155.51.217,pearsondawn,Asia,Failed
+2021-11-14 22:54:04.512869,Frances Meyers,Execution,Network Sniffing,Email,Medium,left,33.176.26.235,rickyduncan,South America,Successful
+2021-08-14 12:55:08.411538,Jose Molina,Privilege Escalation,Network Sniffing,Phishing,Medium,fish,167.33.236.85,hilllaura,Asia,Successful
+2022-02-15 07:16:03.626841,Ryan Cruz,Initial Access,Phishing,Web,Low,sure,147.28.14.244,amywalsh,Africa,Successful
+2020-05-31 14:56:08.181943,Kelly Newman,Persistence,Command and Scripting Interpreter,USB,Medium,good,204.17.27.54,reynoldstina,US,Successful
+2021-06-19 01:44:56.887940,Tonya Morris,Initial Access,Phishing,USB,Low,dark,137.116.165.40,nortonrichard,Europe,Failed
+2022-10-27 01:32:42.316707,Ricky Rogers,Collection,Ransomware,Web,Medium,animal,16.254.94.157,david92,South America,Successful
+2020-09-27 22:36:12.229634,Michael Swanson,Execution,Access Token Manipulation,Web,Medium,listen,19.249.27.135,sanderscourtney,Australia,Failed
+2023-04-19 11:00:47.583833,Tyler Meyer,Execution,PowerShell,Email,Critical,animal,182.13.249.96,williamvasquez,Australia,Successful
+2020-02-05 05:27:58.204107,Brooke Lopez DVM,Exfiltration,Exploitation of Vulnerability,Email,Critical,analysis,150.210.36.41,gmurphy,Africa,Successful
+2021-05-15 05:29:43.867251,William Hester,Credential Access,Phishing,Web,Low,main,128.41.246.156,robertbutler,Australia,Successful
+2023-01-13 19:19:40.723878,Crystal Mcmahon,Initial Access,Ransomware,Network,Critical,others,35.186.255.150,jonesvanessa,Europe,Successful
+2021-05-29 12:46:08.235282,Thomas Harmon,Impact,Data Encrypted,USB,Critical,recently,52.238.226.73,kimberlyallen,Europe,Failed
+2021-01-17 00:40:39.712626,David Davis,Initial Access,Ransomware,Email,Critical,example,197.236.52.39,njackson,Asia,Failed
+2021-07-14 01:15:23.500783,Michael Brown,Collection,Spearphishing Attachment,Network,High,soldier,105.195.117.138,patricia63,Australia,Failed
+2021-11-23 17:36:07.229113,Mrs. Yvette Williams MD,Initial Access,PowerShell,Web,Critical,success,134.244.4.87,kellybowman,Europe,Failed
+2022-06-17 01:32:53.006967,Phyllis Ferguson,Initial Access,Data Encrypted,Email,Low,maintain,193.169.197.198,marthathompson,South America,Successful
+2021-07-30 20:02:47.550290,Randy Hogan,Initial Access,PowerShell,Web,Medium,national,68.205.114.97,allenkristy,US,Successful
+2020-08-27 11:28:37.127748,Patrick Perez,Impact,Access Token Manipulation,Phishing,High,study,128.121.185.16,clarkderek,Australia,Successful
+2024-07-09 17:36:44.808591,Wendy Keith,Collection,Credential Dumping,Email,High,chair,137.104.54.224,lindacoffey,Africa,Successful
+2023-03-12 09:32:44.518150,Deanna Huffman,Credential Access,Credential Dumping,USB,Critical,example,144.176.148.147,jhunter,Asia,Successful
+2024-02-26 13:39:25.785306,Joy Scott,Initial Access,Command and Scripting Interpreter,USB,High,everyone,153.252.78.203,pamela37,Africa,Failed
+2020-12-01 13:39:20.080043,Brittany Miller,Defense Evasion,Data Encrypted,USB,Low,forget,180.134.65.228,tammypierce,Australia,Successful
+2023-01-30 09:39:43.617273,Brenda Navarro,Exfiltration,Exploitation of Vulnerability,Web,Medium,reality,130.247.147.136,vdeleon,US,Failed
+2023-10-31 18:55:30.842179,Regina Glass,Impact,Network Sniffing,Email,High,sing,177.51.181.12,david84,Africa,Successful
+2023-07-22 10:37:58.949276,Steven Bishop,Execution,Access Token Manipulation,Email,Medium,magazine,152.15.17.112,kevinmorgan,Asia,Successful
+2022-06-08 02:27:04.340394,Dr. Kristie Wilcox,Collection,Credential Dumping,Network,High,general,76.150.44.106,lgreen,Europe,Successful
+2022-10-07 00:08:39.466291,Kaylee Berry,Persistence,Spearphishing Attachment,Phishing,High,later,67.101.7.129,karen07,South America,Successful
+2021-03-13 10:59:42.131159,Alexandra Montgomery,Collection,Exploitation of Vulnerability,Phishing,Low,necessary,112.249.5.127,qestrada,Africa,Failed
+2023-09-16 14:19:18.579275,Timothy Stewart,Lateral Movement,Phishing,Network,Critical,may,204.219.230.72,rodriguezsarah,Africa,Failed
+2023-07-23 17:52:06.620886,John Brown,Impact,Access Token Manipulation,USB,Low,under,172.53.115.63,nancy27,Africa,Successful
+2023-08-14 00:38:23.162126,Robert Cannon,Defense Evasion,Ransomware,Email,High,party,159.39.204.253,xdavid,Asia,Successful
+2021-01-14 04:23:39.516580,Gabriel Mclean,Credential Access,Ransomware,Phishing,Critical,likely,49.141.137.222,joshuaharris,South America,Failed
+2022-12-25 12:32:03.190310,Jared Martinez,Lateral Movement,Data Encrypted,Email,Critical,college,26.253.51.245,tiffany81,Asia,Failed
+2023-07-03 23:54:49.728777,Joseph Medina,Execution,PowerShell,Web,Medium,draw,144.81.169.90,smithlarry,Australia,Failed
+2020-02-12 03:31:49.397548,Mr. Michael Diaz,Persistence,Credential Dumping,Web,Critical,city,133.132.119.128,tracy69,Europe,Successful
+2022-09-26 12:46:40.898379,Christopher Welch,Initial Access,Spearphishing Attachment,Network,Medium,organization,56.207.64.15,ericspencer,Australia,Failed
+2021-05-01 19:18:59.138204,Lucas Perry,Exfiltration,PowerShell,Phishing,Critical,color,130.122.219.185,salazarrobin,South America,Successful
+2021-05-03 11:39:21.817786,Gregory Smith,Impact,Credential Dumping,Phishing,Medium,site,60.245.206.140,dannyorr,Asia,Successful
+2023-06-18 20:11:13.197838,Christopher Ruiz,Execution,Credential Dumping,Network,Critical,others,119.219.52.59,johnlozano,Asia,Successful
+2022-05-09 20:57:02.585047,Elizabeth Atkins,Initial Access,Access Token Manipulation,Web,Critical,condition,19.13.150.227,angela07,US,Successful
+2020-05-12 18:54:13.550936,Karen Wolf,Impact,Exploitation of Vulnerability,Email,Critical,vote,139.223.251.77,matthewkim,South America,Successful
+2024-04-17 03:58:23.399565,Chelsea Wilson,Execution,Data Encrypted,Network,High,who,169.176.205.251,raymond47,Europe,Successful
+2024-08-22 15:34:04.917231,Tristan Miller,Impact,Network Sniffing,Network,Medium,month,163.132.24.51,martinezstephanie,South America,Successful
+2021-05-10 02:08:56.753725,Maureen Pierce,Impact,PowerShell,Phishing,Medium,energy,71.154.182.148,blaircharles,US,Failed
+2023-04-27 18:47:16.704421,Randall Gray,Collection,Access Token Manipulation,Email,Critical,decide,45.62.246.165,caldwellbryan,Asia,Successful
+2021-09-03 15:20:56.241854,Samantha Sullivan,Defense Evasion,Phishing,USB,Critical,car,137.140.9.11,emily22,Australia,Successful
+2020-01-16 03:34:04.092184,Adam Farrell,Persistence,Ransomware,USB,Low,quickly,28.174.130.15,garciakevin,South America,Successful
+2022-11-12 13:47:13.299310,Sarah Coleman,Privilege Escalation,Access Token Manipulation,USB,Medium,money,22.178.9.110,margaretrichards,Australia,Failed
+2022-06-21 20:38:29.677155,Katherine Miller,Collection,Taint Shared Content,USB,Medium,bag,21.54.235.214,mrobinson,Europe,Failed
+2022-11-08 12:03:57.893955,Stephanie Vega,Persistence,Credential Dumping,Phishing,Critical,military,207.83.131.199,qsmith,Asia,Failed
+2023-12-18 07:32:29.458938,Zachary Jones,Execution,Access Token Manipulation,Web,Low,could,182.110.160.50,ortizkyle,South America,Failed
+2022-03-20 19:42:44.670851,Lisa Patel,Persistence,Network Sniffing,Phishing,High,since,56.30.161.240,greenmichelle,Africa,Successful
+2021-02-03 09:15:22.156367,Amy Bryan,Discovery,Data Encrypted,Network,Low,get,25.94.156.196,colleenhill,Africa,Successful
+2022-08-16 14:49:18.391359,Vicki Smith,Initial Access,Credential Dumping,Web,Low,leave,160.6.91.254,qthomas,Asia,Failed
+2021-02-16 11:54:41.084981,Kylie Perez,Persistence,PowerShell,Network,Low,state,38.28.162.31,noah99,Africa,Failed
+2021-12-02 07:18:33.660830,Leah Williams,Discovery,Command and Scripting Interpreter,USB,Medium,above,18.40.188.17,lindseygreen,US,Successful
+2023-01-04 23:41:14.457261,Edward Gill,Discovery,Ransomware,Network,Critical,rest,93.133.10.142,ryanwall,Asia,Successful
+2020-11-22 00:08:35.767039,Thomas Grant,Privilege Escalation,Access Token Manipulation,Network,Critical,when,89.187.165.64,wgentry,Europe,Failed
+2024-01-08 17:49:04.702847,Terri Daniel,Defense Evasion,Taint Shared Content,USB,High,doctor,69.218.74.73,melissapatel,Australia,Successful
+2023-10-03 11:18:22.987755,Danielle Carter,Discovery,Taint Shared Content,Web,Low,human,70.178.76.20,chelseatodd,US,Successful
+2020-01-14 13:52:13.640761,Caroline Kim,Discovery,Credential Dumping,Web,Low,people,1.240.183.0,autumn97,South America,Failed
+2021-01-08 05:36:48.571764,Jennifer Savage,Execution,Ransomware,Network,Low,person,77.203.1.212,rachel15,South America,Failed
+2021-09-24 07:07:06.710691,Victor Simmons,Impact,PowerShell,Email,Low,three,153.231.99.33,lorilewis,US,Successful
+2024-06-07 15:28:30.085361,Ellen Rios,Exfiltration,Command and Scripting Interpreter,Web,Medium,because,89.114.106.102,michaelparrish,Africa,Failed
+2021-09-17 11:15:20.893891,Stephanie Sullivan,Exfiltration,Credential Dumping,Web,Medium,case,213.28.14.207,kathleen83,Asia,Successful
+2022-12-14 19:32:58.589727,Emily Nicholson,Credential Access,Exploitation of Vulnerability,Network,Medium,bed,198.178.51.218,rmyers,South America,Successful
+2024-06-10 19:54:33.742793,Elizabeth Hatfield,Collection,Data Encrypted,Network,High,nice,22.3.65.81,robert40,US,Failed
+2021-11-27 09:15:49.969101,Jonathan Cooper,Exfiltration,Spearphishing Attachment,Email,Critical,worry,60.250.151.249,louisbrock,Africa,Successful
+2021-01-21 15:42:21.766260,Patrick Harris,Execution,Data Encrypted,Email,Critical,within,13.203.13.105,adrian85,Africa,Successful
+2021-05-08 06:16:17.543338,Steven Davis,Execution,PowerShell,Network,Low,season,20.208.247.70,newtonjacob,Australia,Failed
+2020-10-21 17:54:44.072398,Mr. Robert Jensen II,Exfiltration,Spearphishing Attachment,USB,Critical,begin,78.170.161.151,gonzalezcristina,South America,Successful
+2023-09-01 23:04:59.016609,Maria Briggs,Privilege Escalation,Spearphishing Attachment,Network,High,figure,70.7.212.130,robert88,Asia,Successful
+2024-08-07 01:02:31.162088,Tammy Bond,Impact,Credential Dumping,Phishing,High,up,218.237.219.169,scottjohnson,Africa,Successful
+2020-06-21 16:23:38.323641,Amber Young,Privilege Escalation,Access Token Manipulation,Network,Critical,quite,19.145.137.99,grussell,US,Successful
+2024-07-03 21:48:10.435873,Jacob Oneal,Collection,Ransomware,USB,Low,measure,164.126.131.155,johnbarnett,US,Successful
+2022-10-12 15:52:24.838699,Rhonda Vasquez,Exfiltration,Credential Dumping,Network,Medium,ask,180.242.1.232,hawkinsmarcus,Africa,Failed
+2020-04-21 04:19:54.210307,Jacqueline Curtis,Persistence,PowerShell,Email,High,big,121.12.222.36,michellemontes,Australia,Failed
+2024-04-05 05:46:57.858498,Scott Shields,Discovery,Credential Dumping,Email,Medium,investment,163.221.4.152,fthompson,South America,Successful
+2022-08-07 01:24:51.770574,Jason Deleon,Privilege Escalation,Exploitation of Vulnerability,USB,High,among,33.100.132.239,jonesrobin,Asia,Failed
+2024-02-20 20:07:18.352984,Edward Deleon,Defense Evasion,Network Sniffing,Network,Critical,painting,175.213.92.215,seanacosta,Europe,Failed
+2024-07-08 00:33:40.798684,Daniel Russell,Credential Access,Ransomware,Network,Low,until,150.226.245.91,bushstephanie,US,Failed
+2020-09-06 20:42:10.310923,David Sanders,Exfiltration,Phishing,USB,Medium,us,123.85.24.87,garciakelli,Africa,Successful
+2022-05-29 21:43:05.816595,Thomas Pratt,Collection,Phishing,Phishing,Medium,group,189.201.11.179,holmesheather,Asia,Failed
+2020-06-30 10:25:38.260759,Tammy Murray,Collection,Credential Dumping,Email,Critical,night,181.2.94.182,watkinsterri,South America,Failed
+2024-04-25 12:52:38.588558,Samantha Frazier,Exfiltration,Taint Shared Content,USB,Low,seek,75.23.33.52,philipwhitehead,Europe,Successful
+2021-05-23 16:46:03.788558,Nathaniel Johnson,Exfiltration,Access Token Manipulation,Phishing,Critical,theory,139.214.96.134,morgan16,US,Successful
+2024-10-14 21:35:21.436783,Gregory Huynh,Lateral Movement,Access Token Manipulation,Web,Medium,discover,95.247.75.250,elizabeth17,Europe,Successful
+2022-03-07 06:31:49.867361,Melanie Gordon,Initial Access,Taint Shared Content,USB,Critical,defense,184.135.52.169,jennifer44,US,Successful
+2020-09-17 17:46:54.980839,Jacob Perkins,Initial Access,Access Token Manipulation,Network,Critical,begin,171.175.16.74,adammitchell,Australia,Successful
+2023-03-16 17:51:13.070841,Deborah Clark,Discovery,Command and Scripting Interpreter,Phishing,Medium,world,111.70.128.116,sandersamanda,Asia,Failed
+2023-08-12 12:14:48.084218,Steven Guzman,Initial Access,Data Encrypted,Email,Critical,show,174.43.162.25,zachary34,Australia,Failed
+2024-10-01 02:24:26.650730,Beth Randall,Execution,Ransomware,Network,Critical,traditional,126.127.21.25,chicks,Australia,Failed
+2022-08-15 02:59:53.629621,Mark Cook,Execution,Network Sniffing,Phishing,Medium,first,218.55.43.116,joelcollins,US,Successful
+2022-05-05 21:21:31.518902,Patrick Cervantes,Discovery,PowerShell,Web,Low,identify,72.65.175.13,carrolllinda,South America,Successful
+2020-10-12 22:43:38.825843,Joshua Wolfe,Persistence,Spearphishing Attachment,Email,Medium,everyone,190.213.217.34,ambermitchell,Africa,Failed
+2021-06-27 22:32:04.973907,Jason Phillips,Lateral Movement,Data Encrypted,Web,Low,loss,43.137.66.84,nixonbilly,Australia,Successful
+2022-02-20 20:51:11.157222,Jared Chase,Defense Evasion,Phishing,Email,Medium,way,126.224.102.125,kennethallen,Africa,Failed
+2023-02-28 15:08:39.825626,Theodore Hernandez,Execution,Network Sniffing,Network,Low,family,173.41.249.149,emilypalmer,Asia,Failed
+2020-11-11 05:32:45.569329,Christopher Soto,Execution,Network Sniffing,Network,Medium,require,10.132.165.144,donald30,Europe,Failed
+2024-03-19 13:07:29.894658,Veronica Morales,Credential Access,Network Sniffing,Email,Critical,power,71.29.212.112,mathistyler,US,Failed
+2020-05-19 13:03:11.250135,Mark Adams MD,Lateral Movement,Spearphishing Attachment,Phishing,Critical,scene,129.191.242.24,uolson,South America,Successful
+2020-02-05 02:59:24.052683,Samantha Anderson,Discovery,Credential Dumping,Email,Low,hospital,186.172.27.180,hamiltonfernando,Africa,Successful
+2022-03-17 23:51:31.109753,Stacie Velasquez,Privilege Escalation,Credential Dumping,Network,Medium,activity,60.8.123.202,fbuckley,South America,Successful
+2022-07-05 15:24:03.528928,Robert Jackson,Lateral Movement,Spearphishing Attachment,Web,Low,strong,63.77.149.121,averyheather,Europe,Failed
+2023-12-25 14:40:05.287845,Zachary White,Privilege Escalation,Access Token Manipulation,Phishing,High,message,24.55.144.76,julia40,Australia,Successful
+2021-05-10 22:02:03.807596,Jerry Montoya,Persistence,Exploitation of Vulnerability,Email,Critical,many,26.202.166.96,lawrence99,Europe,Failed
+2022-05-25 17:50:19.437785,Thomas Ryan,Credential Access,Command and Scripting Interpreter,Network,Medium,growth,198.31.207.57,alexandermontoya,Africa,Successful
+2023-08-15 01:17:55.983918,Heather Mccann,Initial Access,Command and Scripting Interpreter,Network,Low,successful,188.179.107.37,briansandoval,Europe,Successful
+2023-10-15 21:59:01.841951,Mr. Andrew Robinson PhD,Persistence,Access Token Manipulation,Network,Critical,product,207.145.11.192,medinajessica,US,Failed
+2021-11-27 08:25:52.649358,Margaret Conner,Discovery,Credential Dumping,USB,Low,unit,41.204.182.226,thomas40,Europe,Successful
+2023-07-06 21:47:11.108899,Ryan Castillo,Privilege Escalation,Spearphishing Attachment,Email,Critical,understand,204.69.234.160,dunnangela,Australia,Failed
+2022-07-19 23:35:29.630093,Dylan Brooks,Lateral Movement,Command and Scripting Interpreter,Web,Low,opportunity,136.83.102.181,riveraaustin,Europe,Failed
+2022-04-02 12:49:24.393872,Derek Blair,Discovery,Access Token Manipulation,Web,Low,another,74.153.19.230,hlewis,Australia,Successful
+2023-07-20 02:27:21.900020,Robert Smith,Lateral Movement,Network Sniffing,Web,Critical,nation,114.206.194.27,clarkolivia,Australia,Successful
+2024-11-07 20:07:02.144320,Kathleen Bryant,Persistence,Network Sniffing,Email,Medium,seven,199.247.69.207,fmoore,South America,Failed
+2020-07-28 06:41:27.148279,Scott Cochran,Defense Evasion,Network Sniffing,USB,Medium,surface,172.248.51.21,ugalvan,Africa,Failed
+2022-04-25 17:25:10.138410,Christopher Fisher,Privilege Escalation,Spearphishing Attachment,Web,Critical,push,154.252.169.252,michael75,Europe,Failed
+2024-06-03 11:22:59.523078,Susan Allen,Credential Access,Phishing,USB,Low,here,122.163.214.74,ymathews,Africa,Successful
+2022-12-31 11:18:21.902901,Daniel Diaz,Persistence,Command and Scripting Interpreter,Email,Low,behavior,154.27.160.107,stephanie71,Africa,Failed
+2023-06-01 00:10:06.345320,Peter Logan,Persistence,Phishing,Network,Critical,week,140.187.173.108,joseph43,Africa,Failed
+2021-06-05 19:10:49.412379,Stephen Hayes,Discovery,Data Encrypted,Email,Critical,subject,200.183.211.113,lindsey54,Europe,Successful
+2022-02-08 06:18:34.718736,Casey Garrett,Credential Access,Command and Scripting Interpreter,Phishing,Low,pay,182.172.29.85,dmccarty,South America,Failed
+2022-11-25 10:08:23.794082,Brandi Green,Collection,Data Encrypted,Web,Medium,people,166.154.77.34,kendra20,Asia,Successful
+2021-08-27 18:16:42.475806,Joy Roman,Collection,Phishing,Web,Low,nearly,141.67.13.96,campbellmike,US,Successful
+2023-12-23 01:34:25.741745,Henry Hickman,Initial Access,Ransomware,Network,Critical,care,142.90.163.57,lpatton,South America,Successful
+2022-03-12 15:46:14.719609,Patrick Williams,Collection,Spearphishing Attachment,Network,Medium,federal,174.173.177.219,donna00,Africa,Failed
+2023-04-03 08:13:01.704370,Kristin Hunt,Persistence,Data Encrypted,Email,Medium,together,91.109.86.21,joshuamoore,US,Successful
+2021-05-12 22:56:34.747278,Carolyn Johnson,Initial Access,Ransomware,Network,Low,civil,1.35.81.103,quinneric,Asia,Failed
+2023-08-26 17:22:42.446339,Dr. Katherine Jackson,Credential Access,Credential Dumping,Phishing,Medium,cut,50.194.82.87,schneidermichelle,Australia,Failed
+2020-03-10 18:19:08.244837,Daniel Smith,Exfiltration,Access Token Manipulation,Web,Critical,pressure,62.84.192.253,leonardmorgan,Africa,Successful
+2024-04-27 20:13:34.830973,Jennifer Mayer,Exfiltration,Network Sniffing,Network,Medium,face,28.204.213.238,bowenkyle,US,Successful
+2021-07-25 00:20:09.561483,Philip Marshall,Lateral Movement,Ransomware,Network,Critical,spend,48.180.83.141,taylorlowery,Africa,Failed
+2023-11-26 11:19:23.423553,Elizabeth Salazar,Credential Access,Ransomware,Email,Low,interview,102.120.189.69,ashleygarcia,US,Failed
+2020-11-24 22:49:58.243323,Matthew Martin,Credential Access,Credential Dumping,USB,Critical,talk,22.194.15.147,lreid,South America,Successful
+2023-05-20 10:37:52.608979,Dawn Johnson,Defense Evasion,Network Sniffing,Network,High,candidate,165.202.6.131,pachecoanne,South America,Successful
+2022-11-18 05:44:15.470689,James Hunt,Initial Access,Command and Scripting Interpreter,Web,Critical,degree,86.74.63.25,wkelley,Asia,Failed
+2021-01-09 05:15:24.435208,Cheryl Vega,Credential Access,Network Sniffing,Phishing,High,lay,6.90.202.222,hansenparker,US,Successful
+2023-04-12 14:04:38.350652,Elizabeth Duncan,Persistence,Exploitation of Vulnerability,Network,Low,reality,189.157.108.31,greenthomas,South America,Successful
+2023-03-14 21:07:03.441929,Joshua Snyder,Persistence,Command and Scripting Interpreter,USB,High,natural,153.43.151.96,johnsalexander,South America,Successful
+2022-08-06 07:49:51.186332,Lori Smith,Defense Evasion,Ransomware,Network,Low,compare,15.163.56.9,jameswinters,South America,Successful
+2021-07-21 10:30:50.812639,Carla Fisher,Credential Access,PowerShell,Phishing,Medium,his,210.5.69.160,steven90,Australia,Failed
+2023-06-25 20:27:46.410918,Mrs. Christina Robbins PhD,Persistence,Data Encrypted,Network,High,employee,147.47.91.157,carlostaylor,Africa,Successful
+2023-06-15 22:26:15.989697,John Colon,Collection,Taint Shared Content,Phishing,High,ready,21.77.33.199,smcbride,Africa,Successful
+2024-09-25 12:51:29.603257,Mark Gray,Defense Evasion,Exploitation of Vulnerability,USB,Critical,cold,13.29.165.66,iatkins,South America,Failed
+2022-02-27 01:37:24.745025,Tony Brown,Execution,Spearphishing Attachment,Email,High,newspaper,8.253.188.35,bradleyspencer,Australia,Successful
+2020-08-09 14:38:41.465169,Jennifer Riggs,Exfiltration,Data Encrypted,Network,Critical,to,121.225.9.247,qestrada,Africa,Failed
+2023-09-24 02:38:59.505164,John Ellis,Initial Access,Command and Scripting Interpreter,Network,Medium,miss,132.172.208.7,williamsmarc,Asia,Failed
+2024-01-03 03:40:50.271082,Wanda Stephens DDS,Persistence,Data Encrypted,Web,Medium,oil,80.51.176.215,dcraig,US,Failed
+2021-04-08 04:43:56.325917,Matthew Wilson,Defense Evasion,Exploitation of Vulnerability,USB,Critical,both,6.60.82.162,scottpamela,Europe,Successful
+2023-03-28 08:41:06.848184,Scott Lewis,Collection,Access Token Manipulation,USB,Low,leave,136.251.148.126,lunaphilip,Europe,Successful
+2023-10-20 19:05:18.424878,Erin Mckay,Exfiltration,Exploitation of Vulnerability,USB,Low,discussion,6.192.10.41,wpitts,Asia,Successful
+2021-01-07 09:37:51.912830,Stephanie Brown,Impact,Credential Dumping,Web,Critical,lay,150.12.38.63,nstephens,South America,Successful
+2022-11-24 18:19:59.555356,James Coffey,Privilege Escalation,Taint Shared Content,USB,Critical,per,3.133.12.71,amanda78,Asia,Failed
+2021-01-29 17:51:04.380085,Janice Mcdowell,Persistence,Credential Dumping,USB,Low,score,51.18.106.216,kbishop,South America,Failed
+2024-04-15 01:45:25.371522,Samantha Holloway,Collection,PowerShell,Email,High,such,65.86.196.82,marysullivan,US,Successful
+2020-07-19 17:44:28.425584,Ashley Wallace,Credential Access,Credential Dumping,Phishing,High,different,87.189.73.239,hfuller,US,Failed
+2022-06-27 22:49:14.592049,Travis Romero,Privilege Escalation,Command and Scripting Interpreter,Network,High,gun,152.38.5.122,kimberly84,US,Successful
+2021-01-02 21:14:06.329880,Kristina Robinson,Execution,Command and Scripting Interpreter,Web,Medium,girl,211.24.93.224,andrea01,Australia,Failed
+2023-08-28 23:02:48.677913,Katherine Howard,Collection,Spearphishing Attachment,Phishing,Critical,reality,145.42.188.25,meredith92,US,Failed
+2022-12-22 07:52:39.014689,Christine Crane,Initial Access,Data Encrypted,Email,Critical,whose,58.134.181.225,randy20,Australia,Successful
+2024-04-27 15:03:40.594216,Heather Miranda,Execution,Ransomware,Email,High,Mr,104.140.158.239,ubraun,Australia,Failed
+2024-01-20 23:59:47.767418,Michael Davila,Initial Access,Access Token Manipulation,Web,Low,again,43.51.216.209,jason62,South America,Failed
+2020-09-21 20:51:15.464986,Pamela Fletcher,Collection,Network Sniffing,Phishing,Critical,model,176.206.43.145,david90,Europe,Successful
+2023-04-29 14:36:15.283490,Elizabeth Sharp,Persistence,Ransomware,Network,Critical,effect,154.110.189.37,normanethan,Africa,Successful
+2022-02-12 18:54:26.509150,Michelle Murphy,Credential Access,Command and Scripting Interpreter,Phishing,Low,truth,189.236.105.190,daviddavis,Europe,Successful
+2022-06-16 00:35:21.382505,Linda Wallace,Collection,Taint Shared Content,Web,Medium,protect,146.110.201.167,isaac64,Asia,Successful
+2023-03-05 17:20:43.275190,Sydney Mcfarland,Impact,PowerShell,Web,Low,decide,182.102.131.102,tiffany27,Australia,Successful
+2022-12-29 06:12:03.038435,Crystal Miller,Persistence,Access Token Manipulation,Email,High,store,24.232.45.128,patrickrodriguez,Asia,Successful
+2020-06-08 02:13:45.065769,Sabrina Morgan,Lateral Movement,Network Sniffing,Email,High,design,206.160.27.66,ray48,South America,Failed
+2022-10-05 00:25:01.480180,Maria Rocha,Execution,Phishing,Email,Medium,beyond,118.89.193.27,merrittdiana,South America,Successful
+2021-10-24 07:22:57.119662,Joshua Skinner,Persistence,Taint Shared Content,Web,Critical,run,205.35.105.22,samuelbailey,Europe,Failed
+2024-06-10 13:23:46.858681,Jacob Alvarez,Lateral Movement,Access Token Manipulation,Web,Low,I,164.235.113.233,simoncharles,Europe,Successful
+2022-07-07 16:41:05.603150,Nathaniel Rodriguez,Persistence,Network Sniffing,Network,Low,individual,73.214.208.251,qtucker,Australia,Failed
+2023-05-16 20:58:02.519643,Dustin Baldwin,Persistence,PowerShell,Phishing,Critical,tend,34.176.201.34,jimmy21,South America,Failed
+2022-06-30 21:50:22.237619,David Silva,Execution,Access Token Manipulation,Phishing,Medium,end,13.31.175.238,solomoncaitlin,Europe,Successful
+2023-03-31 17:00:51.963364,Joseph Mills,Credential Access,Data Encrypted,Network,Critical,television,118.44.76.151,elizabeth84,Asia,Failed
+2021-05-10 10:51:08.089787,Douglas Norman,Persistence,Data Encrypted,Email,Medium,truth,96.183.113.93,jacksonalbert,US,Successful
+2020-06-26 21:51:09.466187,Jessica Ferguson,Collection,Exploitation of Vulnerability,Network,Medium,view,80.80.189.14,cynthiawilliamson,South America,Failed
+2023-03-09 07:46:40.124853,Robert Glover,Execution,PowerShell,Web,Critical,thus,56.149.169.167,christopher73,South America,Failed
+2023-12-13 12:27:52.953206,Thomas Murray,Discovery,Ransomware,USB,High,against,131.193.64.251,sanderson,Africa,Failed
+2024-07-14 18:19:01.754071,Joshua Sanchez,Impact,Data Encrypted,USB,Medium,should,75.240.3.67,amanda87,Australia,Successful
+2024-09-11 04:50:50.119796,Kenneth Ramos,Impact,Phishing,Phishing,Low,notice,83.108.119.107,gravesandrew,Asia,Successful
+2020-11-02 14:48:48.717456,Scott Decker,Credential Access,Taint Shared Content,Email,Low,crime,23.15.150.154,rflores,Asia,Failed
+2021-08-29 12:49:44.420850,Emily Gallegos,Exfiltration,Command and Scripting Interpreter,Web,Low,especially,176.0.225.113,alexis43,Australia,Failed
+2024-02-21 13:12:54.778478,Justin Lucas,Credential Access,Access Token Manipulation,USB,High,choose,57.9.189.85,kanderson,Asia,Failed
+2022-03-24 14:24:30.773875,Danielle Aguirre,Persistence,Network Sniffing,Email,Medium,in,173.103.65.87,william94,Asia,Failed
+2020-11-16 09:02:41.046197,Christina Hardy MD,Collection,Credential Dumping,Web,Critical,year,189.254.53.232,slane,Australia,Failed
+2024-11-08 01:39:15.732246,Tracy Daugherty,Credential Access,Phishing,USB,Critical,ahead,158.160.23.155,boyercarol,Asia,Failed
+2020-01-19 21:23:12.041186,Anthony Miller,Defense Evasion,Exploitation of Vulnerability,Email,Critical,main,36.250.226.32,stacy85,US,Failed
+2021-02-09 12:28:31.054435,Michael Brooks,Collection,Phishing,USB,Medium,manager,106.139.144.36,stephenestrada,Europe,Failed
+2020-07-22 02:30:58.073901,Zachary Vance,Lateral Movement,Data Encrypted,USB,Medium,three,193.4.150.20,sarawoodard,Africa,Successful
+2021-07-13 09:33:22.819401,Corey Scott,Privilege Escalation,Data Encrypted,Network,High,notice,219.31.95.37,garciabrandon,US,Failed
+2024-07-19 06:24:49.713242,Anita Newton,Collection,Access Token Manipulation,Network,Critical,interview,135.47.224.238,tracy59,Africa,Failed
+2022-06-29 08:14:48.419663,James Rosario,Defense Evasion,Exploitation of Vulnerability,Network,Critical,sense,192.196.79.78,ydiaz,Australia,Successful
+2024-08-16 08:54:14.631425,Laurie Alexander,Exfiltration,Exploitation of Vulnerability,USB,Low,purpose,10.20.29.237,kevin21,US,Failed
+2022-11-14 13:17:02.002474,Sarah Mcfarland,Exfiltration,Network Sniffing,Web,Low,company,193.236.142.246,cheryl06,Australia,Successful
+2022-07-27 12:15:28.217190,Ricky Torres Jr.,Collection,PowerShell,Network,Critical,shoulder,87.247.144.123,amanda03,Asia,Failed
+2023-12-30 07:21:51.604251,Troy Coleman,Collection,Command and Scripting Interpreter,USB,Critical,travel,112.135.101.231,zacharytaylor,South America,Failed
+2024-05-18 10:31:29.313672,Brandon Williams,Lateral Movement,Phishing,Web,Critical,time,204.127.69.110,margaretgreen,US,Successful
+2023-12-13 13:29:36.894824,Cindy Johnson,Lateral Movement,Exploitation of Vulnerability,Phishing,High,sell,41.105.88.213,davidjackson,Europe,Successful
+2023-07-28 12:38:50.061998,Trevor Griffin,Discovery,Data Encrypted,Network,Medium,year,36.24.177.206,youngmiguel,Australia,Failed
+2023-06-22 21:57:01.594475,Roberta Taylor,Privilege Escalation,Spearphishing Attachment,Network,High,audience,199.96.43.103,edward53,Europe,Successful
+2021-04-07 07:49:01.571944,Melissa Pennington,Privilege Escalation,Data Encrypted,Email,High,son,41.158.94.222,martinbrandi,US,Failed
+2022-08-21 02:22:06.657866,Kerri Jackson,Impact,Access Token Manipulation,Web,Critical,focus,171.61.42.43,sawyersean,Asia,Successful
+2020-03-09 01:04:37.668706,Danny Lopez,Lateral Movement,Access Token Manipulation,USB,Medium,fight,199.131.6.146,judythompson,Asia,Successful
+2021-11-28 16:19:48.459489,Julie Chambers,Credential Access,Command and Scripting Interpreter,Network,Medium,attack,84.32.10.83,abigail94,Africa,Failed
+2021-01-27 21:15:57.802311,Kayla Gomez,Collection,PowerShell,Email,High,billion,154.232.127.213,ericsmith,Asia,Successful
+2023-10-02 15:54:18.514953,Joel Miles,Exfiltration,Taint Shared Content,Web,Low,fast,62.182.230.7,amberanderson,US,Successful
+2024-06-21 10:25:33.325232,Kevin Duke,Defense Evasion,Spearphishing Attachment,Web,Low,prevent,194.232.223.175,robertsjodi,Africa,Successful
+2021-04-09 22:23:07.280935,Christopher Hines,Privilege Escalation,Access Token Manipulation,Web,High,product,101.77.3.88,mdixon,South America,Failed
+2022-12-30 18:02:13.619441,Raymond Henry,Impact,Ransomware,Web,High,first,83.118.148.141,jonesjeffrey,Asia,Successful
+2024-01-15 20:19:02.877625,Adam Davis,Exfiltration,Spearphishing Attachment,Network,High,our,70.221.123.67,nancy35,Europe,Successful
+2024-06-11 14:13:31.400440,Paul Elliott,Execution,Network Sniffing,Phishing,Medium,seat,134.60.248.15,millertodd,US,Failed
+2023-04-30 11:15:09.928935,Tiffany Garcia,Defense Evasion,Command and Scripting Interpreter,Web,Low,stand,186.126.62.228,pottsvirginia,South America,Successful
+2022-02-23 16:36:01.109460,Thomas Phelps,Impact,Spearphishing Attachment,Email,Medium,or,180.234.108.64,sbrown,US,Failed
+2020-01-14 16:24:33.317418,Anna Sellers,Credential Access,Exploitation of Vulnerability,Network,Low,answer,181.2.17.65,johnsonbrent,South America,Successful
+2024-02-05 00:22:24.368986,Denise Lewis,Lateral Movement,Ransomware,Email,Low,maintain,73.179.79.233,christopher27,Africa,Successful
+2020-07-19 05:06:06.699891,Whitney Moore,Lateral Movement,Network Sniffing,USB,Critical,sit,151.113.102.76,cavila,Asia,Failed
+2020-01-25 17:42:58.885801,Jennifer Diaz,Lateral Movement,Credential Dumping,Network,High,trial,132.158.89.2,cdavis,South America,Failed
+2022-05-05 07:13:07.609416,Daniel Bartlett,Persistence,Exploitation of Vulnerability,USB,Low,certain,204.100.237.216,johndouglas,Africa,Failed
+2020-12-18 15:44:04.575591,Marissa Blackwell,Impact,Data Encrypted,Web,Medium,mind,98.164.170.150,harold90,Asia,Successful
+2020-06-01 12:31:06.641382,Harold Lee,Impact,Ransomware,Phishing,Critical,fight,131.248.249.195,joseph78,Africa,Successful
+2021-02-24 03:26:45.920509,Jose Jones,Impact,Network Sniffing,Network,Low,difference,213.137.164.199,rchambers,US,Failed
+2020-01-31 18:25:59.046292,Joshua Pennington,Lateral Movement,Ransomware,USB,Medium,mouth,188.9.174.220,carlos94,US,Failed
+2020-04-04 08:56:20.809083,Mary Jackson,Defense Evasion,Taint Shared Content,Web,High,then,61.181.69.13,kmitchell,Australia,Successful
+2022-08-21 04:12:12.639710,Dustin Ellison,Privilege Escalation,PowerShell,Email,Medium,could,9.241.247.87,lriggs,Europe,Successful
+2023-04-05 00:51:43.802024,Jeanette Tran,Execution,Command and Scripting Interpreter,Email,Low,million,169.28.144.217,francesholt,South America,Failed
+2024-03-26 16:51:06.191797,Kayla Fields,Lateral Movement,Ransomware,Network,High,imagine,28.89.39.206,lewismia,Africa,Successful
+2022-05-05 21:46:06.492556,Brian Wood,Discovery,Spearphishing Attachment,Email,Low,similar,78.176.190.78,tranamy,Australia,Failed
+2024-10-21 01:37:00.241784,Joshua Avila,Impact,Spearphishing Attachment,Network,Low,body,161.59.193.215,pchavez,Asia,Successful
+2022-10-03 10:58:28.313667,Stephanie Hicks,Exfiltration,Data Encrypted,Email,Low,Mrs,22.244.243.71,tanya00,Europe,Successful
+2020-04-24 23:05:04.570244,Steven Briggs,Credential Access,Ransomware,Phishing,Low,term,31.237.165.189,angela74,US,Successful
+2022-10-25 23:02:26.343045,Darrell Quinn,Execution,Exploitation of Vulnerability,Web,Medium,building,189.183.11.160,nwilson,Africa,Successful
+2023-08-27 12:55:13.497191,Nicholas Sparks,Privilege Escalation,Access Token Manipulation,Phishing,High,seek,116.209.144.124,bakererica,Europe,Failed
+2021-09-13 01:37:49.122931,Connie Simpson,Lateral Movement,Command and Scripting Interpreter,Email,Low,treatment,33.202.116.139,vwilliams,South America,Successful
+2022-08-24 18:16:57.641238,Kathryn Greene,Privilege Escalation,Network Sniffing,USB,Low,note,195.34.189.147,hollyking,Africa,Successful
+2020-06-21 08:10:40.197853,Katherine Atkinson,Defense Evasion,Network Sniffing,USB,Low,reach,185.113.177.224,sean37,Africa,Successful
+2021-03-20 16:52:28.546569,John Barr,Execution,Credential Dumping,Phishing,Critical,science,189.204.238.109,christopher81,US,Failed
+2020-11-26 18:18:49.285343,Ashley Wood,Initial Access,Access Token Manipulation,Phishing,High,scientist,160.76.142.12,michaeljohnson,Africa,Successful
+2020-05-15 12:13:52.870073,Michael Jacobs,Execution,Spearphishing Attachment,Email,Low,make,212.245.23.141,lawrence53,US,Failed
+2024-05-14 18:01:05.991055,Mr. Christopher Smith DDS,Persistence,Access Token Manipulation,USB,High,away,104.131.169.200,taylormegan,South America,Successful
+2020-11-03 17:17:03.561759,Haley Clark,Credential Access,Credential Dumping,Network,Critical,herself,111.62.27.60,wguzman,Africa,Successful
+2023-01-21 22:10:20.009002,Benjamin Pitts,Lateral Movement,Exploitation of Vulnerability,Web,Low,last,33.127.62.109,lauren07,Europe,Successful
+2021-12-23 14:53:14.283026,Kimberly Robinson,Exfiltration,Spearphishing Attachment,Email,High,chair,106.179.71.197,wesley47,South America,Successful
+2024-07-16 05:46:34.906741,Thomas Silva,Lateral Movement,Network Sniffing,USB,Low,marriage,46.213.59.85,rosechristopher,Australia,Successful
+2023-12-23 09:04:25.909204,Chris Best,Execution,Network Sniffing,Email,Critical,talk,51.75.22.212,robertward,US,Successful
+2020-06-04 14:19:26.842973,Edward Ramirez,Lateral Movement,Ransomware,Network,Low,window,163.53.83.144,toliver,South America,Successful
+2024-10-10 06:10:01.400683,Joseph Mcknight,Initial Access,Network Sniffing,Phishing,Low,billion,153.154.181.116,madelinesmith,Europe,Successful
+2022-07-26 01:08:15.869512,Maria Ray,Persistence,Credential Dumping,USB,Medium,voice,142.69.90.75,heatheranderson,Africa,Successful
+2022-10-17 12:34:26.843117,Lori Gonzalez,Persistence,Access Token Manipulation,USB,High,term,18.176.149.213,eturner,Asia,Successful
+2024-01-14 17:52:38.912444,Sabrina Rodriguez,Credential Access,Access Token Manipulation,Phishing,Low,experience,86.212.156.196,nicholas01,US,Failed
+2020-04-11 14:11:21.872362,Kevin Adams,Execution,Exploitation of Vulnerability,USB,Medium,buy,21.105.121.22,qparsons,Europe,Failed
+2023-10-20 08:13:29.623334,Deborah Clark,Persistence,Ransomware,Web,Low,structure,63.246.146.200,wilsonanna,South America,Successful
+2024-01-20 23:23:57.150559,Megan Ford,Execution,Network Sniffing,Email,Low,hear,198.224.138.83,groberts,Asia,Successful
+2024-10-20 20:19:39.652153,Heather Holloway,Persistence,Network Sniffing,Phishing,Low,between,83.124.27.136,georgemiller,South America,Failed
+2023-07-19 02:43:46.705865,Jennifer Taylor,Defense Evasion,Network Sniffing,Network,Low,step,52.6.165.244,rachelbaldwin,Europe,Failed
+2022-12-27 11:53:16.815245,Thomas Cummings,Defense Evasion,Network Sniffing,Email,Critical,someone,157.117.116.75,leonjoel,Africa,Successful
+2021-07-18 18:02:46.658949,Rebecca Riley,Initial Access,Phishing,Phishing,Low,natural,223.50.47.91,jenniferturner,South America,Failed
+2023-03-23 20:56:26.738687,Robin Barton,Privilege Escalation,Phishing,Email,High,heavy,178.184.202.93,stevenwagner,Australia,Successful
+2022-09-14 05:47:14.777166,Kendra Cowan,Persistence,Credential Dumping,Network,High,wife,216.14.51.125,gregorybooth,Europe,Failed
+2024-02-15 02:06:45.241939,Mr. Jordan Nelson,Collection,Ransomware,Network,High,involve,54.112.69.70,brenda18,Africa,Successful
+2023-07-16 13:06:43.903722,Bryan Moran,Privilege Escalation,Spearphishing Attachment,Web,Low,environment,78.63.93.4,justin91,Europe,Successful
+2024-01-16 03:12:26.020137,Ashley Kent MD,Discovery,Exploitation of Vulnerability,USB,High,look,150.192.79.69,donaldsonryan,Africa,Successful
+2021-06-03 23:22:22.703267,Carolyn Hull,Defense Evasion,Credential Dumping,Email,Low,whom,136.141.231.194,aguilartyler,South America,Successful
+2022-10-18 22:20:29.974689,Matthew Carter,Privilege Escalation,Network Sniffing,Email,Low,information,219.186.59.126,lonnie26,Africa,Failed
+2024-06-28 10:37:07.783604,Debra Alvarez,Persistence,Credential Dumping,Network,High,stand,55.126.198.207,mlopez,South America,Successful
+2022-08-29 21:14:07.233140,Ray Contreras,Collection,Ransomware,Email,High,understand,217.44.53.33,jonathanmeadows,Australia,Failed
+2023-04-16 19:52:00.347875,Hannah Raymond,Initial Access,Spearphishing Attachment,Web,Low,civil,84.208.5.235,adam52,US,Successful
+2021-02-02 06:51:10.043209,Brenda Stevens,Credential Access,Phishing,Web,Medium,sea,153.247.223.26,jamesluna,Asia,Successful
+2021-06-28 19:13:02.807689,Mark Kennedy,Exfiltration,Credential Dumping,USB,High,language,56.194.145.140,pricesteven,Europe,Failed
+2021-03-12 22:22:46.243021,Diane Myers,Impact,Ransomware,Web,Critical,listen,72.21.108.212,kevin83,Australia,Successful
+2024-05-13 10:29:09.206487,Steven Hodge,Exfiltration,Credential Dumping,Network,High,environmental,68.233.1.47,heatherlopez,Asia,Successful
+2024-02-14 06:25:22.505409,Jason Grant,Collection,Taint Shared Content,Network,High,certainly,136.95.5.32,davidnelson,Europe,Successful
+2023-07-26 15:54:21.591344,Lisa Lewis,Discovery,Data Encrypted,Network,Low,until,178.189.70.67,dmartinez,South America,Successful
+2021-12-09 10:05:37.822780,Maria Hall,Defense Evasion,Network Sniffing,Web,Low,western,10.12.168.146,ffinley,Australia,Failed
+2022-08-04 21:05:16.843391,Cory Jacobs,Execution,Spearphishing Attachment,USB,Medium,magazine,6.187.231.56,gonzalezjesus,Europe,Successful
+2021-10-12 17:03:35.856645,Terry Mills,Lateral Movement,Command and Scripting Interpreter,Web,High,you,25.29.104.151,mahoneytammy,US,Successful
+2024-01-24 04:40:53.909803,Fernando Pearson,Initial Access,Credential Dumping,USB,Low,like,2.83.55.4,ufoster,Europe,Successful
+2020-03-04 03:20:20.353942,Matthew Howard,Execution,PowerShell,Network,Medium,west,2.227.155.2,elizabethjohnson,US,Successful
+2021-07-07 12:38:28.612878,Leslie Zavala,Privilege Escalation,Exploitation of Vulnerability,Email,Low,laugh,104.247.110.187,grosskeith,Europe,Failed
+2021-03-06 14:38:19.658417,Joshua Fields,Collection,Ransomware,Phishing,Critical,miss,42.3.201.35,pholmes,Australia,Successful
+2023-11-09 16:58:55.925050,Anna Brooks,Impact,Credential Dumping,Phishing,High,head,7.33.194.194,elizabethhammond,US,Failed
+2021-04-19 14:45:39.682629,Jay Jackson,Discovery,Access Token Manipulation,Network,High,staff,202.151.110.149,glenda45,Africa,Failed
+2022-06-13 06:08:44.393325,Katie Davis,Impact,Credential Dumping,Phishing,High,analysis,202.123.109.71,williamsjustin,Europe,Failed
+2020-12-16 03:10:34.449897,Vincent Wright,Initial Access,PowerShell,Email,Medium,again,89.220.254.145,patricia17,Australia,Successful
+2020-07-30 17:05:19.163934,Mrs. Tiffany Heath,Collection,PowerShell,Phishing,Medium,Democrat,18.87.97.89,woodsalisha,Australia,Successful
+2023-05-06 12:14:20.057487,Lori Hamilton,Initial Access,Data Encrypted,Phishing,High,really,110.46.16.136,icarter,Africa,Successful
+2020-05-09 01:17:08.428426,Ricardo Moran MD,Collection,Network Sniffing,Email,Medium,could,151.153.176.171,greenpenny,Australia,Successful
+2022-09-09 18:34:00.543186,Phillip Neal,Credential Access,Ransomware,Email,Critical,whatever,9.115.9.113,watkinselizabeth,Australia,Failed
+2020-04-04 09:45:49.101920,Patrick Castillo DVM,Exfiltration,Credential Dumping,Network,High,class,188.137.45.234,ununez,Africa,Successful
+2023-04-24 08:46:18.044821,Victoria Campbell,Execution,Network Sniffing,Phishing,High,power,130.199.246.46,ghernandez,Asia,Failed
+2024-02-16 06:36:22.888535,Lisa Hudson,Collection,Credential Dumping,Network,Low,laugh,179.78.124.222,cervantesshawn,Africa,Successful
+2022-12-03 15:12:23.160877,Eric Bennett,Privilege Escalation,PowerShell,Network,Critical,leg,222.205.75.43,olewis,Europe,Successful
+2020-03-24 13:46:59.593932,Adam Levine,Initial Access,Phishing,Phishing,Critical,century,99.37.209.175,ashleywinters,US,Failed
+2023-04-07 07:10:42.029799,Christopher Reyes,Privilege Escalation,Credential Dumping,Network,Critical,throughout,116.123.168.133,henryshirley,US,Failed
+2022-06-13 23:29:51.421497,Erika Roberts,Initial Access,Command and Scripting Interpreter,Network,Low,organization,211.230.10.173,calderonjeremy,US,Successful
+2022-02-01 02:30:36.859643,Donald Davis,Defense Evasion,Phishing,Email,High,wall,47.160.248.9,christinaspencer,Asia,Failed
+2021-12-20 17:12:47.031718,Jerome Donaldson,Collection,Data Encrypted,Web,Low,letter,26.20.34.172,jessicakrause,Africa,Successful
+2022-03-25 09:08:13.398545,Michael Obrien,Lateral Movement,Spearphishing Attachment,USB,Medium,single,57.212.220.43,stephenjohnson,US,Failed
+2023-01-09 20:21:04.810917,William Cooper,Privilege Escalation,Access Token Manipulation,Web,Low,particularly,48.238.105.219,shaun52,South America,Failed
+2022-10-11 20:30:25.575947,Andrew Owens,Persistence,Command and Scripting Interpreter,Web,High,feel,73.100.144.64,kevin86,Europe,Failed
+2023-10-08 04:21:44.800081,Tony Harrington,Discovery,Exploitation of Vulnerability,USB,High,form,156.251.142.145,smithkimberly,Australia,Failed
+2023-10-23 21:39:06.303082,Andrew Anderson,Defense Evasion,Network Sniffing,Web,Critical,relationship,20.73.103.63,kelly28,South America,Successful
+2024-08-22 03:50:59.064096,Victoria Grant,Discovery,Phishing,Email,Medium,he,40.198.0.20,jennifer35,Australia,Successful
+2021-03-14 17:30:43.333156,Andrea Smith,Exfiltration,PowerShell,Phishing,Critical,experience,56.56.241.177,matthew86,Europe,Failed
+2024-02-13 18:43:52.277383,Timothy Russell,Exfiltration,Exploitation of Vulnerability,Phishing,Low,yourself,201.185.55.169,mcmillanmichael,Asia,Failed
+2021-09-22 18:39:24.003572,Stephen Russo,Credential Access,Network Sniffing,Email,High,everybody,81.191.200.221,lori11,Europe,Failed
+2022-02-23 05:06:30.918227,Tammy Burnett,Collection,Credential Dumping,USB,Medium,author,8.42.180.10,johnsonkatie,Africa,Successful
+2024-10-14 11:21:55.182296,Nancy Mills,Privilege Escalation,Credential Dumping,Network,Medium,once,40.63.255.73,rebecca27,South America,Failed
+2020-03-06 08:30:22.710948,Nathan Hudson,Defense Evasion,Data Encrypted,Web,Medium,lose,25.126.197.2,michaelclark,Europe,Failed
+2023-09-23 05:16:17.774108,Billy Marsh II,Privilege Escalation,Network Sniffing,Email,High,allow,125.233.203.138,mark32,Australia,Successful
+2023-09-08 15:26:45.739743,Michael Kennedy,Impact,Exploitation of Vulnerability,Network,Medium,day,156.9.160.244,austinjones,South America,Successful
+2021-02-05 17:44:45.453704,Elizabeth Johnson,Privilege Escalation,Spearphishing Attachment,Network,Low,manage,17.197.63.209,aacevedo,Europe,Failed
+2023-12-12 13:38:12.745640,Stanley Whitehead,Collection,Exploitation of Vulnerability,Network,High,rise,126.17.198.115,michael74,Europe,Successful
+2023-11-09 07:25:11.076951,Pamela Camacho,Collection,Spearphishing Attachment,Web,Medium,she,169.79.125.255,sydneyperez,Asia,Failed
+2023-01-10 13:15:12.004848,Jonathan Thomas,Defense Evasion,Data Encrypted,Web,Critical,opportunity,156.255.243.9,cantuashley,Asia,Successful
+2023-07-19 19:23:31.029952,Jeremy Garcia,Collection,Taint Shared Content,Email,Medium,white,16.61.90.66,brownbrian,Africa,Failed
+2024-01-04 14:48:29.246391,Susan Nunez,Exfiltration,Data Encrypted,Phishing,Low,threat,5.254.31.58,murphydiane,Africa,Failed
+2021-01-10 23:55:59.970464,Christopher Jimenez,Privilege Escalation,Phishing,Phishing,Critical,side,5.239.252.199,deanna83,Europe,Failed
+2024-08-05 12:27:17.377792,Rebecca Kirk,Initial Access,PowerShell,USB,Medium,expect,67.229.133.126,jmartin,Australia,Successful
+2024-04-04 02:27:21.121352,Lisa Winters,Defense Evasion,Access Token Manipulation,Network,Critical,either,7.37.242.5,james49,Africa,Successful
+2024-03-10 22:44:07.091470,David Gonzalez,Execution,Network Sniffing,Network,Critical,wear,57.3.242.116,wnguyen,Australia,Failed
+2020-06-18 15:23:27.945865,Carrie Russell,Privilege Escalation,Exploitation of Vulnerability,Email,Critical,she,60.88.38.252,ygibson,South America,Failed
+2021-08-07 20:33:04.331930,Michelle Armstrong,Defense Evasion,Command and Scripting Interpreter,Network,Low,television,69.34.245.190,eterrell,US,Successful
+2020-08-02 11:49:39.970425,Beth Carter,Privilege Escalation,Phishing,USB,Low,rich,174.50.195.140,abbottjames,South America,Failed
+2023-04-24 09:48:22.190839,Wesley Duran,Discovery,Taint Shared Content,Web,Medium,collection,35.41.119.14,tonyareyes,Europe,Successful
+2022-02-13 19:45:24.122713,Brandon Dawson,Collection,PowerShell,Web,Critical,ok,223.117.252.106,jacksonrachel,Australia,Failed
+2023-07-23 01:00:23.771765,Kenneth Douglas,Discovery,Ransomware,Web,Critical,entire,135.86.190.235,upittman,US,Failed
+2020-11-05 04:48:42.058548,Joel Hawkins,Execution,Taint Shared Content,Network,Critical,only,223.212.181.115,austin00,Australia,Successful
+2024-06-06 10:07:27.008322,Bethany Willis,Persistence,Network Sniffing,Phishing,Low,wall,139.142.96.43,ndavis,Australia,Successful
+2020-03-29 20:03:29.216655,Christy Morris,Exfiltration,Taint Shared Content,Network,Low,factor,217.89.190.184,ohughes,Asia,Successful
+2021-05-16 18:49:08.869359,Christina Oconnell,Initial Access,PowerShell,Phishing,Critical,say,97.211.11.215,alexanderbarnes,Asia,Failed
+2023-11-20 01:43:01.894340,Daniel Nelson,Persistence,Exploitation of Vulnerability,Web,Critical,exactly,112.161.185.137,markcox,Europe,Successful
+2020-06-16 23:49:14.984974,Sharon Sanders,Discovery,Data Encrypted,Network,Critical,approach,139.73.224.66,johnsonamber,Europe,Successful
+2020-06-25 21:49:53.485413,Adam Aguilar,Defense Evasion,Phishing,Email,High,article,135.3.159.89,adamslawrence,US,Successful
+2022-05-28 11:19:04.124112,Heather Davis,Exfiltration,Phishing,Web,Low,book,33.124.80.99,trussell,US,Successful
+2021-07-05 15:11:07.109762,Mary Thompson,Lateral Movement,Command and Scripting Interpreter,Network,High,a,121.243.10.241,sandersdonald,Asia,Failed
+2020-07-27 05:30:29.555887,Nicholas Rodriguez,Defense Evasion,Credential Dumping,USB,High,meeting,18.93.67.59,joshua59,South America,Successful
+2020-11-15 03:20:13.618516,Michael Dunn,Privilege Escalation,PowerShell,Email,Medium,few,152.133.113.184,cbrown,Australia,Successful
+2024-08-11 17:32:09.912779,Caitlin Fox,Privilege Escalation,Access Token Manipulation,Web,Critical,always,158.83.40.11,morrisonrebecca,US,Successful
+2020-04-20 05:07:28.642747,David Norton,Defense Evasion,Access Token Manipulation,USB,High,own,22.184.163.31,carolyn38,Europe,Successful
+2023-04-26 15:44:07.329674,Peter Caldwell,Privilege Escalation,Exploitation of Vulnerability,Phishing,High,turn,199.204.64.208,jackhall,Australia,Failed
+2024-02-22 00:06:38.743110,April Crawford,Execution,Access Token Manipulation,Network,Low,off,48.37.29.143,rhowell,US,Failed
+2024-09-08 02:37:41.944193,Jasmine Smith,Exfiltration,Credential Dumping,Network,High,watch,179.34.12.172,adamsshane,Africa,Failed
+2023-07-03 21:49:09.160296,Rachel Johnson,Impact,Ransomware,Web,High,pressure,181.254.197.192,ryan60,Africa,Failed
+2022-06-18 16:49:39.831215,Jessica Hawkins,Privilege Escalation,Exploitation of Vulnerability,Network,High,another,85.213.51.79,tlewis,Europe,Failed
+2024-01-19 02:50:06.504790,Bobby Johnson,Impact,Spearphishing Attachment,Web,Low,offer,186.185.197.181,ashleymason,Europe,Failed
+2020-12-27 04:51:39.541438,Brandy Cook,Impact,Phishing,Web,High,politics,73.35.184.120,richardsmichael,Asia,Successful
+2022-11-16 15:58:52.426745,Tristan Rivera,Lateral Movement,Credential Dumping,Phishing,High,sister,20.209.163.59,fthomas,Africa,Successful
+2024-08-12 03:30:09.569589,Chad Garrett,Exfiltration,Spearphishing Attachment,Web,Low,author,59.48.205.51,campbelljesse,Asia,Failed
+2024-03-23 14:22:40.239576,David Yoder,Execution,Spearphishing Attachment,Network,Low,score,95.230.109.37,ydonovan,Asia,Failed
+2021-10-26 19:04:31.194879,Jeffrey Griffin,Credential Access,Ransomware,Phishing,Medium,want,69.183.51.138,turneramanda,US,Failed
+2022-11-19 13:50:55.960070,Lisa Perez,Privilege Escalation,Taint Shared Content,Network,High,sit,150.136.111.16,amandarivera,Asia,Failed
+2021-09-16 13:19:10.774260,Brian Ortiz,Impact,Command and Scripting Interpreter,USB,High,ask,163.200.211.7,brentdavis,South America,Successful
+2021-02-14 16:40:25.002510,Danielle Owens,Execution,Taint Shared Content,Web,High,want,193.97.247.90,deanna61,Europe,Failed
+2024-01-03 11:55:42.125782,Steven Stephens,Defense Evasion,Taint Shared Content,Web,Medium,find,11.20.255.7,mannchristopher,Africa,Failed
+2022-09-28 15:26:57.359775,Erika Espinoza,Privilege Escalation,Spearphishing Attachment,Web,High,learn,11.165.227.79,adamwhitaker,Africa,Failed
+2024-05-22 02:09:42.178773,Kyle Hebert,Initial Access,Spearphishing Attachment,Phishing,High,general,27.24.192.211,richardskaitlyn,Asia,Failed
+2022-05-30 11:31:36.638672,Ann Ray,Defense Evasion,PowerShell,USB,Critical,you,86.179.78.233,wvargas,Africa,Successful
+2024-11-08 20:44:47.954667,Jenny Navarro,Lateral Movement,PowerShell,USB,High,way,202.99.255.219,smclaughlin,Australia,Successful
+2021-08-24 20:19:59.010471,Shelley Proctor,Impact,Command and Scripting Interpreter,Network,Critical,assume,112.55.227.183,perezlisa,US,Failed
+2023-10-30 03:38:31.661124,Veronica Chambers,Exfiltration,Credential Dumping,USB,Low,moment,101.234.39.86,jack15,Australia,Successful
+2020-06-30 19:14:16.465054,Jessica Norris,Privilege Escalation,Taint Shared Content,Email,High,land,163.102.76.138,rodney94,Asia,Successful
