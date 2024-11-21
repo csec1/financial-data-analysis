@@ -1,0 +1,1001 @@
+timestamp,attacker_name,tactic,technique,attack_vector,severity,affected_system,ip_address,user_account,region,status,severity_num,attack_vector_num,region_num,hour,day,month,anomaly
+2024-06-09 04:20:48,Travis Wagner,Certainly,Data Staged,Wind,Medium,century,55.227.132.177,longchristine,North America,Successful,3,1,2,13,2,3,True
+2024-08-05 09:38:22,Brandon Hansen,Deep,Spearphishing Attachment,Outside,Low,benefit,43.102.247.244,bfuller,Europe,Successful,1,2,4,20,5,11,True
+2024-10-26 01:43:11,Kenneth Wallace,Whole,Command and Control Over Web Protocol,Great,Low,market,164.116.179.130,natalie94,Asia,Successful,3,4,1,22,17,9,True
+2024-04-02 06:08:21,Christina Palmer,Police,Remote File Copy,Again,Medium,Mr,83.243.78.27,jjensen,South America,Failed,2,4,1,22,22,4,False
+2024-07-29 23:18:44,Gregory Moreno,Wish,Remote File Copy,Alone,Medium,two,72.226.15.68,coreydavis,North America,Successful,1,2,2,17,3,4,True
+2024-06-01 06:28:05,Hector Ford,Use,Remote File Copy,Performance,Low,building,39.145.114.213,ncooke,Asia,Successful,3,2,1,19,11,7,True
+2024-10-08 18:45:58,Nicholas Sanchez,West,Remote File Copy,Walk,Medium,can,114.109.62.39,foxmichael,South America,Failed,2,2,2,15,19,1,True
+2024-07-19 02:34:46,Theresa Brown,Safe,Spearphishing Attachment,Hour,High,hard,66.178.102.234,ryan55,South America,Failed,1,1,3,1,6,7,False
+2024-03-16 05:50:25,Abigail Nguyen,When,Command and Control Over Web Protocol,Daughter,High,house,16.130.78.139,iroach,Europe,Successful,1,4,2,16,28,3,False
+2024-08-31 21:32:03,Gregory Chambers,Would,Sudo Caching,Sea,High,many,63.88.94.60,acordova,South America,Successful,2,4,1,5,10,11,False
+2024-02-06 14:42:17,Ana Gonzales,Indeed,Sudo Caching,Thought,Medium,place,134.150.0.29,belinda67,Asia,Failed,1,3,3,4,15,9,True
+2024-08-19 07:46:01,Jacob Gray,Today,Spearphishing Attachment,Church,Medium,if,79.215.213.116,grahamjoseph,Europe,Failed,1,2,1,17,23,12,False
+2024-04-18 17:20:54,Devin French,Our,Brute Force,Trial,Low,free,62.93.74.107,utrujillo,North America,Successful,3,4,4,16,27,6,False
+2024-03-03 02:13:47,Kristin Stanton,Arm,Data Staged,Car,High,program,135.163.0.161,dstanley,North America,Successful,3,4,4,14,28,8,False
+2024-01-09 14:57:18,Danny Andrews,Case,Brute Force,Benefit,Low,kitchen,99.105.19.175,carol75,Europe,Successful,2,1,3,20,27,4,True
+2024-01-30 21:48:20,Paul Mejia,Sort,Sudo Caching,Central,Medium,cause,143.247.210.41,xjohnson,Asia,Successful,3,4,1,16,6,3,True
+2024-09-20 19:03:52,Mary Thompson,Green,Remote File Copy,Until,Low,police,191.11.240.98,daniel67,South America,Successful,1,1,2,12,5,6,True
+2024-05-11 07:31:47,Jamie Ford,Scientist,Brute Force,Attorney,High,whom,59.253.81.14,charlesjohnson,North America,Successful,3,2,2,8,3,3,True
+2024-05-06 07:58:58,Tony Davis,Scientist,Brute Force,Impact,Medium,well,128.53.158.146,foxcynthia,South America,Successful,3,1,2,19,4,7,False
+2024-07-11 03:57:25,Dustin Beltran,Writer,Spearphishing Attachment,Shake,Medium,loss,138.42.178.208,greensarah,Asia,Successful,3,1,3,23,7,8,True
+2024-08-31 23:46:29,Anna Carpenter,Floor,Spearphishing Link,Mother,Medium,last,57.141.203.204,christina08,Europe,Failed,2,4,1,22,1,4,True
+2024-03-11 22:03:45,Peggy Webster,Effect,Sudo Caching,Set,High,issue,1.142.107.214,samanthajohnson,North America,Failed,3,4,3,9,24,3,True
+2024-06-20 06:43:38,Kyle Smith,Enjoy,Scheduled Task,Already,High,deep,175.218.149.81,nguyenkenneth,South America,Successful,3,3,3,10,8,10,True
+2024-10-21 02:42:50,Charles Erickson,Phone,Brute Force,Participant,Low,positive,218.85.132.46,lijennifer,South America,Successful,2,3,2,11,23,12,False
+2024-10-10 09:41:54,Richard Dean,Science,Command and Control Over Web Protocol,Animal,High,ahead,3.11.141.153,anthonybell,Europe,Failed,2,4,2,10,5,6,False
+2024-03-24 05:16:48,Brent Boyd,Possible,Spearphishing Link,Light,High,part,158.210.85.198,brandon13,Europe,Failed,1,1,2,8,15,10,False
+2024-07-23 01:39:02,William Anderson,She,Data Staged,Plant,Medium,recently,20.151.24.146,hunterrebecca,North America,Successful,2,1,3,16,26,9,False
+2024-03-11 09:43:21,James Simpson,Doctor,Sudo Caching,Even,Low,able,80.249.1.95,prestonalexandria,South America,Failed,2,3,3,2,28,7,True
+2024-03-15 07:44:30,Joyce Meyers,Everybody,Data Staged,Professional,Medium,great,152.229.177.106,omeza,South America,Successful,3,4,4,12,24,4,True
+2024-07-24 18:21:36,Christopher Henry,Stop,Application Layer Protocol,Smile,Low,local,30.108.252.26,qdiaz,South America,Successful,2,1,2,12,10,2,True
+2024-01-29 17:12:21,Michelle Bailey,Range,Sudo Caching,Study,Low,down,115.228.118.144,rjohnson,North America,Failed,3,2,4,11,25,8,False
+2024-06-30 11:53:14,Mark Gallagher,Garden,Spearphishing Link,Country,Medium,vote,222.148.228.189,ericaedwards,North America,Successful,1,3,4,6,22,2,False
+2024-02-02 21:32:47,Daniel Martin,Foreign,Brute Force,Build,High,political,139.24.132.164,calebbates,South America,Successful,3,2,2,14,19,3,False
+2024-06-18 10:43:14,Robert Hall,Source,Spearphishing Attachment,Go,High,positive,117.53.41.97,suzanne59,North America,Failed,2,4,3,16,21,4,False
+2024-11-01 04:55:09,Bonnie Kirby,Woman,Spearphishing Link,Debate,High,point,160.191.236.153,zmolina,Europe,Failed,1,3,2,5,8,3,False
+2024-09-29 12:47:49,Amy Perez,Local,Spearphishing Attachment,Data,Medium,itself,168.1.108.117,mike68,North America,Successful,1,1,2,11,11,10,False
+2024-07-12 14:02:02,Randy Flores,Section,Application Layer Protocol,Own,Medium,seem,179.201.147.59,rachaeltodd,Asia,Successful,3,1,1,6,27,12,False
+2024-06-21 05:26:48,Nicole Simmons DDS,Customer,Data Staged,Cause,Low,animal,187.172.124.205,briantaylor,Europe,Successful,2,1,2,19,20,9,True
+2024-03-27 07:22:46,Stacey Jones,Few,Spearphishing Link,Look,Medium,financial,49.162.241.188,zdawson,South America,Successful,3,2,1,3,5,6,True
+2024-02-25 15:19:04,Deborah Le,Have,Spearphishing Attachment,Painting,Low,system,201.213.14.154,hthomas,South America,Successful,1,3,1,6,7,7,True
+2024-06-27 02:44:21,Rachel Velazquez,Thank,Data Staged,Perhaps,High,employee,42.166.240.28,nbrown,Asia,Failed,3,4,4,10,25,6,False
+2024-08-19 05:53:34,Hunter Watkins,New,Spearphishing Link,Floor,High,build,184.36.123.64,tcarlson,Asia,Successful,1,2,3,19,25,6,False
+2024-03-07 02:21:32,Jessica Webster,Cost,Sudo Caching,Laugh,Low,yard,43.68.236.111,robbinsdominic,South America,Failed,1,4,4,7,13,2,False
+2024-08-05 15:51:57,Daniel Zuniga,Political,Command and Control Over Web Protocol,After,Low,commercial,126.112.149.216,donald86,Asia,Successful,2,3,2,22,22,9,True
+2024-02-06 02:51:09,Marilyn Anderson PhD,Stay,Spearphishing Attachment,Name,High,military,106.60.7.205,cody38,North America,Failed,1,4,4,4,23,11,True
+2024-05-10 23:25:45,Amy Santos,Media,Data Staged,Nature,Medium,continue,43.153.227.210,william08,South America,Successful,1,2,4,6,29,4,True
+2024-02-06 15:24:15,Kimberly Holder,Last,Brute Force,Television,Medium,difference,57.10.142.74,olewis,South America,Failed,1,1,3,23,7,11,True
+2024-01-05 21:48:44,Carrie Shields,Yourself,Data Staged,Seat,Low,by,11.229.188.166,gabriellewilson,South America,Failed,2,1,1,9,7,2,True
+2024-09-17 14:28:40,Valerie Crosby,Budget,Sudo Caching,Your,Medium,the,154.231.27.82,cookjohn,Europe,Successful,1,1,4,11,8,8,True
+2024-02-26 04:25:12,Brooke Moore,Task,Scheduled Task,Inside,High,wife,196.215.54.195,danielleperez,Asia,Successful,2,1,4,22,10,4,True
+2024-08-28 23:23:57,Richard Hanson,Its,Sudo Caching,Turn,High,drive,147.109.231.151,valdezjames,South America,Failed,1,1,2,1,9,3,True
+2024-06-07 18:05:41,Benjamin Carter,Let,Data Staged,Letter,High,again,201.123.238.22,nancycampbell,Asia,Successful,3,3,4,5,29,3,False
+2024-02-18 08:54:17,Mitchell Drake,Evidence,Spearphishing Link,Manager,Low,thus,203.106.162.38,colemanjessica,Asia,Failed,2,1,2,13,16,8,True
+2024-08-26 19:45:35,Molly Smith,Plan,Spearphishing Link,Above,Medium,over,171.191.62.232,veronicayoung,South America,Successful,3,1,3,9,17,12,True
+2024-06-21 03:38:38,Logan Flores,Happy,Sudo Caching,Choose,Medium,then,143.214.203.240,cynthiagonzalez,Europe,Successful,3,1,3,14,18,9,True
+2024-01-11 05:38:04,Dean Brown,Line,Sudo Caching,Blue,Medium,admit,48.104.171.75,tanya80,South America,Successful,3,1,1,16,27,2,True
+2024-03-06 13:04:01,Eric Watson,Soon,Sudo Caching,All,Medium,together,54.243.172.210,jamesstevenson,North America,Successful,3,3,3,10,31,4,False
+2024-05-17 19:48:47,John Gould,Agent,Application Layer Protocol,Its,High,right,146.189.199.194,anna99,Europe,Successful,3,2,3,16,5,1,True
+2024-11-08 04:32:04,Carrie Nguyen,Set,Application Layer Protocol,Already,Medium,start,208.48.189.68,paul22,North America,Successful,2,3,2,9,7,1,False
+2024-05-08 16:21:09,Tonya Gill,Truth,Data Staged,Federal,Medium,green,198.66.38.181,michaelbartlett,Europe,Failed,1,1,2,11,17,9,True
+2024-01-27 12:04:42,Brenda Holloway,Worry,Data Staged,Mind,Low,former,172.173.51.87,edward86,South America,Successful,1,1,1,23,31,10,False
+2024-04-07 20:32:55,Sandra Hall,Foot,Command and Control Over Web Protocol,Cultural,Low,pressure,101.225.42.226,qkirby,Europe,Successful,3,4,1,8,14,5,False
+2024-08-09 13:59:51,Allen Brown,Tv,Scheduled Task,Summer,High,customer,181.91.179.146,rglenn,Europe,Failed,1,2,4,9,27,2,False
+2024-05-26 06:30:10,Robert Suarez,Respond,Application Layer Protocol,Bank,High,send,197.133.40.16,angelica62,North America,Failed,3,1,3,5,23,1,True
+2024-09-06 11:29:58,Melissa Glass,Step,Brute Force,Trade,Medium,behind,168.156.217.218,jason11,Asia,Successful,2,1,2,17,22,10,False
+2024-08-05 13:17:51,Adam Jones,Clear,Sudo Caching,Coach,Low,region,223.114.52.114,hendersonlaura,Europe,Failed,2,2,2,2,23,5,False
+2024-04-07 03:42:29,Michael Singleton,Little,Spearphishing Link,Either,Medium,well,195.150.115.82,revans,Europe,Failed,1,4,4,7,12,3,False
+2024-01-01 20:25:44,Laura Murphy,Entire,Spearphishing Attachment,Defense,High,century,138.216.81.143,michael67,Europe,Failed,1,2,2,20,31,7,False
+2024-07-08 06:39:03,Ethan Olsen,Blood,Scheduled Task,Reflect,Medium,such,129.144.152.254,zfuller,South America,Failed,3,4,1,14,2,6,False
+2024-04-29 06:33:43,Nicole Miller,Nor,Brute Force,Prevent,High,rest,160.110.107.4,slopez,Asia,Failed,3,4,3,3,23,8,False
+2024-07-05 02:28:58,Kevin Henson Jr.,Bar,Remote File Copy,Daughter,High,there,192.82.169.203,patrickrichard,Asia,Successful,2,3,1,17,28,11,True
+2024-09-15 12:53:58,Anna Payne,Care,Spearphishing Link,Analysis,Low,seem,28.12.63.159,pross,South America,Successful,3,3,1,18,18,3,True
+2024-04-10 21:25:15,Julie Walter,Management,Brute Force,North,Medium,take,31.122.12.40,hallkelly,North America,Successful,3,1,2,17,21,5,False
+2024-01-08 23:01:40,Richard Roberts,Million,Data Staged,Stay,Medium,now,181.47.104.187,sharonwaller,North America,Successful,3,2,1,21,7,2,False
+2024-03-03 18:23:13,Morgan Hicks,High,Spearphishing Link,Individual,Medium,moment,36.181.78.242,aprilwilliams,South America,Failed,2,3,1,5,22,5,False
+2024-04-06 14:19:35,John Russell,Image,Application Layer Protocol,Land,High,walk,179.102.8.105,nsanchez,North America,Failed,2,4,2,8,12,12,False
+2024-07-23 15:54:34,Scott Fry,Air,Application Layer Protocol,Occur,Low,threat,77.239.14.29,adriana76,North America,Failed,1,2,3,16,26,4,False
+2024-05-23 03:58:03,Tracy Harris,Player,Sudo Caching,Garden,Medium,degree,25.13.145.225,travis73,Asia,Failed,3,1,2,15,10,7,False
+2024-02-25 20:15:34,Paul Young,Chance,Application Layer Protocol,True,High,whether,199.254.225.162,oobrien,North America,Failed,2,4,2,23,3,2,True
+2024-01-13 02:12:18,Jacob Adams,Perhaps,Data Staged,Rest,Medium,out,149.170.149.90,tara75,Europe,Successful,1,3,4,20,20,11,False
+2024-04-11 16:59:00,Mark Valdez,Never,Brute Force,Different,Low,control,85.254.134.69,wardmark,North America,Successful,1,3,3,20,18,5,False
+2024-01-02 18:46:11,Linda Hill,Turn,Application Layer Protocol,Far,Low,talk,162.200.79.241,cynthia93,Asia,Successful,2,2,2,11,20,7,False
+2024-05-04 02:23:25,James Baker,Run,Spearphishing Attachment,Mind,High,certainly,13.20.57.107,teresa09,South America,Successful,2,1,1,14,19,5,True
+2024-05-10 19:12:00,Brenda Martin,Mind,Data Staged,Discover,Low,total,165.12.162.130,thomasoconnell,Europe,Failed,1,3,2,18,9,3,False
+2024-10-05 04:18:12,Tonya Gonzalez,Edge,Command and Control Over Web Protocol,Sport,High,practice,209.42.192.8,stanley62,South America,Successful,3,3,3,6,8,2,False
+2024-01-08 02:23:05,Benjamin Fuentes,Herself,Brute Force,Final,High,final,119.81.181.108,alisonpierce,North America,Successful,2,2,3,14,19,12,True
+2024-02-26 13:02:24,Amber Gillespie,Performance,Command and Control Over Web Protocol,Style,High,someone,116.244.223.22,wongkimberly,North America,Successful,2,4,4,1,3,7,False
+2024-10-15 09:29:49,Jonathan Ward,Group,Remote File Copy,Try,Low,material,89.135.38.2,taylor72,Europe,Failed,1,1,2,9,12,10,True
+2024-04-30 18:36:54,Brandon Mclean,Easy,Sudo Caching,Clear,Medium,education,32.64.21.142,thomas49,Europe,Failed,3,3,1,18,30,7,True
+2024-09-22 18:12:20,Vernon Cunningham,Rather,Spearphishing Link,Create,High,service,176.186.100.127,mcmillanwilliam,North America,Successful,3,1,3,3,27,6,True
+2024-04-20 15:57:16,Brittany Johnson,Lay,Remote File Copy,So,Medium,civil,162.175.27.58,ashleyfrancis,North America,Failed,1,4,4,18,27,2,True
+2024-09-23 13:24:39,Lori Gilbert,Should,Spearphishing Link,Cold,Medium,white,27.54.135.121,tina69,North America,Successful,3,3,2,3,28,11,True
+2024-02-23 13:26:26,Angela Parks,Break,Scheduled Task,Nation,Medium,chance,81.91.91.33,juliebruce,Asia,Successful,3,3,4,23,19,4,False
+2024-03-07 02:43:14,Danielle Erickson,Return,Remote File Copy,Either,High,wait,124.108.230.49,valenzuelaheather,Asia,Failed,2,1,3,23,24,7,False
+2024-07-30 04:50:21,Natasha Sanders,Face,Command and Control Over Web Protocol,Night,Medium,write,88.149.226.200,gordonteresa,South America,Failed,1,4,4,3,17,6,True
+2024-09-20 19:04:03,Anne Goodwin,World,Spearphishing Link,Must,Medium,sit,215.41.53.164,iking,North America,Successful,1,2,4,2,15,7,True
+2024-01-28 13:07:38,Mr. Darius Thompson DDS,Picture,Sudo Caching,Friend,Low,Republican,198.141.154.127,mariahsmith,Asia,Failed,1,4,1,16,14,7,True
+2024-03-19 07:31:29,Caitlyn Ryan,Big,Scheduled Task,Thing,Low,throw,6.116.222.123,whill,South America,Successful,3,2,2,4,18,1,False
+2024-07-28 11:56:28,Natalie Suarez,Political,Brute Force,Enjoy,High,might,102.98.213.136,craig13,Europe,Successful,3,2,1,9,12,4,True
+2024-10-23 02:46:12,David Chaney,Head,Brute Force,Buy,Medium,she,190.71.16.201,pjarvis,Asia,Failed,3,3,4,22,27,3,False
+2024-07-05 18:30:46,Sarah Simmons,Trip,Application Layer Protocol,Force,Medium,bar,5.146.132.11,fsantiago,Asia,Successful,1,3,2,0,18,4,True
+2024-03-14 01:24:13,Amy Mason,Five,Scheduled Task,Owner,Low,certain,197.208.104.53,jessica23,North America,Failed,2,3,1,10,16,11,False
+2024-02-02 03:55:59,Susan Hancock,Laugh,Remote File Copy,Long,High,some,119.98.169.29,daniel01,North America,Successful,2,3,2,12,11,3,True
+2024-11-02 07:54:26,Patrick Ibarra,Finally,Remote File Copy,Identify,Medium,role,222.57.177.144,tclark,Europe,Failed,1,1,3,13,26,7,False
+2024-08-29 11:53:46,David Carter,Consider,Command and Control Over Web Protocol,Large,Medium,identify,99.42.41.7,nathan63,Europe,Failed,2,2,2,3,5,10,False
+2024-01-20 03:45:06,James Baxter,Traditional,Remote File Copy,Cold,Medium,reach,2.254.137.173,victoria90,Asia,Successful,2,4,4,14,5,3,False
+2024-10-15 22:48:16,Michelle Russell,Employee,Remote File Copy,Bring,High,one,7.152.92.114,nmoreno,North America,Successful,2,4,4,9,4,12,True
+2024-09-03 13:42:26,Diana Davis,Agency,Application Layer Protocol,Lead,High,such,130.31.102.153,josephdavis,South America,Failed,2,2,2,15,5,11,False
+2024-09-08 00:58:14,Daniel Cummings,Without,Spearphishing Link,Movie,High,involve,16.224.2.16,christopher96,Europe,Failed,2,4,4,12,13,9,True
+2024-01-05 10:03:51,Roberto Pierce,Perform,Data Staged,Baby,Low,glass,167.145.57.52,utorres,South America,Successful,2,3,2,5,26,3,False
+2024-08-31 21:35:55,Amy Steele,Cause,Remote File Copy,Stock,Low,but,156.1.53.66,bowerskendra,Asia,Successful,3,3,4,12,24,8,True
+2024-03-01 19:10:44,Sandra Soto,Maybe,Remote File Copy,What,High,teacher,101.3.202.156,tracy28,Asia,Failed,2,1,1,5,24,10,False
+2024-05-02 06:11:54,Tony Espinoza,Pattern,Spearphishing Link,Tough,Low,oil,39.15.101.61,millsdavid,South America,Failed,1,2,3,10,21,10,False
+2024-09-17 05:38:25,Daniel Brown,Its,Remote File Copy,Administration,Medium,rock,59.121.67.192,christopher73,Europe,Failed,1,3,3,18,17,9,False
+2024-02-03 08:33:52,Bryan Lee,Medical,Application Layer Protocol,Form,Low,region,143.145.137.210,hbell,South America,Successful,2,4,2,11,12,3,True
+2024-09-15 11:07:53,Christine Hernandez,Debate,Remote File Copy,Family,Medium,plant,65.156.172.199,toddvalerie,Asia,Failed,2,2,2,13,14,7,False
+2024-09-26 15:20:41,Colin Nguyen,Film,Application Layer Protocol,Simple,Medium,four,197.69.5.217,arnoldmichelle,Europe,Failed,1,3,4,22,2,12,False
+2024-08-04 09:32:08,Amanda Johnson,Exist,Sudo Caching,Usually,High,board,158.24.239.7,candaceanderson,Asia,Failed,1,2,2,19,3,7,False
+2024-05-24 11:08:23,Donald Murray,Growth,Spearphishing Link,Reach,High,work,218.184.47.227,gail45,Asia,Successful,2,4,4,23,31,9,False
+2024-03-17 22:45:51,Anthony Stephens,Three,Spearphishing Attachment,Camera,High,before,137.124.103.211,jennifermccormick,Asia,Failed,1,1,1,3,28,4,True
+2024-01-15 14:03:59,Miss Allison Spencer DDS,Various,Data Staged,Rich,Low,everybody,32.92.212.75,larsonrebecca,Asia,Successful,2,1,2,1,27,7,False
+2024-07-22 03:00:52,Amy Porter,Half,Spearphishing Link,Shake,Low,degree,77.147.34.228,jessica92,South America,Failed,1,1,1,17,7,4,True
+2024-05-14 16:08:06,Steven White,Hour,Spearphishing Link,Democrat,Low,son,24.247.123.247,cguerrero,South America,Successful,1,1,4,9,21,1,False
+2024-07-02 05:25:44,Katelyn Reyes,Interest,Data Staged,Him,High,financial,160.251.158.71,bjohnston,North America,Successful,3,1,2,19,17,12,False
+2024-08-13 05:13:36,Melissa Villa,Improve,Remote File Copy,Effort,Medium,senior,168.134.38.72,catherine63,Asia,Failed,1,4,1,19,26,1,False
+2024-07-21 12:04:32,Brian Patel,Rise,Sudo Caching,Check,High,try,66.107.101.167,janetcox,Asia,Successful,2,3,4,22,12,6,False
+2024-10-14 04:29:42,Morgan Davis,Per,Spearphishing Attachment,Research,Low,end,146.14.195.156,pkramer,Europe,Failed,3,1,3,8,25,6,True
+2024-02-28 17:00:59,Bethany Gomez DDS,Wish,Sudo Caching,Seek,Low,grow,156.150.214.22,fparrish,South America,Successful,1,1,3,15,13,1,True
+2024-05-08 02:20:14,Jordan Dodson,Training,Spearphishing Attachment,Each,High,own,14.170.14.76,maldonadomichelle,Asia,Successful,2,2,2,10,5,1,False
+2024-04-21 00:51:16,James Harmon,Gas,Application Layer Protocol,Perform,Low,administration,131.67.97.136,amy85,Asia,Successful,3,4,2,16,30,11,False
+2024-04-01 02:21:14,Amanda Singh,Yet,Data Staged,Myself,High,key,29.157.98.208,williamsmith,South America,Successful,2,2,3,1,25,1,True
+2024-04-12 19:24:54,Alicia Walker,Manage,Brute Force,Chance,Low,area,56.75.3.165,laurie44,North America,Successful,3,2,1,11,15,10,True
+2024-09-18 08:31:09,Andrew Hogan,Yeah,Sudo Caching,Power,High,off,25.121.205.207,holmeslaura,Asia,Successful,2,4,1,5,5,2,False
+2024-04-25 17:06:08,Teresa Jennings,Check,Remote File Copy,Those,High,story,35.141.140.241,williamsseth,Asia,Failed,1,1,1,9,12,8,False
+2024-10-29 15:08:15,Brandy Johnson,Beyond,Remote File Copy,Man,Low,national,158.173.190.207,jeffreybennett,North America,Failed,3,3,1,0,21,9,True
+2024-06-01 13:17:29,Andrew Mccormick,Among,Brute Force,Form,Medium,national,214.15.145.65,stephen09,Asia,Successful,2,3,4,8,30,9,False
+2024-09-01 20:11:21,Terri Mason,Own,Spearphishing Attachment,Middle,High,you,131.209.213.110,juan40,South America,Successful,1,4,4,8,14,7,False
+2024-05-01 18:00:01,John Singh,Catch,Sudo Caching,Reach,Low,low,130.172.233.87,harrissteven,North America,Failed,2,2,1,9,19,1,True
+2024-08-01 09:23:48,Eric Madden,Federal,Application Layer Protocol,Everyone,High,any,152.200.1.41,mrodriguez,North America,Successful,2,1,4,1,5,12,True
+2024-05-25 09:23:21,Katie Bruce,Security,Spearphishing Link,Then,High,performance,185.227.186.81,jane04,Europe,Successful,1,3,2,12,24,12,False
+2024-10-29 01:45:21,Amber Tate,Budget,Sudo Caching,They,Low,executive,194.222.107.252,anthonyrivers,Europe,Successful,1,1,4,15,12,11,True
+2024-10-26 06:53:45,Molly Klein,War,Command and Control Over Web Protocol,Middle,Low,consider,204.27.104.166,christy03,Asia,Failed,1,2,3,5,8,11,True
+2024-06-10 15:33:33,Breanna Holmes,Right,Remote File Copy,Nor,High,popular,206.151.179.192,fscott,Asia,Failed,2,2,1,2,31,2,True
+2024-06-04 23:56:54,Sabrina Sanchez,On,Scheduled Task,Into,Medium,result,209.146.201.232,jessica91,Asia,Successful,2,1,4,11,3,12,False
+2024-08-20 06:17:02,James Wood,Nature,Remote File Copy,Area,Low,research,92.28.182.112,richard63,South America,Successful,2,3,1,13,23,10,False
+2024-07-19 10:42:56,John Walters,Method,Command and Control Over Web Protocol,Cost,Medium,interest,132.119.246.236,svargas,Europe,Failed,3,1,2,16,24,12,False
+2024-08-12 12:45:30,Jessica Torres,Campaign,Remote File Copy,Forget,High,light,184.213.35.1,yangchristian,North America,Successful,2,1,1,1,17,3,False
+2024-01-18 13:57:40,Erin Carter,Local,Sudo Caching,Interest,High,contain,23.141.228.1,zhale,South America,Failed,1,4,2,16,25,3,False
+2024-09-06 15:49:33,Kelsey Garcia,Leave,Command and Control Over Web Protocol,Window,Low,health,30.209.145.106,valeriebush,South America,Failed,3,4,1,4,13,4,False
+2024-05-02 03:56:46,Kristine Shah,East,Spearphishing Attachment,Own,High,someone,40.219.247.37,stoneashley,Europe,Failed,2,4,1,21,25,9,False
+2024-08-14 18:08:44,Jacqueline Bell,Traditional,Spearphishing Attachment,Million,Medium,will,63.98.193.207,lleonard,North America,Successful,1,1,4,2,17,1,False
+2024-05-13 03:07:54,Christopher Mcconnell,Amount,Data Staged,Include,Medium,whatever,181.78.249.173,frazieramy,North America,Failed,2,4,2,13,5,2,False
+2024-11-06 21:29:27,John Moore,Parent,Application Layer Protocol,Simply,High,various,111.153.166.253,patricia17,North America,Failed,2,3,4,20,10,11,False
+2024-04-14 14:19:18,Jennifer Dunlap,Coach,Data Staged,Education,High,ahead,39.60.46.56,lori04,Europe,Failed,3,1,4,15,22,6,False
+2024-02-28 21:42:50,Angela Campbell,Character,Application Layer Protocol,Someone,Medium,growth,111.79.185.210,brian38,Europe,Successful,2,4,3,11,10,3,False
+2024-07-19 12:31:35,Timothy Juarez,To,Scheduled Task,Station,Medium,thus,152.122.129.9,biancasnyder,South America,Successful,2,1,2,6,19,12,False
+2024-01-17 20:16:54,Sean Rogers,Down,Sudo Caching,Visit,Medium,debate,161.139.124.8,ashaw,North America,Successful,3,4,2,7,10,4,True
+2024-08-31 16:26:28,Anthony Vaughn,Continue,Application Layer Protocol,Similar,High,base,31.113.233.90,westvictoria,North America,Successful,1,1,2,19,23,8,False
+2024-04-09 11:41:20,Haley Nelson,Boy,Remote File Copy,Push,Low,staff,219.112.177.255,tstanley,Asia,Failed,1,2,4,22,11,2,False
+2024-10-19 03:21:19,John Barnes,Onto,Sudo Caching,System,Medium,reflect,125.90.229.125,hartmansabrina,Europe,Successful,2,2,1,3,22,10,True
+2024-04-12 21:58:40,Casey Massey,Serious,Brute Force,Cost,Medium,lead,94.214.17.199,antoniostephens,South America,Successful,1,3,4,21,23,5,False
+2024-11-09 00:41:28,Karen Smith,Dark,Scheduled Task,How,Low,interview,35.239.57.103,banderson,Europe,Failed,3,2,4,11,5,2,True
+2024-10-15 20:43:17,Jon Moore,Teach,Brute Force,Today,Low,factor,51.146.90.116,wpena,North America,Failed,2,3,1,13,17,9,False
+2024-07-23 15:00:49,William Solomon,Experience,Remote File Copy,Over,Medium,toward,30.189.228.164,christinataylor,Europe,Successful,2,1,4,22,25,11,False
+2024-08-21 17:32:09,Cameron Smith,Next,Command and Control Over Web Protocol,Admit,Medium,board,103.196.100.217,kara09,Asia,Successful,3,3,2,5,26,9,False
+2024-03-20 02:10:19,Michael Jones,Military,Data Staged,Piece,High,pressure,118.14.219.122,stephanie03,Asia,Successful,1,4,4,17,28,4,False
+2024-01-19 15:40:43,Kim Dixon,Physical,Spearphishing Link,Case,Medium,major,85.60.177.193,chasevictor,Europe,Failed,3,4,2,3,2,12,True
+2024-08-28 11:13:29,John Austin,Expert,Scheduled Task,Child,Medium,best,206.149.98.166,qwade,South America,Successful,3,4,4,14,19,10,False
+2024-02-24 05:23:18,Destiny Carlson,Its,Brute Force,Owner,Low,institution,23.121.203.161,sbishop,Europe,Successful,2,2,4,17,25,8,False
+2024-05-10 21:19:53,Christopher Evans,Game,Spearphishing Link,Crime,Low,threat,28.156.226.82,espinozabriana,South America,Failed,3,4,2,17,6,4,True
+2024-03-16 09:28:29,Amanda Reynolds,Many,Application Layer Protocol,Have,High,class,58.63.195.26,nmassey,South America,Failed,1,4,1,8,25,1,False
+2024-02-28 01:44:19,Emily Ramirez,Claim,Data Staged,Many,Medium,improve,143.58.246.43,sarroyo,South America,Failed,1,3,3,14,29,8,False
+2024-04-25 01:20:50,David Wood,Environmental,Brute Force,Arm,High,present,18.135.204.118,qreed,North America,Failed,3,1,1,6,4,10,True
+2024-09-30 09:11:11,Fred Jones,Office,Spearphishing Attachment,Subject,Low,decision,181.85.79.173,brianbruce,Asia,Failed,1,1,1,23,6,11,True
+2024-07-03 08:10:40,Dr. Colleen Lindsey,However,Scheduled Task,As,Medium,from,158.73.52.88,lpatterson,Asia,Successful,2,3,3,17,26,7,True
+2024-03-16 18:09:31,Kelly Lamb,Interview,Sudo Caching,Mean,High,away,124.60.198.50,mark81,Europe,Failed,1,3,2,13,29,8,False
+2024-07-04 12:25:35,Cindy Gay,Free,Spearphishing Link,Government,Low,support,37.235.166.164,simmonslee,Asia,Failed,2,1,2,5,13,2,True
+2024-02-29 08:34:22,Toni Mcgrath,Pay,Spearphishing Link,People,Low,focus,76.198.64.142,hayesstephanie,North America,Failed,2,2,3,18,10,3,False
+2024-06-07 01:40:48,Mark Sanchez,Agent,Spearphishing Attachment,Suffer,Low,also,192.79.34.6,fhunter,North America,Successful,1,3,2,14,1,10,False
+2024-06-08 14:11:55,John Young,Receive,Scheduled Task,Really,High,become,14.77.65.62,andreareed,North America,Failed,2,4,1,3,10,4,True
+2024-08-21 02:15:28,Allison Terry,Service,Data Staged,Ground,Medium,security,112.23.231.170,mwilliams,North America,Failed,2,4,2,18,29,8,False
+2024-03-02 12:28:32,Shari Knight,Maybe,Spearphishing Link,Team,Medium,source,128.254.24.7,ellismolly,Asia,Successful,3,3,3,4,12,2,False
+2024-04-18 09:44:24,Adam Conner,Approach,Sudo Caching,Enjoy,Low,different,74.112.84.3,davisjonathan,Asia,Failed,2,1,2,11,8,7,True
+2024-01-23 13:38:44,Thomas Brown,Lawyer,Scheduled Task,Laugh,Low,painting,103.131.32.96,suttonmichele,Europe,Failed,1,2,1,5,28,3,False
+2024-04-04 18:03:28,Rachael Barnett,Try,Data Staged,Firm,High,play,31.14.53.133,barnettpaula,North America,Successful,1,3,2,20,31,8,True
+2024-07-31 16:21:59,Angelica Obrien,Cell,Data Staged,Probably,Low,forget,199.239.155.79,jason81,North America,Successful,1,1,2,13,12,1,False
+2024-07-31 19:49:17,Alexis Wolfe,Team,Scheduled Task,Size,High,might,2.30.252.219,jonesdiane,North America,Successful,3,3,3,12,8,2,True
+2024-05-04 20:22:09,Scott Stanley,Prove,Brute Force,Then,Medium,general,103.87.119.58,jeannemedina,Asia,Successful,3,3,4,15,19,6,True
+2024-02-25 13:28:18,Christina Reynolds,Major,Remote File Copy,Little,High,every,169.31.239.78,ericmckinney,Asia,Successful,3,3,2,23,8,9,False
+2024-07-03 07:34:30,Barbara Williams,Ok,Application Layer Protocol,Single,High,base,63.72.97.138,escobarjennifer,North America,Failed,2,4,1,20,16,7,True
+2024-09-18 23:00:29,Jerry Baker,Understand,Spearphishing Attachment,Put,Low,difference,52.77.224.190,crystalcabrera,Asia,Successful,1,3,2,23,4,10,False
+2024-04-11 11:28:00,Erika Myers,Item,Remote File Copy,Trade,Low,item,89.172.128.1,nmartin,South America,Successful,2,1,2,8,10,6,False
+2024-08-08 05:02:53,Anthony Martinez,Peace,Spearphishing Link,Have,Medium,official,215.57.116.125,jerryjohnson,South America,Successful,2,3,2,5,8,12,True
+2024-06-24 08:52:34,Courtney Mcguire,Control,Remote File Copy,Research,High,continue,39.101.81.134,kathy57,Asia,Failed,2,2,2,0,8,3,True
+2024-02-21 01:01:42,Morgan Harris,Describe,Scheduled Task,Value,Medium,character,200.57.252.207,atorres,North America,Failed,3,1,3,15,11,4,True
+2024-02-14 10:01:53,Jessica White,Window,Remote File Copy,Full,High,add,193.161.103.57,jonesnathan,South America,Successful,1,1,3,16,15,4,False
+2024-10-13 09:27:40,Jason Johnson,Air,Spearphishing Attachment,Condition,High,other,212.171.6.95,bdavis,North America,Failed,1,4,4,6,10,12,False
+2024-07-29 19:35:04,Nancy Oconnor,Should,Scheduled Task,Behind,Medium,glass,167.251.34.185,tina77,Europe,Failed,2,1,2,11,4,12,True
+2024-11-05 15:28:13,Lisa Dominguez,Cost,Remote File Copy,Capital,Medium,take,37.94.61.12,pattersonedwin,North America,Failed,3,1,2,10,17,11,False
+2024-04-26 23:55:42,Amber Richardson,Town,Data Staged,Make,High,value,159.239.73.57,glennchristina,Europe,Successful,1,4,2,16,20,5,False
+2024-05-30 20:09:38,Paul Wiggins,Want,Application Layer Protocol,City,Medium,woman,38.77.85.91,jessicawalters,Europe,Failed,1,4,1,18,14,12,False
+2024-10-30 00:30:31,Jeffery Nguyen,Least,Command and Control Over Web Protocol,Population,Low,exactly,174.149.215.20,wmeyer,North America,Successful,3,4,4,3,28,6,False
+2024-07-04 22:08:14,Meredith Garrett,Leader,Sudo Caching,Mention,High,herself,192.60.109.113,rogercampbell,Asia,Successful,3,4,2,21,2,11,False
+2024-08-28 13:44:35,Cassandra Copeland,Their,Spearphishing Attachment,Interview,Medium,nation,122.105.1.198,zolson,South America,Successful,3,4,2,8,18,8,False
+2024-07-06 09:04:39,Donna Tapia,Learn,Remote File Copy,Chance,Medium,student,113.58.44.110,icollins,Asia,Failed,2,4,4,18,27,1,True
+2024-06-12 15:10:00,James Richardson,Little,Scheduled Task,Others,High,season,49.102.158.102,casekevin,Europe,Successful,2,4,4,12,7,12,True
+2024-03-17 16:21:41,Lisa Doyle,Care,Remote File Copy,Relationship,Medium,wait,62.65.240.253,nicole75,Asia,Failed,1,2,1,21,14,3,True
+2024-08-13 10:58:57,William Wright,Over,Sudo Caching,Us,High,board,50.35.84.123,victoriawilliams,North America,Successful,2,3,1,12,20,5,True
+2024-01-22 09:55:51,Justin Williams,Whose,Application Layer Protocol,Big,Medium,always,131.43.138.199,thenderson,South America,Successful,1,2,3,6,8,3,True
+2024-06-24 17:20:10,Jessica Jenkins,Activity,Application Layer Protocol,Husband,Low,sing,37.107.39.80,sreeves,Europe,Failed,3,3,4,7,23,3,True
+2024-10-11 03:57:59,Bridget Higgins,Picture,Spearphishing Attachment,Behavior,High,if,7.160.159.63,denisejohnson,South America,Failed,2,1,1,1,7,7,False
+2024-02-26 08:51:16,Aaron Kirk,Today,Remote File Copy,Reduce,Medium,service,35.50.212.127,anthony60,Asia,Failed,3,3,2,23,28,3,False
+2024-10-18 03:02:17,Kimberly Williams,Near,Command and Control Over Web Protocol,Course,High,structure,106.203.16.236,ugonzalez,North America,Successful,3,2,4,19,8,7,True
+2024-05-05 05:46:43,Mr. Martin Erickson,Development,Data Staged,Science,Medium,exist,50.168.149.249,bpace,South America,Successful,2,2,2,12,13,11,True
+2024-08-11 19:45:20,Karen Hernandez,Sign,Spearphishing Attachment,Religious,Medium,if,45.146.208.170,david90,South America,Failed,1,1,3,9,2,10,False
+2024-08-20 04:59:16,Thomas Butler,Seven,Data Staged,Lay,High,next,206.112.32.237,melanieramirez,Asia,Failed,3,3,1,22,30,4,True
+2024-03-21 20:27:31,Angela Terrell,Benefit,Application Layer Protocol,Right,Low,around,194.245.168.86,cdavis,Europe,Successful,1,4,4,8,7,7,True
+2024-06-21 02:47:24,Patrick Harris,Two,Command and Control Over Web Protocol,Behavior,Low,cost,70.191.173.32,scottstrong,South America,Successful,2,2,4,21,29,12,True
+2024-02-17 07:39:07,Joseph Oneal,Reality,Spearphishing Link,Bad,High,knowledge,212.211.235.225,jennifer01,South America,Successful,2,1,3,6,8,10,True
+2024-02-20 16:39:34,Mrs. Melissa Bishop,Media,Spearphishing Attachment,Use,High,she,105.163.138.139,fhicks,Europe,Failed,1,4,3,6,5,3,True
+2024-05-07 02:56:11,Matthew Bautista,Direction,Application Layer Protocol,There,High,travel,132.198.184.11,vsmith,North America,Failed,2,2,1,4,21,1,False
+2024-10-18 16:30:56,Lauren Best,Pull,Remote File Copy,Career,Low,heavy,94.104.102.135,ychan,Asia,Successful,3,1,1,18,10,6,True
+2024-05-07 17:18:39,Wanda Rivera,Region,Data Staged,Support,Low,high,96.186.204.244,jhays,Europe,Successful,2,2,4,19,28,4,False
+2024-03-01 19:48:38,Michelle Guerra,Risk,Data Staged,Apply,Low,allow,48.99.111.64,trevinoalexis,North America,Successful,1,1,3,11,23,5,True
+2024-09-08 20:13:22,Mindy Navarro,Single,Spearphishing Link,Relate,Low,meeting,198.163.27.134,nancy96,Europe,Failed,2,1,3,1,31,8,False
+2024-07-21 11:34:43,Samantha Gordon,Likely,Spearphishing Attachment,Actually,Low,window,141.113.143.20,nicholashinton,Asia,Successful,2,2,2,15,23,10,False
+2024-07-19 01:28:51,Adam Chang,World,Application Layer Protocol,Give,Low,technology,176.249.254.83,wilkinswayne,Asia,Failed,2,3,2,8,8,12,False
+2024-08-25 03:51:20,Joseph Hayden,Themselves,Scheduled Task,Land,High,choose,62.48.30.210,lsmith,South America,Failed,1,3,1,5,28,9,False
+2024-10-04 16:10:03,Christina Valdez,May,Sudo Caching,Indeed,Medium,wonder,85.195.183.85,acook,North America,Failed,3,2,4,2,6,12,False
+2024-06-27 21:47:46,Loretta Salazar DVM,Home,Remote File Copy,Together,High,thousand,70.126.175.41,christopher15,North America,Successful,1,3,2,6,5,12,True
+2024-02-15 17:57:23,Adrian Stanley,Forward,Spearphishing Link,Series,High,call,174.45.249.113,sdominguez,Europe,Failed,2,4,4,7,25,10,False
+2024-04-02 03:27:43,Jenna Kim,Record,Data Staged,Box,Low,four,132.203.223.193,alittle,South America,Failed,2,4,3,10,31,11,False
+2024-05-09 20:51:36,Jeremy Hill,Piece,Command and Control Over Web Protocol,Food,High,newspaper,76.30.222.43,robertrobinson,Europe,Successful,2,2,2,9,26,2,False
+2024-07-10 13:08:36,Catherine Weber,Over,Scheduled Task,Indeed,Medium,teacher,111.4.152.97,arellanopaige,North America,Failed,2,3,4,13,18,2,False
+2024-09-15 00:22:53,Miranda Thomas,Mean,Application Layer Protocol,Say,High,science,16.75.126.23,georgepatricia,North America,Successful,3,2,2,0,18,1,True
+2024-05-02 03:10:39,Elizabeth Tanner,Available,Sudo Caching,Door,High,consider,19.158.230.93,cpowell,North America,Failed,3,2,1,17,31,9,False
+2024-11-05 04:30:14,Emily Herman,Three,Scheduled Task,Respond,High,study,214.161.107.192,lgallagher,North America,Successful,2,4,1,10,17,7,False
+2024-04-24 16:39:09,Suzanne Lawson,Discover,Spearphishing Link,Perform,High,field,182.112.210.112,webbsteve,Asia,Failed,3,3,1,21,4,12,True
+2024-06-29 13:55:14,Christian Ramirez,Investment,Spearphishing Link,Meet,Medium,provide,34.156.1.69,waltersashley,Europe,Failed,2,1,3,17,18,12,True
+2024-05-08 12:34:02,Anthony Hill,Explain,Data Staged,Air,Low,him,165.55.37.254,alison24,Europe,Failed,1,2,2,8,19,1,False
+2024-09-10 17:38:12,Patrick Watkins,War,Data Staged,Road,Low,say,2.37.112.195,ramseychristina,South America,Successful,3,2,1,21,3,5,True
+2024-08-19 16:08:59,Austin Clay,Response,Spearphishing Attachment,Soldier,High,new,176.184.168.69,thomasfox,Europe,Failed,1,2,2,8,6,7,False
+2024-10-18 18:08:13,Andrew Mejia,One,Application Layer Protocol,Dark,Medium,sport,218.72.202.248,orosario,Asia,Successful,3,1,3,12,1,2,False
+2024-07-25 01:13:53,Scott Carter,Decade,Data Staged,It,High,recent,221.102.217.2,xpollard,Europe,Failed,3,4,4,6,28,2,True
+2024-01-28 14:00:20,Jennifer Diaz,Friend,Spearphishing Attachment,Enjoy,Medium,detail,69.42.152.103,amychapman,North America,Successful,1,3,3,7,15,2,True
+2024-03-24 07:43:53,Keith Wood,Find,Application Layer Protocol,Window,High,subject,137.233.89.28,jlucas,Asia,Failed,3,1,2,8,17,12,True
+2024-08-19 07:57:27,Elizabeth Murray,Event,Command and Control Over Web Protocol,President,High,pull,21.153.44.181,yduncan,South America,Successful,3,4,3,13,13,3,True
+2024-04-13 01:13:00,Thomas Yu,Hot,Spearphishing Attachment,Speak,High,subject,63.131.253.127,qlyons,North America,Successful,2,3,4,14,12,7,False
+2024-08-12 01:29:28,Clinton Jones,Position,Spearphishing Link,Camera,Medium,impact,94.76.29.112,nicholassantana,Asia,Successful,1,4,2,11,13,3,True
+2024-01-13 06:20:34,Mary Fisher,Though,Application Layer Protocol,Room,High,organization,48.0.181.201,mmoore,Europe,Successful,1,3,2,4,11,5,True
+2024-11-02 06:01:24,Ryan Edwards,Make,Data Staged,Push,High,box,57.254.163.166,hernandezpatrick,North America,Successful,1,2,3,5,10,3,True
+2024-06-18 09:56:05,Monica Daniels,Player,Sudo Caching,Out,Medium,food,88.95.163.22,joseph61,South America,Failed,2,1,4,8,23,5,False
+2024-06-24 04:10:15,Douglas Frost,Break,Application Layer Protocol,Half,Medium,fight,4.149.126.13,davisshelia,South America,Successful,3,1,4,3,24,5,False
+2024-10-09 21:40:16,Sharon Montgomery,Financial,Brute Force,Network,High,everybody,53.196.185.115,gentrymatthew,Asia,Successful,3,1,1,23,20,2,False
+2024-03-07 20:11:27,Scott Leon,Leg,Application Layer Protocol,Adult,Medium,who,134.249.115.78,nelsonheather,Asia,Failed,2,4,3,0,13,12,False
+2024-04-08 14:22:57,Taylor Galvan,Physical,Remote File Copy,Hold,Low,its,157.135.141.185,ibarralinda,South America,Failed,2,1,2,16,23,11,True
+2024-04-23 20:25:57,Paula Robinson,Seem,Command and Control Over Web Protocol,Case,Low,approach,176.70.219.230,robertbenton,Europe,Successful,1,1,4,13,26,8,False
+2024-06-12 15:00:31,Keith Lane,Act,Spearphishing Attachment,Your,High,air,19.211.204.22,psmith,Asia,Successful,1,2,2,14,31,1,False
+2024-10-21 08:01:42,Becky Sanchez,Cause,Sudo Caching,Language,Low,example,138.143.97.241,danielsjoshua,Europe,Successful,2,3,1,11,14,9,True
+2024-10-13 10:29:15,Julie Lawrence,Natural,Data Staged,Know,Low,trouble,217.73.40.115,paultorres,North America,Successful,2,4,4,17,8,7,False
+2024-08-24 01:09:51,Nancy Robbins,Occur,Data Staged,Down,High,shoulder,16.250.183.110,chad19,South America,Successful,1,3,1,3,2,12,True
+2024-07-04 10:09:27,Megan Perez,Arm,Command and Control Over Web Protocol,Pretty,Medium,part,2.78.33.120,thomasmiller,South America,Failed,1,2,4,17,18,4,False
+2024-04-30 00:07:43,Yolanda Hunt,Agree,Spearphishing Link,Laugh,Medium,term,214.38.97.33,steventhompson,Europe,Successful,3,2,3,5,4,12,False
+2024-09-01 10:18:04,Mark Myers,Prove,Application Layer Protocol,Hand,Low,air,99.29.8.3,william54,North America,Successful,3,1,1,15,14,7,False
+2024-03-08 12:39:30,Brittany Greene,During,Data Staged,They,Medium,wife,161.76.158.233,uwright,South America,Successful,3,2,2,20,1,5,True
+2024-08-17 14:53:15,Derrick Steele,Position,Command and Control Over Web Protocol,Former,Medium,deal,204.145.251.178,berryleah,Asia,Failed,3,3,1,22,31,4,True
+2024-05-21 12:00:34,David Brown,Turn,Sudo Caching,Reach,Low,care,21.19.116.139,carolynbrown,South America,Successful,1,4,2,21,1,11,False
+2024-02-01 01:38:09,Michael Skinner,Arrive,Scheduled Task,Father,Medium,at,171.85.129.149,lindsey19,Asia,Failed,1,1,3,0,9,7,True
+2024-02-17 01:32:27,Bonnie Bowman,Before,Sudo Caching,Recently,High,beautiful,177.50.52.5,anne46,Asia,Successful,3,4,4,4,1,2,False
+2024-03-20 02:28:29,Caleb Campbell,Speech,Brute Force,Anyone,Medium,really,21.147.3.165,catherinenielsen,Europe,Failed,1,4,4,6,4,6,False
+2024-10-05 18:04:30,James Richardson,Woman,Command and Control Over Web Protocol,Your,High,leader,79.186.122.48,laura68,Asia,Failed,2,4,3,8,1,8,False
+2024-10-01 16:38:41,Paul Bryant,Agreement,Scheduled Task,A,Medium,student,166.156.84.57,velasquezjonathon,North America,Successful,1,4,2,23,29,7,False
+2024-02-26 07:00:42,Deborah Carrillo,Air,Application Layer Protocol,Option,High,writer,74.19.51.190,alanbuchanan,Asia,Successful,3,3,4,9,30,8,False
+2024-02-09 05:43:10,Donna Hill,International,Scheduled Task,Even,Low,follow,185.176.140.118,floresmanuel,Europe,Failed,2,4,4,8,23,7,False
+2024-08-07 17:48:51,Lisa Schultz,Loss,Scheduled Task,Resource,Medium,example,90.38.69.93,mariophelps,Asia,Successful,1,3,4,5,14,2,True
+2024-07-31 10:22:59,Kimberly Allen,Piece,Sudo Caching,Bad,High,child,206.168.46.48,fitzpatrickjesus,South America,Successful,3,2,4,3,6,6,True
+2024-05-07 15:32:10,Holly Jones,Mr,Sudo Caching,Break,Low,education,21.119.211.164,gcarr,South America,Successful,1,3,1,3,9,6,False
+2024-03-08 13:33:39,Paula Crawford,Step,Data Staged,She,Low,choice,156.222.101.168,keith74,Europe,Failed,1,1,3,10,20,10,True
+2024-09-17 23:38:02,Amy Kidd,Success,Data Staged,Deep,High,question,198.232.198.111,belinda27,Europe,Failed,2,4,4,12,28,7,True
+2024-08-06 04:31:21,Amy Anderson,Agent,Data Staged,Light,Medium,miss,165.243.56.175,richard12,Europe,Failed,2,1,4,13,13,9,True
+2024-06-15 03:22:17,Anthony Chambers,Power,Spearphishing Link,Cup,High,record,13.64.35.57,leblanctroy,North America,Failed,3,3,4,23,10,7,True
+2024-09-02 10:02:24,Michelle Jones,Customer,Command and Control Over Web Protocol,Local,Low,sign,206.186.240.94,fwells,Asia,Successful,3,2,2,3,11,4,False
+2024-08-26 08:32:08,Edwin Graham,Law,Remote File Copy,Hour,High,want,149.181.34.102,xjensen,Europe,Failed,3,3,2,19,5,4,False
+2024-02-13 13:20:47,Teresa Ward,Claim,Command and Control Over Web Protocol,Tree,Low,personal,210.35.209.173,brightmichele,North America,Failed,3,1,3,2,12,11,True
+2024-03-17 12:57:49,Michael Perry,Participant,Command and Control Over Web Protocol,Simple,Medium,exist,23.88.238.1,savagejennifer,Asia,Successful,1,4,2,21,17,5,False
+2024-11-02 22:01:29,Randy Munoz,Order,Brute Force,Scientist,Medium,short,33.55.35.107,urodriguez,Europe,Failed,3,2,3,0,22,6,False
+2024-02-02 00:25:14,Jared Hansen,Worry,Spearphishing Link,Without,Medium,student,27.237.129.253,wkemp,Europe,Failed,2,1,2,10,21,4,False
+2024-01-24 23:22:46,Amy Lewis,Argue,Scheduled Task,Wear,High,determine,157.96.94.126,fredharris,North America,Successful,1,4,1,0,23,9,True
+2024-05-07 05:00:53,Joshua Mercer,Investment,Remote File Copy,Ability,Low,share,163.118.178.148,louissalinas,Europe,Successful,1,2,4,5,14,8,True
+2024-01-20 13:21:59,Jennifer Cooper MD,Still,Spearphishing Link,Defense,High,student,124.234.165.232,znelson,North America,Failed,3,2,4,15,17,5,False
+2024-09-07 20:37:06,Janet Flores,Music,Application Layer Protocol,Try,Low,he,101.132.99.22,awoodard,South America,Successful,2,2,4,15,11,3,False
+2024-06-17 23:56:01,Roy Wright,Account,Scheduled Task,Ever,High,young,17.39.230.131,medinajeremy,North America,Failed,1,4,2,21,10,11,True
+2024-11-08 06:00:47,Dr. Amber Rich,Remain,Application Layer Protocol,Walk,High,act,122.173.70.243,cruzmichael,South America,Successful,3,2,2,6,30,10,True
+2024-04-24 19:59:08,Jason Salas,Authority,Brute Force,Back,High,sort,196.53.249.80,wallacealyssa,South America,Successful,3,4,4,23,22,8,True
+2024-02-16 10:00:49,William Garcia,Staff,Spearphishing Attachment,News,High,quickly,139.224.115.193,fordeddie,Europe,Failed,3,3,2,15,30,8,False
+2024-05-03 09:56:13,Douglas Smith,Former,Spearphishing Link,List,Medium,court,167.188.192.24,randallbryant,Europe,Successful,1,4,1,16,11,9,False
+2024-10-12 18:42:44,Joan Abbott,Two,Spearphishing Link,Develop,Low,worker,102.236.107.102,katherineholder,Asia,Successful,1,4,4,14,23,8,False
+2024-01-17 16:40:29,Lisa Anderson,Rule,Scheduled Task,Role,Medium,blood,192.210.194.51,xjordan,Asia,Successful,1,2,1,19,17,6,True
+2024-03-13 11:24:56,Michael Vance,Production,Remote File Copy,Wait,Medium,have,20.7.230.246,nielsenmatthew,Asia,Failed,3,1,3,13,3,3,True
+2024-01-08 08:02:12,Leslie King,Through,Application Layer Protocol,Sort,Medium,type,155.98.99.236,dhumphrey,Europe,Failed,2,3,3,21,23,11,True
+2024-01-05 09:21:54,Lucas Parsons,Public,Application Layer Protocol,Degree,Low,capital,97.137.197.175,douglasrobert,Asia,Successful,3,3,2,6,14,1,False
+2024-03-17 22:52:50,Eric Quinn,Suddenly,Remote File Copy,Economic,Medium,floor,53.126.255.97,schultzcristina,Europe,Successful,2,1,2,10,10,4,True
+2024-11-02 16:38:26,Misty Watkins,Particular,Brute Force,Successful,Low,herself,211.209.1.111,matthewryan,Europe,Failed,2,1,2,18,6,9,False
+2024-02-01 00:26:19,Melissa Webster,Single,Scheduled Task,Must,High,rise,98.137.13.211,meganosborne,Asia,Successful,1,2,1,11,31,5,True
+2024-09-20 12:37:39,Melissa Mercer,Research,Sudo Caching,Entire,High,yes,221.37.44.38,willieanderson,South America,Successful,2,4,2,8,15,8,False
+2024-10-09 08:40:18,William Wright,Network,Command and Control Over Web Protocol,Analysis,Medium,president,102.100.232.57,rebecca66,South America,Successful,2,4,4,4,14,9,False
+2024-09-28 00:10:22,Travis Herrera,Interest,Remote File Copy,Deep,Low,organization,46.77.29.40,michealchavez,Europe,Successful,2,2,1,16,8,1,False
+2024-07-28 01:26:21,Allison Wilson,Call,Brute Force,By,Medium,age,124.180.136.121,qbennett,Europe,Successful,1,2,4,21,14,6,True
+2024-07-28 20:16:15,Hannah Smith,Political,Spearphishing Attachment,Story,Medium,old,156.102.246.156,jeremy24,Asia,Successful,2,3,1,5,14,2,False
+2024-05-27 20:04:24,Andrew Erickson,Huge,Sudo Caching,Third,High,occur,103.37.231.27,lunahenry,North America,Failed,1,4,1,5,9,9,False
+2024-08-05 09:22:58,Alicia Knapp,Race,Spearphishing Link,Analysis,Medium,long,193.195.177.210,lanestephanie,Europe,Failed,3,4,2,9,8,10,False
+2024-01-08 00:35:18,Shannon Barnett,Again,Spearphishing Link,Cultural,Low,effect,183.0.29.158,holly39,North America,Failed,2,4,2,23,25,5,True
+2024-11-01 19:16:50,Gregory Guerrero,Knowledge,Command and Control Over Web Protocol,Garden,High,expert,171.122.93.26,brian26,South America,Failed,3,2,2,15,23,6,True
+2024-03-12 03:33:53,Helen George,Former,Application Layer Protocol,Notice,Medium,whole,85.237.192.223,pkelley,North America,Failed,3,2,3,20,2,7,True
+2024-10-22 16:01:41,Melinda Fuentes,Reflect,Sudo Caching,Imagine,Medium,bar,10.138.104.164,dakotawilliams,Europe,Successful,1,1,1,3,27,5,False
+2024-10-09 07:09:11,Raven Cooley,Million,Sudo Caching,Mention,High,detail,131.195.134.88,zgreen,North America,Failed,3,1,1,23,9,11,False
+2024-05-25 07:55:54,Elizabeth Barton,Physical,Spearphishing Attachment,Part,Low,car,41.190.139.32,cynthia92,Asia,Failed,1,3,2,0,17,10,False
+2024-05-20 08:10:22,Shawn Perez,Star,Spearphishing Attachment,Real,Medium,assume,87.216.144.187,mooreamanda,Europe,Failed,1,1,3,14,4,4,False
+2024-02-27 01:38:09,Andrea Cordova,Give,Command and Control Over Web Protocol,Risk,Medium,low,194.3.253.163,samanthaandrews,South America,Failed,1,3,2,2,2,9,True
+2024-08-13 11:36:10,Albert Stephens,Language,Command and Control Over Web Protocol,Skill,Medium,prepare,90.207.60.178,karen47,Europe,Failed,3,3,1,7,14,1,False
+2024-04-30 04:17:09,Michelle Forbes,Industry,Application Layer Protocol,Without,Low,mother,40.50.174.131,james49,Asia,Failed,3,4,4,1,22,8,False
+2024-03-11 05:17:39,Robin Reynolds,Concern,Data Staged,Loss,Low,fear,195.75.235.136,kevinperez,Asia,Successful,2,2,1,18,30,12,False
+2024-04-10 03:04:27,Paul Hancock,Sea,Scheduled Task,Several,Medium,door,95.50.134.188,mortega,Asia,Successful,1,3,3,6,6,3,True
+2024-08-10 19:11:28,Carmen Lyons,Painting,Remote File Copy,Prevent,Medium,energy,18.31.168.71,ihale,Asia,Failed,1,2,4,3,23,8,True
+2024-08-21 00:49:51,Tonya Mooney,Above,Spearphishing Attachment,Couple,Medium,buy,84.15.41.157,robinmorales,Asia,Successful,2,3,1,17,7,1,False
+2024-03-26 01:08:02,Michael Scott,Stuff,Spearphishing Attachment,Recognize,Medium,those,57.0.139.113,charles60,North America,Failed,3,2,4,7,16,4,False
+2024-02-03 14:24:46,Patrick Figueroa,Thus,Spearphishing Link,Seat,Medium,prevent,28.4.115.213,ldavis,Asia,Failed,1,2,2,7,23,7,False
+2024-03-20 21:38:42,Sarah Moran,Must,Application Layer Protocol,Even,High,again,67.69.69.107,rgarrett,Europe,Successful,1,4,4,18,8,5,False
+2024-10-22 05:58:21,Miss Erin Howard,Space,Spearphishing Link,Until,High,prepare,51.254.95.187,krandall,Asia,Successful,2,2,4,13,8,1,False
+2024-11-09 14:16:42,Katie Paul,House,Application Layer Protocol,Speak,Low,human,34.128.159.59,ncarter,South America,Successful,2,1,1,15,14,2,True
+2024-07-03 15:04:43,Rachel Armstrong,Year,Sudo Caching,After,Medium,cost,25.247.109.120,ericjackson,North America,Successful,3,4,1,23,16,5,False
+2024-05-24 05:09:55,Amy Russell,Break,Sudo Caching,Style,High,result,204.147.204.1,mwatts,South America,Failed,1,2,2,10,16,8,True
+2024-06-03 09:02:26,April Drake MD,Movie,Brute Force,Yet,Low,top,165.17.222.203,cfox,South America,Successful,1,4,3,15,14,12,True
+2024-08-21 15:14:41,Haley Bernard,Serious,Sudo Caching,Several,High,choose,171.189.201.201,frankmckinney,North America,Successful,2,4,3,16,31,8,False
+2024-04-22 23:17:14,Paul Skinner,Account,Spearphishing Attachment,Room,Medium,require,51.41.44.109,stewartkevin,South America,Failed,3,4,1,12,13,12,False
+2024-07-10 02:47:50,Tiffany Morrison,Serve,Sudo Caching,Wind,Medium,team,88.109.51.194,christopher88,Asia,Successful,3,3,2,13,7,10,True
+2024-09-15 07:59:54,Daniel Mathews,Compare,Remote File Copy,Production,High,significant,115.88.17.139,paulturner,South America,Successful,3,1,3,12,16,10,False
+2024-11-08 02:41:03,Willie Goodwin,Order,Spearphishing Attachment,Agree,High,thank,46.11.197.57,kyoder,Europe,Successful,2,3,2,2,22,3,True
+2024-10-27 16:04:54,Joseph Vazquez,Stage,Command and Control Over Web Protocol,Else,Low,song,188.236.0.165,jeffery64,Europe,Successful,3,3,4,21,9,11,False
+2024-05-09 21:06:45,Jennifer Campbell,By,Brute Force,Himself,Medium,project,97.157.42.224,marcusbutler,Asia,Successful,2,1,1,22,6,2,True
+2024-01-16 03:47:22,Elizabeth Walls,Really,Command and Control Over Web Protocol,Tree,Medium,process,49.173.118.159,shawnmccullough,South America,Successful,1,3,2,23,22,2,False
+2024-03-02 00:16:20,Laurie Guerrero,Enough,Remote File Copy,Month,High,sing,159.39.190.47,brian51,North America,Successful,3,4,4,0,5,9,False
+2024-04-13 05:32:31,Jeremy Green,Center,Scheduled Task,For,High,sing,118.153.109.37,lorikelley,Europe,Failed,3,4,1,11,2,9,False
+2024-01-10 06:51:45,Erica Cunningham,Instead,Application Layer Protocol,Amount,Medium,participant,107.63.202.187,michellebriggs,South America,Failed,1,3,2,22,2,4,True
+2024-04-19 05:14:33,Erin Wilson,Party,Scheduled Task,Indeed,Low,matter,36.183.255.195,henrycollins,South America,Successful,2,1,1,3,9,9,True
+2024-10-24 08:38:47,Dr. Nancy Rojas DDS,Medical,Spearphishing Link,Development,Low,three,211.101.187.34,james86,Europe,Successful,2,1,1,11,10,4,False
+2024-01-26 02:14:35,Miss Deborah Hodge,Next,Application Layer Protocol,Within,High,name,90.122.84.218,wmiller,North America,Failed,2,2,4,10,8,11,True
+2024-06-26 12:49:19,Roberta Fritz,Actually,Spearphishing Attachment,Tree,Low,foreign,146.82.249.158,wrightpaul,North America,Successful,3,4,4,20,16,7,False
+2024-05-14 17:44:27,Dana Hendrix,Among,Application Layer Protocol,True,High,who,38.159.76.46,diazrussell,Asia,Successful,2,3,1,3,22,10,True
+2024-04-03 07:24:47,Christopher Williams,Policy,Data Staged,Miss,Medium,she,192.247.44.77,nancygonzalez,Europe,Successful,1,4,2,14,28,9,False
+2024-09-05 13:50:02,Jordan Cline,Possible,Remote File Copy,Nor,High,bit,22.34.254.194,kellycook,South America,Successful,1,1,2,18,4,11,True
+2024-03-17 20:52:29,Laura Campbell,Clearly,Brute Force,Return,Medium,defense,216.244.43.46,smolina,Europe,Successful,2,4,1,17,16,1,False
+2024-09-10 04:48:46,Heather Yoder,Fear,Spearphishing Link,Send,Medium,fact,139.39.142.158,leematthew,Europe,Failed,3,3,3,21,20,8,True
+2024-03-05 03:19:53,Ariel Parker,Best,Command and Control Over Web Protocol,Manage,High,focus,173.94.167.106,brownnatalie,Europe,Failed,2,2,4,22,16,8,False
+2024-02-23 19:27:16,Judy Hughes,Pm,Brute Force,Task,Low,although,142.227.15.122,coledenise,South America,Successful,2,2,4,20,13,3,False
+2024-07-20 16:53:11,Jonathan Kim,Official,Sudo Caching,Hot,Medium,before,200.199.102.252,devin87,South America,Successful,1,2,1,2,4,7,False
+2024-09-04 12:37:39,Vincent Graham,Always,Command and Control Over Web Protocol,Plan,Medium,wide,41.168.79.114,porterluis,North America,Successful,1,2,3,3,17,5,False
+2024-06-26 18:30:37,John Grimes,Car,Sudo Caching,Traditional,High,four,39.11.7.146,traceystewart,North America,Failed,2,4,2,1,27,6,True
+2024-04-21 15:47:44,Brady Stevens,Let,Spearphishing Attachment,Attention,Medium,realize,91.27.240.247,veronica23,North America,Failed,2,3,3,9,30,8,False
+2024-01-08 07:59:48,Matthew Morgan,Wind,Command and Control Over Web Protocol,Reach,High,fill,177.173.119.184,danielsmichelle,Asia,Successful,2,3,2,2,15,6,False
+2024-05-24 01:29:36,Mark Duke,Draw,Scheduled Task,Ten,Medium,bring,78.1.78.191,carterkeith,South America,Failed,3,3,4,9,17,7,True
+2024-02-11 09:05:15,Peter Bennett,Outside,Spearphishing Link,Low,Medium,soon,47.102.53.43,jonesmichael,South America,Failed,3,2,3,8,12,10,False
+2024-04-28 14:29:23,Brenda Gilmore,School,Application Layer Protocol,Network,High,particularly,18.76.207.250,williamslisa,Asia,Successful,1,3,3,18,2,9,False
+2024-03-28 23:01:01,Robin Lee,Watch,Command and Control Over Web Protocol,After,Low,view,149.160.38.60,brent98,South America,Successful,2,4,2,8,6,6,False
+2024-10-02 07:52:51,Stephanie Simmons,Government,Brute Force,Difference,High,anything,206.211.26.237,brett87,South America,Successful,2,1,3,19,11,7,True
+2024-03-20 18:52:50,Juan Joyce,Behavior,Application Layer Protocol,Who,Medium,option,63.95.115.219,davisadam,Europe,Failed,2,2,1,22,3,11,True
+2024-08-20 11:05:58,Steven Burke,Chance,Spearphishing Link,Foot,High,theory,179.98.223.158,holly28,Asia,Failed,3,2,2,17,21,6,False
+2024-09-30 20:17:29,Evan Woods,She,Brute Force,Behind,High,marriage,186.170.27.17,ariana42,Europe,Failed,2,3,1,7,3,2,False
+2024-09-30 21:26:40,Katrina Henry,Suddenly,Application Layer Protocol,Also,Medium,policy,37.53.81.10,whiteheather,North America,Failed,3,3,3,21,24,9,True
+2024-02-17 15:41:29,Samantha Moore,Himself,Remote File Copy,Include,High,skill,201.254.44.67,mark07,North America,Successful,1,4,3,10,26,1,True
+2024-02-12 15:08:45,Perry Choi,Your,Remote File Copy,Computer,Medium,without,157.144.193.81,christensenmark,Europe,Successful,2,3,1,13,19,12,True
+2024-09-23 12:00:52,Kelly Watson,Represent,Command and Control Over Web Protocol,East,High,every,21.132.7.53,ryanburnett,Europe,Successful,2,1,3,13,19,3,True
+2024-06-19 09:05:28,Kristin Merritt,Itself,Data Staged,Chair,Medium,exactly,93.101.4.149,john29,South America,Failed,1,2,1,12,3,5,True
+2024-11-04 05:51:09,Brianna Hall,American,Spearphishing Link,Federal,High,those,184.216.86.194,enash,North America,Failed,1,2,2,10,22,1,False
+2024-03-07 21:13:45,Timothy Reed,Single,Application Layer Protocol,Fire,Low,price,92.124.133.25,danielmitchell,South America,Successful,2,2,1,5,17,7,False
+2024-09-29 19:42:49,Erika Wagner,Town,Command and Control Over Web Protocol,Foreign,Medium,event,190.157.44.31,calhounallison,Europe,Failed,3,1,2,11,18,1,True
+2024-06-04 18:22:06,Laurie Delgado,Opportunity,Brute Force,Reflect,High,family,50.41.43.208,ylittle,Europe,Failed,1,2,1,16,27,2,True
+2024-10-09 13:14:27,Eric Rivers,Industry,Sudo Caching,Treat,Low,price,203.246.245.83,kellychristian,Asia,Successful,2,2,3,2,21,9,False
+2024-02-28 02:05:54,Jennifer Soto,Personal,Remote File Copy,We,High,rather,99.22.31.76,wilkersonjames,South America,Failed,2,1,4,17,3,12,False
+2024-07-28 01:07:36,Rhonda Morton,Discussion,Spearphishing Attachment,Improve,Medium,style,129.144.246.61,jonathanlewis,Europe,Successful,3,1,3,19,1,7,False
+2024-05-06 14:28:28,Timothy Sanchez,Pass,Brute Force,Low,High,spring,146.16.119.65,amber07,South America,Successful,2,3,3,2,29,12,False
+2024-05-22 10:23:13,Mark Banks,East,Spearphishing Attachment,Professional,Low,plan,171.193.137.128,jamesperez,North America,Successful,3,1,1,2,10,9,True
+2024-02-18 01:04:31,Dana Moore,Risk,Data Staged,Happy,High,of,57.51.38.15,eric43,North America,Successful,2,4,1,13,12,5,False
+2024-04-26 03:24:12,Emily Garcia,Relationship,Sudo Caching,West,High,reduce,77.48.245.134,hfreeman,North America,Successful,1,2,2,0,6,4,False
+2024-10-25 22:56:41,Teresa Holden,Will,Data Staged,Last,Low,by,114.126.117.75,gwoodward,Europe,Successful,1,3,3,4,13,3,False
+2024-02-02 22:03:58,Phyllis Lee,Protect,Spearphishing Attachment,No,High,those,2.23.255.118,coryhoward,North America,Failed,2,3,4,10,5,6,False
+2024-08-25 02:38:10,Kathryn Jackson,Seem,Spearphishing Link,Herself,Low,study,97.51.31.58,johnnorman,Asia,Failed,3,2,3,8,3,6,False
+2024-09-19 14:23:53,Alexander Miller,Group,Scheduled Task,This,Low,somebody,71.124.114.226,pettycarrie,Asia,Successful,2,3,2,2,14,11,False
+2024-07-05 04:28:22,Jennifer Wilson,Reduce,Brute Force,Finally,Medium,wall,41.92.188.154,clopez,North America,Failed,2,2,4,22,2,7,True
+2024-01-19 21:42:47,Derek Chavez,Lawyer,Spearphishing Attachment,Standard,Medium,response,179.64.2.172,peterpeterson,Europe,Failed,3,2,3,0,5,7,True
+2024-01-15 06:25:16,Kelly Stewart,Environment,Command and Control Over Web Protocol,Prevent,High,cause,113.26.91.246,hstein,Europe,Failed,2,1,1,4,26,10,False
+2024-05-18 13:27:03,Joseph Lawrence,Low,Command and Control Over Web Protocol,Goal,Medium,rather,214.146.174.106,virginiastone,Europe,Successful,1,4,4,12,18,5,True
+2024-09-18 16:03:34,Max Anderson,Together,Sudo Caching,Save,High,job,27.168.141.117,noahtaylor,Europe,Successful,1,1,2,15,9,11,False
+2024-05-13 13:49:10,Bethany Pugh,Shoulder,Sudo Caching,Fast,Low,buy,160.76.111.204,barryamy,North America,Successful,2,2,1,16,3,1,True
+2024-10-18 11:18:56,Lonnie Smith,Exactly,Sudo Caching,Space,Low,lose,5.133.28.60,yhamilton,North America,Successful,2,4,4,18,4,1,True
+2024-04-19 22:31:45,Melissa Porter,Throw,Command and Control Over Web Protocol,Story,Low,debate,140.114.58.142,andradesandra,Asia,Failed,1,4,4,16,18,3,True
+2024-05-18 19:57:08,David Waters,Local,Scheduled Task,Myself,High,away,49.212.152.34,colemanhaley,South America,Failed,3,1,4,10,9,3,True
+2024-01-22 01:26:58,Melissa Evans,Environment,Spearphishing Link,Page,High,house,107.201.54.108,angelahubbard,North America,Failed,2,3,4,19,13,7,True
+2024-09-15 10:04:31,Isaac Fisher,Dark,Spearphishing Attachment,On,Low,artist,24.111.206.38,robinsonrobert,South America,Successful,1,4,1,8,6,7,True
+2024-07-15 01:12:00,Tyler Hodge,Far,Spearphishing Attachment,Environmental,High,history,110.41.142.1,oowen,Europe,Failed,1,3,4,23,12,12,True
+2024-10-15 23:34:15,Justin Vega,Between,Sudo Caching,Investment,High,reflect,72.62.57.72,daniel17,Asia,Successful,1,3,3,9,4,11,True
+2024-01-29 09:51:53,Laura Brewer,Ball,Command and Control Over Web Protocol,Page,Low,group,37.152.209.32,leonalexis,Europe,Failed,1,1,2,16,4,4,True
+2024-02-18 22:31:57,Julie Smith,Piece,Spearphishing Link,Spring,High,us,75.76.64.72,stephanieanderson,North America,Successful,3,2,2,1,31,11,True
+2024-05-27 22:52:38,Autumn Anderson,Ever,Brute Force,Forward,Medium,care,2.55.85.85,bakerbrandon,Europe,Successful,1,2,4,13,8,7,False
+2024-03-14 23:55:14,Jason Thompson,Really,Sudo Caching,Character,Medium,property,196.72.26.114,tmontgomery,South America,Successful,2,4,4,12,4,1,False
+2024-09-13 08:56:16,Bridget Nichols,Article,Remote File Copy,Power,Medium,knowledge,80.14.200.168,vli,Europe,Failed,1,4,1,13,7,12,False
+2024-07-12 04:29:24,Clinton Baker,We,Data Staged,Loss,Medium,capital,129.193.80.137,ucastillo,Europe,Failed,2,3,2,11,4,8,True
+2024-08-31 21:41:56,Kimberly Santiago,Concern,Spearphishing Attachment,Everybody,Low,former,167.88.126.160,ryancohen,South America,Failed,2,2,2,7,1,8,True
+2024-09-04 08:11:30,Samantha Scott,Simply,Brute Force,Red,Low,goal,144.33.54.45,awright,Asia,Failed,1,1,4,9,1,2,True
+2024-09-14 17:04:10,Patricia Sims,Concern,Scheduled Task,Central,High,outside,183.188.162.144,carolbutler,Asia,Failed,1,3,2,9,7,1,True
+2024-01-19 00:00:36,Colleen Bryant,Quickly,Command and Control Over Web Protocol,Ahead,Medium,develop,140.66.61.73,jonathanthompson,Europe,Failed,1,2,1,18,20,4,True
+2024-03-25 17:10:10,James Kelly,Pay,Spearphishing Link,Keep,High,goal,19.111.67.180,townsendnicholas,Asia,Successful,3,2,4,18,5,12,True
+2024-03-23 01:04:36,Michael Olson,Yourself,Sudo Caching,General,Medium,sport,48.84.7.121,jhoward,Asia,Failed,2,1,2,11,29,12,False
+2024-06-08 08:45:39,Hannah Taylor,Company,Application Layer Protocol,Think,High,pass,171.57.102.229,ggeorge,Asia,Successful,1,1,1,6,16,4,False
+2024-07-06 18:50:13,Jason Brown,See,Spearphishing Link,Perform,Medium,unit,212.46.147.226,rickysmith,Europe,Successful,2,2,1,20,7,12,True
+2024-07-17 07:39:55,Dr. Hannah Schultz,But,Application Layer Protocol,Long,Medium,sing,52.43.26.85,hbautista,Europe,Successful,3,1,1,23,19,10,True
+2024-04-02 11:29:16,Megan Becker MD,Laugh,Data Staged,Kind,Low,sound,31.63.254.17,aalvarado,Europe,Successful,2,2,3,16,4,5,False
+2024-01-27 10:56:43,Nicole Lucero,Hard,Sudo Caching,So,High,beautiful,34.69.104.63,angelawade,Europe,Successful,1,3,1,15,28,3,False
+2024-07-12 00:16:38,Annette Brown,Treat,Data Staged,Both,High,father,157.122.134.125,zmyers,Asia,Successful,1,2,4,18,2,5,True
+2024-08-10 14:15:14,Nicholas Schwartz,Rise,Scheduled Task,End,Low,us,121.59.154.245,lisa99,North America,Successful,2,4,3,21,19,10,True
+2024-03-23 18:29:00,Vanessa Garza,Above,Application Layer Protocol,According,Low,west,122.147.107.136,heatherwilliams,Europe,Failed,1,4,2,7,16,4,True
+2024-01-18 07:10:58,Thomas Martinez,Treatment,Data Staged,Movement,Low,source,36.50.168.212,ashleypeterson,North America,Successful,1,4,4,0,25,2,False
+2024-08-30 16:16:44,Sharon Randall,Organization,Spearphishing Link,Thought,High,issue,18.241.55.110,vincentdavis,North America,Successful,3,1,1,22,25,1,True
+2024-01-06 20:01:57,Steven Walker,Forget,Command and Control Over Web Protocol,Blood,Low,key,70.88.205.22,ferrelljill,South America,Successful,3,3,4,11,23,9,True
+2024-10-16 00:30:56,Seth Mann,Most,Data Staged,Station,Low,protect,106.230.90.213,cynthiajacobson,Europe,Failed,2,4,2,12,9,11,True
+2024-07-31 19:27:57,Sarah Tran,You,Scheduled Task,History,Medium,certainly,116.57.111.115,andrew83,Asia,Successful,1,3,2,0,9,2,True
+2024-01-13 12:02:02,Kayla Johnson,All,Sudo Caching,Majority,High,yet,38.232.97.248,christophermills,North America,Failed,3,1,4,1,6,2,True
+2024-08-04 05:47:43,Lisa Robinson,Win,Sudo Caching,Congress,Low,build,32.82.172.40,zscott,North America,Failed,1,4,2,4,9,5,True
+2024-07-08 15:45:53,Tim Archer,Source,Spearphishing Attachment,Lawyer,Medium,television,12.170.212.88,paulacarlson,Europe,Successful,3,4,3,1,16,3,False
+2024-01-09 21:26:37,Melanie Fowler,Eat,Spearphishing Link,Gas,Medium,Congress,134.222.27.205,zdillon,Asia,Successful,1,3,1,18,13,8,True
+2024-01-31 06:51:14,Robert Chambers,Such,Command and Control Over Web Protocol,Individual,Medium,movie,29.153.107.36,zwolf,North America,Successful,2,1,4,9,11,4,False
+2024-05-26 05:25:39,Jordan Black,Center,Brute Force,Million,Low,remain,150.144.116.221,kmendez,Asia,Failed,2,3,3,11,25,7,False
+2024-03-22 15:39:35,Jeffery Andrews,Receive,Command and Control Over Web Protocol,Include,Medium,pattern,145.158.78.38,housechristina,North America,Failed,3,4,2,20,21,4,True
+2024-02-17 13:52:08,Ronald Johnston,Laugh,Remote File Copy,Fine,Low,instead,4.180.128.205,rita96,Europe,Failed,3,4,1,7,12,10,False
+2024-05-13 06:04:03,Susan Reid,Age,Spearphishing Link,Central,Medium,one,161.32.70.233,burnsadam,South America,Failed,1,4,1,3,28,8,False
+2024-08-22 23:25:41,Gerald Hunt,Development,Spearphishing Link,Rise,High,fast,129.232.51.111,brittanystokes,Asia,Failed,2,4,1,0,15,4,True
+2024-06-09 07:02:28,Jamie Moore,Maybe,Spearphishing Link,Old,Medium,understand,192.209.254.242,ghaynes,Asia,Failed,3,4,2,13,12,5,False
+2024-04-06 20:44:02,Tracy Powell,Role,Scheduled Task,Policy,Low,paper,53.8.141.154,jasonhodge,Europe,Successful,1,4,4,16,28,3,False
+2024-07-28 08:15:11,Erik Mathews,Parent,Scheduled Task,Kid,Low,include,137.63.16.92,justinwise,Europe,Failed,2,3,4,16,31,10,False
+2024-10-27 11:16:23,Nicole Underwood,Language,Spearphishing Attachment,Positive,High,analysis,132.74.38.119,townsenddana,North America,Successful,1,4,3,18,16,9,False
+2024-04-18 10:35:06,Jacqueline Leach,Statement,Command and Control Over Web Protocol,Budget,Medium,ten,76.52.181.17,kristen17,South America,Failed,1,2,1,5,25,8,True
+2024-09-07 20:20:07,Jonathan Ramirez,Half,Spearphishing Link,Number,High,operation,74.17.76.163,duncanbrandon,Asia,Successful,3,3,2,20,28,10,False
+2024-06-05 09:50:37,Peggy Nelson,Imagine,Command and Control Over Web Protocol,Stock,Low,key,121.124.166.154,wthomas,South America,Successful,2,3,3,4,24,2,True
+2024-03-13 18:11:39,Nathaniel Morris,Question,Brute Force,Also,Low,trouble,106.214.54.172,rbrown,North America,Failed,1,1,1,0,29,5,True
+2024-05-31 14:43:28,Christine Mccarthy,Strong,Sudo Caching,Top,High,everything,105.63.107.62,millermatthew,Asia,Successful,3,1,3,8,22,7,True
+2024-10-25 12:17:36,Zachary Dillon,Protect,Application Layer Protocol,Easy,Medium,raise,171.130.44.163,sarahdean,Asia,Failed,3,4,1,6,30,7,True
+2024-02-23 21:56:49,Diana Gutierrez,Someone,Command and Control Over Web Protocol,Director,Medium,social,22.154.167.181,bmccoy,Asia,Successful,2,1,4,9,12,6,False
+2024-05-02 18:10:29,David Evans,Describe,Spearphishing Attachment,Entire,Low,responsibility,60.92.189.145,donna10,Asia,Successful,3,3,3,5,21,10,False
+2024-03-08 15:22:42,Andrew Lewis,Future,Scheduled Task,Range,Low,agency,38.204.141.102,davisteresa,Europe,Failed,1,4,2,8,27,9,False
+2024-10-17 12:04:14,Jennifer Brown,Institution,Scheduled Task,Bill,Low,time,200.8.255.90,bmalone,South America,Failed,2,3,4,23,18,8,False
+2024-08-19 13:04:57,Deborah Barajas,Grow,Command and Control Over Web Protocol,Live,High,leg,63.184.148.59,wrightterry,North America,Failed,3,3,3,19,22,11,False
+2024-07-14 08:57:19,Lisa Wright MD,Success,Scheduled Task,Clearly,Medium,tree,124.174.51.233,ericsmith,South America,Successful,3,2,3,2,28,12,True
+2024-11-05 05:18:55,Dr. Aaron Andrews,Election,Application Layer Protocol,Significant,High,night,164.82.11.44,anthony27,North America,Failed,1,1,4,21,7,4,False
+2024-06-14 04:24:06,Christine Silva,Room,Spearphishing Attachment,Leg,Medium,themselves,181.127.229.123,byrdpaul,Europe,Successful,3,3,3,5,1,6,False
+2024-07-24 19:25:24,Devin Moore,Authority,Command and Control Over Web Protocol,Why,Medium,do,148.220.45.221,williamsjohn,North America,Failed,3,3,2,14,28,3,True
+2024-03-30 00:36:03,Patrick Rasmussen,Win,Command and Control Over Web Protocol,Happy,High,station,204.102.104.211,phillipstaylor,North America,Failed,2,4,1,21,19,9,False
+2024-10-14 21:34:56,Marcus Andrews,Interest,Sudo Caching,Term,Medium,policy,181.92.171.106,janetpowers,South America,Successful,3,2,3,10,3,4,True
+2024-07-14 15:31:18,Charles Michael,Mention,Scheduled Task,Much,High,school,142.9.71.168,fullerpatricia,Asia,Successful,3,3,2,21,11,6,False
+2024-09-13 16:04:42,Natalie Hunt,Media,Scheduled Task,Clearly,High,why,164.81.224.251,contrerasjames,Asia,Successful,2,3,3,4,24,12,False
+2024-10-12 17:47:53,Marissa Dixon,Pm,Brute Force,Page,High,resource,166.224.195.39,heatherfisher,South America,Successful,2,1,1,8,17,6,False
+2024-05-17 08:10:30,Justin Wood,Republican,Remote File Copy,Why,High,action,187.79.17.34,scott77,North America,Successful,3,2,4,1,1,10,False
+2024-09-20 13:56:39,Jeffrey Wells,Action,Spearphishing Link,Loss,High,respond,83.53.192.42,gmartinez,North America,Successful,3,3,2,2,25,12,False
+2024-05-17 07:48:53,Willie Watkins,Population,Spearphishing Link,Impact,High,above,7.89.136.113,scunningham,North America,Successful,3,3,1,8,5,7,False
+2024-06-14 20:53:34,Victoria Hudson,Plan,Remote File Copy,Economic,High,drive,202.202.41.110,lewisscott,Europe,Failed,1,1,4,10,27,6,False
+2024-03-18 05:22:20,Harry Mckee,Marriage,Spearphishing Attachment,Quality,Medium,what,93.63.126.244,markwilliams,South America,Successful,3,1,4,18,16,8,False
+2024-11-06 18:49:58,Victoria Cook,Company,Sudo Caching,Song,Medium,education,220.11.204.98,brenda60,North America,Successful,2,2,2,21,30,12,False
+2024-08-07 16:01:51,Jonathan Love,Recognize,Remote File Copy,Firm,High,ago,96.154.107.195,nthornton,South America,Successful,2,3,1,3,2,5,True
+2024-11-10 20:37:46,Mary Rose,Mean,Spearphishing Link,Very,Low,hotel,49.93.247.225,lweaver,South America,Failed,3,1,4,4,20,8,True
+2024-08-16 07:20:59,Erika Luna,Partner,Application Layer Protocol,Concern,High,easy,140.9.0.244,natalieperez,Asia,Successful,3,1,4,5,13,2,True
+2024-10-31 01:30:32,Erin Smith,Military,Data Staged,Center,Low,save,163.45.76.135,daniel07,Asia,Failed,1,2,4,17,24,6,False
+2024-03-24 16:20:48,Sandra Simmons,Effect,Brute Force,Direction,Medium,chair,218.5.56.93,cainlinda,Asia,Successful,2,2,3,3,9,6,True
+2024-04-06 20:15:47,Brett Lawson,Big,Data Staged,Condition,Medium,human,95.213.252.215,hayesdiana,South America,Failed,3,2,1,21,5,6,False
+2024-01-11 14:45:45,Susan Williams,Foot,Brute Force,Up,Medium,walk,199.67.31.153,nicholas93,Asia,Successful,2,1,2,15,26,5,True
+2024-09-02 23:37:20,Joshua Mitchell,Never,Brute Force,Guess,High,president,116.93.198.181,grandall,Europe,Successful,3,2,3,3,14,7,True
+2024-03-24 02:25:24,Katie Walters,Write,Data Staged,So,High,single,216.108.144.0,vhill,Europe,Successful,1,3,3,15,26,10,False
+2024-05-25 13:37:32,Meredith Guzman,Floor,Application Layer Protocol,Audience,Medium,today,76.171.66.202,jacob86,Europe,Successful,3,4,1,12,7,3,True
+2024-05-06 11:59:12,Kathy Barrera,Customer,Spearphishing Link,Feel,High,simple,19.157.181.39,hawkinsbrent,North America,Successful,3,1,2,22,28,1,True
+2024-05-25 02:17:58,Michael Mitchell,Full,Command and Control Over Web Protocol,Produce,High,although,100.254.201.37,aesparza,Asia,Failed,2,4,3,14,20,3,True
+2024-01-04 14:06:09,Valerie Black,Mrs,Application Layer Protocol,Meet,Medium,treat,132.175.89.128,james82,South America,Successful,3,4,4,11,28,5,False
+2024-09-12 02:03:50,Ruth Rose,Talk,Spearphishing Link,Firm,Low,usually,204.26.51.127,sandovalheidi,Europe,Successful,3,3,1,12,16,10,True
+2024-02-25 07:00:48,Daisy Green,Recognize,Remote File Copy,Mrs,Low,mission,17.17.103.52,jjenkins,Europe,Successful,3,3,1,7,24,2,True
+2024-01-07 16:11:19,Robert Wolf,Throw,Remote File Copy,Investment,Low,newspaper,177.3.113.195,cruzcarlos,South America,Failed,2,4,3,23,12,8,False
+2024-07-26 14:19:30,Christopher Watson,Time,Application Layer Protocol,Century,Low,answer,122.106.146.47,gerald55,South America,Failed,3,3,2,2,24,8,False
+2024-01-15 03:12:16,Seth Mclaughlin,Opportunity,Scheduled Task,Together,Medium,school,120.194.80.225,powellcharles,Europe,Successful,2,1,1,8,8,11,False
+2024-10-04 13:28:57,Devin Taylor,Billion,Spearphishing Link,Stay,Low,address,179.247.80.110,nicolegonzalez,North America,Failed,2,3,2,12,15,5,True
+2024-08-11 17:45:15,Tiffany Cooper,Brother,Data Staged,Left,Medium,trip,78.96.248.206,krobinson,North America,Failed,2,1,2,1,25,12,False
+2024-07-03 06:33:39,Christopher Griffin,Collection,Application Layer Protocol,Ball,High,me,178.42.232.16,xavier78,Asia,Failed,1,4,1,20,20,12,False
+2024-08-30 18:12:33,Edward Taylor,And,Sudo Caching,May,Medium,meet,187.101.12.125,daniellong,North America,Successful,2,4,4,10,25,12,True
+2024-07-29 06:39:19,Anthony Porter,Mr,Spearphishing Link,Yes,Medium,doctor,124.89.143.241,jessica33,North America,Successful,1,1,4,8,12,8,True
+2024-05-22 08:47:57,Timothy Gray,Year,Spearphishing Link,Week,Low,director,80.4.103.211,patellisa,Asia,Failed,2,2,4,5,30,12,False
+2024-08-02 21:52:17,Kelly Wilcox,Bar,Sudo Caching,Generation,Low,evening,53.232.176.189,juanmorris,South America,Successful,1,2,4,11,25,7,True
+2024-05-14 03:14:54,Diane Maxwell,Visit,Sudo Caching,Man,High,why,63.229.244.253,michaelwarner,South America,Failed,2,3,1,16,7,4,False
+2024-09-06 08:53:41,Patrick Nixon,Dinner,Spearphishing Link,Walk,High,take,192.224.142.81,dcurry,Europe,Successful,2,1,4,10,24,10,True
+2024-06-16 17:59:34,Lisa Johnson,Own,Spearphishing Link,Could,High,gas,50.106.174.213,williamstravis,Europe,Failed,2,4,2,0,26,12,False
+2024-09-09 12:42:36,Donald Meyer,Just,Spearphishing Attachment,So,Medium,three,172.218.151.24,gmoore,Asia,Failed,1,3,1,8,3,3,True
+2024-09-10 17:26:03,Dr. Christopher Love,Suggest,Spearphishing Link,Five,Medium,level,195.225.88.196,brios,South America,Successful,1,3,3,16,13,7,True
+2024-10-10 16:55:50,David Crawford,Site,Spearphishing Link,Since,Medium,who,59.129.110.175,martinjohn,South America,Successful,2,4,3,16,25,5,False
+2024-02-28 00:50:46,Carolyn Henson,Impact,Scheduled Task,Three,Low,add,134.150.208.16,chall,North America,Successful,2,4,2,19,19,8,True
+2024-04-30 09:17:24,Julie Jacobson,Or,Brute Force,Long,High,hit,26.106.184.30,leemadison,North America,Failed,3,3,2,14,13,3,True
+2024-04-15 18:51:12,David Pennington,Speech,Spearphishing Attachment,Keep,Medium,detail,112.21.89.0,brandonkennedy,South America,Failed,2,1,4,22,4,1,False
+2024-07-24 02:37:44,Melissa Mitchell,Think,Spearphishing Link,Sense,High,official,89.226.238.41,bryan49,Asia,Successful,1,3,4,18,6,1,True
+2024-03-26 11:57:02,Jessica Estes,Name,Application Layer Protocol,Box,High,line,104.131.91.55,bford,Europe,Failed,2,2,3,17,3,6,False
+2024-01-19 19:43:42,Thomas Martin,Attention,Command and Control Over Web Protocol,Shoulder,Low,cause,107.20.63.126,thompsonstephanie,South America,Successful,3,3,3,23,23,6,False
+2024-03-29 19:22:12,Samuel Lynn,Tough,Sudo Caching,Born,High,sport,101.250.71.220,matthew71,Europe,Failed,2,1,3,15,22,1,True
+2024-10-25 00:53:21,Maria Morris,Common,Scheduled Task,Hour,Medium,listen,157.103.38.122,gscott,South America,Failed,3,1,3,22,24,5,False
+2024-08-01 18:03:03,Daniel Jordan,Business,Brute Force,War,Medium,house,4.247.238.1,eric39,Asia,Failed,2,2,3,7,10,12,False
+2024-04-17 18:25:46,Anna Matthews,Century,Brute Force,Describe,High,public,114.228.83.182,starkteresa,North America,Failed,2,1,1,17,15,1,False
+2024-04-14 13:18:48,Maria Cole,Again,Command and Control Over Web Protocol,I,High,series,192.191.0.146,natalie25,Europe,Successful,3,1,2,16,13,4,False
+2024-05-25 22:22:15,Paula Malone,Drop,Application Layer Protocol,Police,Low,third,91.216.138.214,david06,South America,Successful,3,4,4,9,18,4,False
+2024-08-01 10:45:49,Dana Thompson,Probably,Spearphishing Attachment,Save,High,bag,104.181.152.204,sanchezlisa,Europe,Failed,1,2,4,5,30,5,True
+2024-08-19 08:17:42,Christopher Campbell,Conference,Sudo Caching,Could,High,evening,6.125.151.237,erollins,Europe,Successful,1,1,3,3,16,5,False
+2024-09-16 19:33:57,Kevin Miller PhD,Or,Command and Control Over Web Protocol,Result,High,situation,107.47.66.32,kjackson,North America,Successful,3,4,2,0,31,1,False
+2024-10-18 03:37:14,Katherine Thompson,Create,Sudo Caching,Though,Medium,all,172.146.10.140,catherinewright,Europe,Successful,2,4,4,8,6,1,True
+2024-08-15 04:30:00,Mrs. Nicole Sanchez,A,Spearphishing Link,Beautiful,High,newspaper,207.35.166.56,lisaburnett,Asia,Successful,3,3,3,9,3,9,True
+2024-04-07 17:13:28,Tanya Waters,Pm,Scheduled Task,It,High,it,42.96.209.213,wcunningham,South America,Failed,2,2,2,18,27,1,True
+2024-02-13 04:45:02,Michael Smith,Network,Scheduled Task,Happy,Low,common,28.181.6.6,alexandrariley,South America,Failed,1,2,1,8,7,12,True
+2024-03-30 22:02:30,Kelly Freeman,Fine,Sudo Caching,Customer,Low,most,30.86.16.251,tammy93,Asia,Failed,3,3,3,18,2,2,False
+2024-01-12 03:43:22,Alexander Wilson MD,Value,Spearphishing Link,Expect,High,social,117.59.8.206,ulopez,North America,Successful,1,3,2,3,25,6,True
+2024-07-12 07:32:47,Caroline Luna,Total,Brute Force,Simply,Medium,full,178.134.192.228,christopherpeterson,Europe,Failed,1,3,4,6,3,6,True
+2024-08-30 16:59:27,Wendy Griffin,Power,Sudo Caching,Early,High,talk,157.233.168.10,april37,Europe,Successful,1,2,4,19,24,4,True
+2024-02-07 10:00:47,Joshua Johnson,Political,Spearphishing Link,Tonight,High,keep,107.218.63.246,davidreynolds,South America,Successful,2,2,2,15,19,11,False
+2024-07-25 12:00:16,Jessica Jones,Degree,Brute Force,Hope,Low,change,132.248.85.217,fjohnson,Europe,Successful,2,3,1,14,11,8,True
+2024-10-30 15:00:24,Anthony Owens,Go,Brute Force,Parent,High,drug,109.10.147.66,imarshall,South America,Successful,1,4,1,16,3,2,True
+2024-03-12 01:00:31,Ronald Benjamin,Hit,Spearphishing Attachment,Policy,High,reach,180.50.226.205,holmesrebekah,Asia,Failed,3,1,1,3,31,12,False
+2024-03-12 11:24:02,David Perez,Main,Spearphishing Attachment,Around,High,free,49.191.152.198,jessica12,Asia,Successful,2,2,3,2,26,11,True
+2024-06-05 09:09:25,Brian Anderson,Walk,Remote File Copy,Couple,Low,either,80.164.129.134,bethholmes,Asia,Failed,1,2,1,21,25,12,False
+2024-08-19 06:27:57,Andrew Jones,Black,Sudo Caching,List,High,foreign,97.6.58.218,elainefloyd,Asia,Failed,2,1,4,1,25,1,False
+2024-02-17 06:03:42,Edward Hampton,Fill,Remote File Copy,Cost,High,traditional,37.49.46.73,keithwright,South America,Failed,3,3,4,7,4,6,False
+2024-01-12 07:43:58,Austin Taylor,Leave,Remote File Copy,Task,Low,identify,5.54.53.211,websterjordan,Asia,Failed,2,2,1,8,24,7,False
+2024-10-17 22:54:59,Beth Weber,Increase,Spearphishing Link,Again,Medium,listen,48.7.146.122,sheriross,North America,Failed,3,4,4,16,16,8,True
+2024-08-08 07:17:22,Brandon Davis,Rest,Brute Force,Deal,High,my,165.236.47.241,cbrown,North America,Successful,3,1,3,11,4,1,False
+2024-09-19 20:18:50,Stephanie Doyle,North,Spearphishing Link,Stay,Low,these,82.12.216.6,washingtonerik,Europe,Failed,2,4,2,22,19,4,False
+2024-03-10 04:49:17,Stephanie Castaneda,Direction,Command and Control Over Web Protocol,Huge,High,arm,192.200.232.136,christopher47,Europe,Successful,1,3,4,15,4,2,False
+2024-02-28 05:55:15,Pamela Rodriguez,Team,Data Staged,Theory,Medium,college,16.215.114.183,roydana,North America,Successful,1,2,1,22,27,3,True
+2024-07-04 09:18:52,Sara Simmons,Window,Application Layer Protocol,North,Low,will,213.133.182.112,jeromefranklin,Europe,Successful,3,3,3,3,25,3,False
+2024-03-16 07:01:34,Jacqueline Day,Its,Data Staged,Bed,Medium,sure,170.23.95.150,weeksashley,North America,Successful,3,1,1,22,24,4,False
+2024-06-14 08:22:27,Frederick Meza,The,Brute Force,Fill,Medium,pretty,25.99.208.52,schwartzchristopher,South America,Failed,2,4,1,21,9,7,False
+2024-04-10 12:53:09,Steven Ryan,Everything,Spearphishing Link,Hour,Medium,idea,1.15.11.68,ohaynes,Asia,Failed,1,3,2,21,27,2,True
+2024-04-02 04:26:38,Joe Wilson,War,Command and Control Over Web Protocol,Unit,High,itself,132.251.21.130,iwise,Asia,Failed,1,4,1,23,7,10,True
+2024-03-18 00:01:22,Robert Davis,Report,Data Staged,Music,Low,group,149.6.104.118,ray19,South America,Failed,3,3,2,16,4,3,False
+2024-04-30 15:58:19,Angela Trevino,Determine,Scheduled Task,Material,Medium,group,23.210.214.166,ginajones,Europe,Successful,2,3,3,23,26,7,True
+2024-02-17 01:51:33,Tonya Frederick,Point,Scheduled Task,Even,Low,reach,91.122.223.246,nicholsvictoria,North America,Failed,3,4,2,9,15,9,False
+2024-08-11 01:44:13,Melissa Lawson,Fire,Sudo Caching,Week,High,hard,218.130.219.68,candice29,Europe,Failed,1,4,4,3,26,4,True
+2024-01-07 17:41:53,Joseph Brown,Rate,Application Layer Protocol,Realize,Medium,instead,106.232.0.57,tammyjohnson,South America,Successful,2,4,2,2,27,2,True
+2024-04-25 05:31:08,Carol Marshall,Yard,Data Staged,Page,Low,media,147.17.161.226,kellyjohn,North America,Failed,1,1,1,8,16,2,True
+2024-09-13 23:59:43,Robert Phillips,Father,Scheduled Task,The,High,film,105.168.116.195,elizabeth27,Europe,Failed,2,4,2,0,20,11,False
+2024-11-09 19:39:28,James Baxter,Add,Brute Force,One,Low,quickly,129.55.255.123,sandrahawkins,Europe,Successful,3,3,2,17,2,1,True
+2024-02-18 14:51:00,Austin Price,World,Scheduled Task,Husband,Low,whom,162.70.139.245,randall45,North America,Successful,3,1,4,21,2,2,True
+2024-01-15 02:06:19,Regina White,Relationship,Sudo Caching,Range,Low,couple,198.22.135.3,lawsonrobert,South America,Failed,3,1,2,0,10,1,True
+2024-04-08 07:54:11,Matthew Morton,Field,Spearphishing Link,Strategy,Low,no,155.73.156.172,hodonnell,Asia,Successful,3,1,3,11,20,9,False
+2024-09-01 02:19:26,Matthew Henderson,Thought,Data Staged,Left,High,there,83.177.36.233,ginabutler,North America,Failed,3,1,1,5,7,10,False
+2024-02-18 21:33:22,Kent Baker,Everyone,Command and Control Over Web Protocol,Cold,Low,PM,71.251.104.75,gregory48,South America,Successful,1,4,2,6,29,3,False
+2024-09-15 21:55:55,Samuel Jones,Account,Data Staged,Meeting,Medium,citizen,58.21.120.184,williamsconnor,Europe,Failed,1,1,4,14,15,10,False
+2024-04-05 06:02:27,Alyssa Hernandez,Good,Spearphishing Link,Father,Low,sing,74.167.231.66,ptapia,South America,Failed,2,1,1,16,9,8,True
+2024-06-19 13:04:44,Roger Gallagher,Guy,Scheduled Task,Year,High,along,185.180.163.115,holly93,South America,Failed,3,2,2,2,31,2,True
+2024-08-28 20:50:14,Elizabeth Griffin,Some,Remote File Copy,South,High,leave,146.195.116.23,sandra02,North America,Successful,3,1,1,12,4,1,False
+2024-07-12 12:54:58,Robin Byrd,Poor,Application Layer Protocol,Marriage,High,adult,209.22.194.165,jamieavila,North America,Successful,2,2,3,3,13,9,True
+2024-03-19 19:00:27,Jessica Collins,Type,Spearphishing Link,Technology,Medium,official,177.18.25.166,edoyle,Europe,Failed,1,4,4,7,23,10,True
+2024-05-14 23:13:25,Christopher Gillespie,Newspaper,Application Layer Protocol,Stand,Low,operation,31.252.216.82,alexanderblair,North America,Successful,3,4,1,18,12,11,True
+2024-08-24 19:35:46,Dylan Williams,Peace,Sudo Caching,Let,High,bit,12.33.12.201,scotttina,Europe,Failed,2,3,1,5,23,10,True
+2024-04-06 21:23:25,Jessica Hill DDS,College,Sudo Caching,Fight,Low,affect,179.227.183.89,msnyder,Asia,Successful,3,4,3,22,11,1,True
+2024-07-16 00:56:01,Nicholas Henry,Fast,Command and Control Over Web Protocol,Amount,High,ahead,101.181.221.12,staceymurphy,Asia,Successful,3,1,3,18,27,3,False
+2024-02-09 21:31:08,Jeffrey Mitchell,Need,Sudo Caching,Join,Medium,bag,1.145.78.43,xmurray,South America,Successful,2,3,1,6,28,10,True
+2024-04-27 14:42:05,Ronald Kennedy,Own,Brute Force,Edge,Medium,public,66.128.74.235,gjones,North America,Successful,2,2,4,16,9,6,True
+2024-04-20 01:05:25,Tiffany Williams,Throughout,Command and Control Over Web Protocol,Teacher,Low,sort,88.151.174.121,bherrera,Asia,Failed,2,3,1,14,25,11,True
+2024-01-08 03:29:23,Marvin Ingram,Consumer,Command and Control Over Web Protocol,Character,High,few,203.66.6.76,peterallen,Asia,Failed,2,3,1,16,28,10,True
+2024-05-04 19:57:26,Alicia Newton,Office,Spearphishing Attachment,Involve,High,leave,176.97.184.30,johnsonroger,South America,Successful,3,1,1,0,9,9,False
+2024-10-01 16:31:02,John Rivera,Audience,Command and Control Over Web Protocol,Find,Medium,always,105.169.4.16,leslie20,South America,Successful,1,2,4,9,8,11,False
+2024-05-07 13:23:15,Jordan Lawrence,Too,Data Staged,Adult,High,along,49.25.82.47,edward89,Europe,Successful,1,2,1,6,19,12,False
+2024-04-08 22:05:16,Michelle King,Show,Application Layer Protocol,Military,High,follow,34.112.145.80,vperry,South America,Successful,1,3,4,20,8,2,True
+2024-04-15 16:37:41,Daniel Bell,Practice,Scheduled Task,Management,Medium,identify,46.14.31.22,aberry,Asia,Successful,1,2,2,16,10,10,False
+2024-02-06 19:44:43,Sarah Wyatt,Different,Command and Control Over Web Protocol,Live,Low,yard,178.29.94.51,lmyers,Europe,Successful,1,3,2,3,20,3,False
+2024-02-13 23:45:27,Kimberly Smith,Modern,Brute Force,Right,Medium,food,168.18.62.201,jameslori,South America,Successful,3,4,4,23,12,6,True
+2024-01-14 23:44:28,Stephanie Hill,Response,Sudo Caching,Return,High,bed,34.91.43.80,margaretvelez,North America,Successful,1,1,2,0,30,12,False
+2024-10-24 14:25:27,Joy Smith,Every,Application Layer Protocol,Cultural,High,car,49.233.93.108,laurenmeyer,Asia,Successful,3,4,2,7,26,12,False
+2024-05-10 05:21:59,Joseph Murphy,Middle,Scheduled Task,Policy,Medium,half,17.33.26.127,hendersonwilliam,Europe,Successful,2,4,2,15,7,4,False
+2024-08-20 18:35:09,Wendy Grant,Per,Spearphishing Link,Accept,High,join,45.156.98.245,brandon20,Europe,Successful,2,3,2,7,15,10,False
+2024-01-10 19:49:15,Jennifer Mcintyre,Get,Brute Force,Make,Low,cut,180.94.189.180,kramirez,North America,Failed,3,1,4,10,13,7,True
+2024-04-05 15:37:28,Dr. Frank Mendoza,Either,Brute Force,With,Medium,yourself,115.137.122.170,clarkgeorge,South America,Failed,3,3,4,4,17,7,True
+2024-06-08 00:58:49,Jay Ball,Fish,Spearphishing Attachment,Free,High,phone,215.226.240.170,leemark,North America,Successful,1,3,3,22,24,9,True
+2024-10-14 23:16:00,Mrs. Danielle Bell,Example,Spearphishing Link,Might,Medium,camera,176.84.63.209,carterryan,South America,Successful,1,1,2,19,25,12,False
+2024-02-29 21:40:32,Sherry Allison,Measure,Scheduled Task,Property,Medium,tonight,195.135.240.156,umontgomery,Europe,Failed,1,4,3,18,15,7,True
+2024-07-13 23:06:17,Nathan Waller,Will,Spearphishing Link,Central,Low,modern,53.176.83.87,danielle46,South America,Failed,1,2,1,10,5,1,True
+2024-03-14 22:02:55,Samantha Contreras,Environmental,Sudo Caching,Join,Medium,since,118.62.118.236,anthonybrown,Europe,Successful,2,4,1,14,21,11,False
+2024-03-10 03:10:38,James Trevino,Hard,Application Layer Protocol,Create,Low,behavior,37.115.30.251,mary85,South America,Successful,1,4,3,18,1,12,False
+2024-06-13 12:58:37,Wendy Shelton,Tv,Application Layer Protocol,Next,High,want,221.210.102.53,caleb34,South America,Failed,3,3,3,10,8,1,True
+2024-04-08 22:29:49,Kimberly Abbott,Have,Sudo Caching,Base,Low,drop,128.211.192.151,jennifervasquez,South America,Successful,1,4,1,0,21,11,False
+2024-11-09 03:50:13,Stacy Schneider,Conference,Scheduled Task,Either,Medium,east,92.62.114.204,johnsonjames,Europe,Failed,1,2,3,8,24,10,True
+2024-02-16 06:33:02,Jesse Taylor,Defense,Scheduled Task,High,Medium,stuff,45.222.223.59,christianhawkins,Europe,Successful,2,3,3,0,8,12,False
+2024-04-28 11:04:03,Virginia Rubio,Meeting,Data Staged,Entire,High,positive,169.227.64.167,gutierrezphillip,North America,Successful,3,4,2,1,19,1,False
+2024-05-20 02:07:18,Diamond Conway,Build,Remote File Copy,Part,Low,information,143.136.93.89,michaelbraun,North America,Failed,2,2,4,13,29,3,False
+2024-10-03 12:19:57,Sara Boone,Table,Data Staged,Media,Medium,fund,6.0.7.172,jacobjones,South America,Failed,1,3,3,13,16,11,True
+2024-05-07 02:29:38,Anthony Pineda,Then,Spearphishing Attachment,Officer,Medium,available,167.165.122.188,austinrichardson,Europe,Failed,2,3,1,13,25,6,False
+2024-06-01 14:29:53,Danielle Lewis,Perhaps,Command and Control Over Web Protocol,No,Low,industry,22.122.36.189,jasonpittman,Europe,Successful,3,1,1,6,7,2,False
+2024-03-23 05:31:16,Tammy Hebert,Imagine,Scheduled Task,All,Medium,Mrs,24.227.115.222,chad69,Europe,Successful,3,1,1,21,14,6,False
+2024-10-06 00:48:19,Jesse Smith,Market,Command and Control Over Web Protocol,Realize,High,drug,185.254.29.30,wheeleralexander,Asia,Failed,1,3,1,9,27,3,True
+2024-10-06 19:36:42,Joseph Acevedo,After,Application Layer Protocol,Sense,Medium,leg,219.172.112.229,phodges,North America,Successful,1,1,2,14,10,9,False
+2024-11-07 19:40:19,Brian Murray,Direction,Data Staged,Subject,Low,hot,137.221.42.215,campbelltamara,Asia,Failed,3,1,3,3,13,8,True
+2024-07-24 07:19:14,Christopher Jarvis,Bar,Remote File Copy,Statement,High,fish,200.234.158.164,carlosmitchell,Asia,Successful,3,4,2,18,2,2,True
+2024-09-05 23:12:48,Martha Snow,Station,Sudo Caching,Meeting,Medium,seem,9.5.2.166,myoung,Asia,Successful,1,1,3,10,27,5,False
+2024-02-10 03:37:20,Isaac Robinson,Protect,Spearphishing Attachment,Provide,Low,involve,157.49.74.201,grossnathan,South America,Successful,3,3,2,14,25,1,True
+2024-08-19 18:22:42,Marisa Harrison,Into,Scheduled Task,Everybody,Medium,friend,78.231.83.156,coryspence,South America,Successful,1,1,1,6,25,5,True
+2024-02-12 03:28:17,Robert Johnson,Director,Application Layer Protocol,Case,Medium,control,57.196.5.241,camerondonna,Asia,Failed,2,2,3,10,19,2,True
+2024-07-05 02:10:42,Steven Peters,Past,Data Staged,Rate,Low,everybody,172.213.182.55,kathryn56,South America,Failed,1,1,2,16,14,7,False
+2024-11-07 06:50:55,Michael Holland,Visit,Spearphishing Link,Board,High,treatment,161.65.27.141,danielhuang,North America,Failed,3,3,2,23,19,1,True
+2024-09-02 23:32:40,Holly Pugh,Respond,Application Layer Protocol,Heart,High,degree,62.194.183.243,gsimpson,South America,Failed,1,3,3,10,6,6,True
+2024-06-07 11:09:15,William Johnson,Lay,Command and Control Over Web Protocol,Similar,High,energy,121.254.176.76,robertsmary,Asia,Failed,2,1,2,6,29,12,True
+2024-11-06 18:56:11,Calvin Leonard,Argue,Application Layer Protocol,Wind,Low,spend,213.2.13.3,tdavis,Europe,Successful,2,4,4,0,28,2,False
+2024-06-22 20:53:24,Alicia Walton,Left,Spearphishing Link,Entire,Medium,free,181.118.39.68,virginia02,North America,Successful,2,2,4,0,25,2,False
+2024-05-06 16:13:06,Bradley Martinez,Time,Application Layer Protocol,Skill,Medium,girl,221.31.207.174,mathewsthomas,Europe,Failed,1,1,3,17,15,11,True
+2024-05-16 13:33:30,Kevin Chan,Bank,Command and Control Over Web Protocol,Whatever,Medium,few,109.96.58.193,williamskari,Asia,Failed,3,2,2,17,19,10,False
+2024-10-17 19:07:20,Lynn Hobbs,Region,Spearphishing Link,Leave,Medium,spring,90.102.49.131,mgibson,Asia,Successful,3,2,4,16,13,5,True
+2024-10-01 19:21:09,Mary Stephens,Upon,Sudo Caching,Quality,Medium,government,79.246.170.45,dbrown,Europe,Failed,1,1,3,20,24,12,True
+2024-08-30 16:36:44,Maria Ferrell,Doctor,Command and Control Over Web Protocol,Again,Low,you,218.224.6.100,chad41,Europe,Successful,2,1,4,15,5,12,True
+2024-08-12 14:10:05,Sara Morrison,Television,Data Staged,Pressure,High,performance,18.170.33.20,robertsjohn,Europe,Failed,1,2,3,18,31,4,False
+2024-08-01 06:10:13,Erika Robinson,Doctor,Brute Force,Student,High,response,12.0.186.182,john31,South America,Successful,2,4,2,16,26,12,True
+2024-02-09 01:50:03,Mr. Chris Walton,Other,Scheduled Task,Continue,High,series,188.3.232.249,martinezjoshua,Asia,Successful,1,4,1,12,3,1,False
+2024-07-28 21:02:17,Javier Wilson,Coach,Data Staged,Country,Low,you,120.171.213.93,kathleen91,Europe,Failed,2,3,2,10,18,11,True
+2024-01-27 02:23:40,Jennifer Jones,Open,Spearphishing Attachment,Natural,Low,meet,189.236.34.94,angelsweeney,South America,Failed,3,3,1,4,31,12,False
+2024-02-05 19:17:03,Elizabeth Adams,However,Command and Control Over Web Protocol,Find,Medium,across,195.197.253.66,michele84,South America,Failed,3,2,2,19,19,6,False
+2024-04-09 07:48:42,Diana Padilla,School,Data Staged,Build,High,property,41.165.120.220,rebecca72,Europe,Successful,2,4,1,14,2,11,False
+2024-03-15 05:31:32,Brandon Oliver,Local,Command and Control Over Web Protocol,Nation,Low,scene,186.164.9.164,kevinhenson,Asia,Successful,1,4,2,5,26,4,True
+2024-09-06 00:06:07,Shannon Miller,Director,Sudo Caching,Paper,Medium,itself,38.18.154.65,zlittle,Asia,Failed,2,4,3,3,14,5,True
+2024-01-02 02:40:18,Christina Bradley,Myself,Scheduled Task,Training,High,fish,180.204.52.40,davisdennis,Europe,Successful,2,3,2,15,28,4,True
+2024-10-17 19:50:37,Christopher Hayes DDS,Information,Brute Force,Now,High,better,126.169.187.135,alexanderjennifer,Asia,Successful,3,4,4,1,20,1,True
+2024-04-18 16:47:38,Debra Montes,Before,Scheduled Task,Air,High,debate,109.85.48.116,leonkenneth,Asia,Failed,2,2,1,3,21,5,False
+2024-01-20 08:21:22,Joseph Mcdonald,Safe,Spearphishing Link,Adult,Medium,may,133.15.206.216,erikrodriguez,South America,Successful,2,3,2,16,6,12,True
+2024-10-09 00:07:08,Breanna Allen,Sit,Sudo Caching,Even,High,during,211.249.172.234,ericawalters,North America,Successful,1,4,1,8,4,10,True
+2024-01-22 02:02:59,Barbara Graham,Mind,Spearphishing Attachment,For,Medium,memory,158.112.142.75,gmerritt,South America,Successful,2,3,1,3,29,4,True
+2024-06-11 01:03:19,Charles Martin,Kind,Spearphishing Attachment,Believe,Low,economy,120.188.254.104,davidwu,South America,Failed,3,3,2,8,30,9,False
+2024-06-13 12:05:46,Mary Woods,Up,Data Staged,Weight,Low,be,186.187.80.193,riverabryan,North America,Successful,2,4,4,14,10,5,True
+2024-09-22 15:04:08,James Mercado,Growth,Sudo Caching,Grow,Medium,town,14.232.164.182,joseph24,Europe,Failed,1,2,1,19,12,11,True
+2024-07-14 13:41:38,Lisa Ruiz,Major,Command and Control Over Web Protocol,Wide,High,general,119.200.206.153,ryan05,South America,Failed,2,3,4,10,19,1,True
+2024-07-15 02:06:47,Tabitha Lewis,Night,Remote File Copy,Produce,Low,maybe,190.209.56.167,dennisisaac,South America,Failed,3,2,2,21,5,1,True
+2024-03-09 07:50:07,Steven Sanchez,Event,Command and Control Over Web Protocol,Church,Low,class,131.68.39.231,pnielsen,Europe,Successful,2,3,1,18,8,3,True
+2024-05-25 14:45:41,Garrett George,Take,Sudo Caching,Something,Low,while,212.49.108.215,carolynlewis,Europe,Successful,2,4,3,16,15,3,True
+2024-11-03 16:04:59,Sophia Pierce,Appear,Sudo Caching,There,High,affect,182.166.79.84,jordanstephanie,Europe,Failed,3,2,2,6,1,12,True
+2024-02-16 07:20:34,Ronald Logan,Unit,Spearphishing Attachment,College,Low,according,169.166.23.234,tiffany69,Asia,Successful,3,2,2,19,19,1,False
+2024-05-13 01:38:33,Mary Lee,Attorney,Application Layer Protocol,Least,Medium,sense,196.93.252.211,boydpatricia,Asia,Failed,2,4,3,11,27,9,True
+2024-02-03 15:19:47,Grace Hernandez,Fine,Spearphishing Attachment,Culture,Medium,they,30.31.236.142,qvilla,Asia,Successful,2,2,1,9,31,12,True
+2024-06-15 02:33:17,John Reyes,Law,Sudo Caching,Particular,High,by,156.163.166.7,yrichardson,Europe,Successful,1,3,2,7,26,8,True
+2024-01-29 13:57:30,Timothy Barrera,Drug,Spearphishing Attachment,Everyone,Medium,probably,41.252.146.244,rachellewis,Europe,Successful,2,4,1,15,19,3,True
+2024-04-24 08:21:07,Brandon Tyler,Play,Application Layer Protocol,Best,Medium,attorney,148.5.212.57,scottbrenda,North America,Failed,2,3,3,14,18,12,True
+2024-05-15 12:35:46,Rebecca White,Others,Sudo Caching,Free,High,mother,216.219.132.229,bschneider,Europe,Failed,1,1,1,15,27,3,True
+2024-10-07 03:39:53,Brenda Chan,Likely,Command and Control Over Web Protocol,Sign,Low,feeling,189.187.192.137,johnsontina,North America,Failed,1,4,3,17,6,7,False
+2024-10-14 19:43:49,Erin Stone,Protect,Command and Control Over Web Protocol,Card,High,because,98.234.71.142,courtneyforbes,Europe,Failed,2,1,1,0,9,11,False
+2024-08-21 07:12:24,Dylan Perez,Probably,Remote File Copy,Opportunity,Low,happen,109.70.94.202,laura53,North America,Successful,1,2,4,6,28,5,True
+2024-09-30 11:32:52,Katherine Cox,Agency,Brute Force,Media,Low,fight,51.231.199.173,stacyscott,Asia,Successful,1,4,4,12,27,4,True
+2024-07-30 04:23:47,Jacqueline Walker,May,Spearphishing Attachment,Worker,Low,risk,76.172.198.41,lhenry,North America,Failed,1,4,4,11,9,2,True
+2024-01-05 04:57:52,Morgan Williams,Simply,Scheduled Task,Pass,High,image,78.94.77.139,stephanie72,Asia,Failed,2,1,4,8,13,8,True
+2024-07-21 03:04:35,Joel Collins,He,Remote File Copy,Study,Medium,soon,1.28.2.59,annabrown,South America,Failed,3,4,1,5,24,4,False
+2024-09-18 19:01:46,Kimberly Moran,Home,Spearphishing Link,Company,High,two,221.163.160.1,nealjonathon,North America,Successful,2,4,3,15,11,9,False
+2024-07-21 20:04:28,Caroline Coleman,Or,Brute Force,Last,High,part,75.244.38.224,davisjonathan,Europe,Successful,3,4,4,2,6,4,True
+2024-10-30 14:52:46,Miss Nicole Johnson DVM,Rate,Remote File Copy,Someone,Medium,eat,96.37.4.39,lori96,North America,Failed,3,2,3,16,18,12,True
+2024-09-27 12:15:23,Daniel Johnson,Collection,Brute Force,Reason,High,impact,117.101.71.146,daniel00,South America,Failed,1,1,2,0,30,1,False
+2024-03-21 13:29:41,Casey Miranda,Usually,Remote File Copy,Among,Medium,food,15.47.89.220,christinasoto,North America,Failed,2,1,4,0,29,8,False
+2024-03-16 01:09:43,Anne Allen,Practice,Spearphishing Attachment,Treat,Medium,method,166.162.209.127,hailey88,Europe,Successful,2,3,1,7,16,12,True
+2024-09-17 17:34:35,Courtney Wells,Believe,Data Staged,Mr,Low,fall,187.181.6.54,terryjamie,South America,Failed,2,3,4,4,8,6,False
+2024-08-03 10:02:16,Bobby Pena,Bag,Data Staged,Hope,Medium,event,87.48.85.4,petersalexander,Asia,Successful,1,1,4,1,10,6,True
+2024-06-22 11:03:05,Mary Hughes,Water,Spearphishing Attachment,Computer,Low,response,194.134.255.9,banksphillip,Europe,Successful,2,1,3,21,1,6,True
+2024-02-04 00:28:27,Pamela Gray,How,Spearphishing Attachment,They,High,candidate,40.144.221.196,clinematthew,North America,Successful,3,2,2,6,10,10,True
+2024-03-17 22:41:50,Ryan Jensen,Thousand,Brute Force,Already,Low,someone,90.51.249.147,latasha77,South America,Successful,3,2,1,16,24,3,False
+2024-05-20 01:04:56,Todd Walker,Choose,Application Layer Protocol,Put,Low,any,51.21.43.245,fosteranthony,North America,Successful,2,1,4,18,7,10,False
+2024-07-31 11:22:48,Gabriella Grant,Call,Sudo Caching,I,Medium,develop,165.190.52.190,ericperry,South America,Failed,3,2,4,22,25,5,True
+2024-03-05 06:31:13,Caroline Carter,However,Spearphishing Link,Third,Medium,seek,129.189.31.172,kwalker,Asia,Failed,2,4,4,22,21,7,False
+2024-06-29 04:03:13,Mitchell Robertson,Pass,Spearphishing Link,Head,High,star,214.96.3.240,kennethdixon,South America,Successful,1,1,4,16,21,8,True
+2024-06-12 02:12:00,Deanna Owens,Turn,Command and Control Over Web Protocol,Spend,Medium,TV,141.160.196.127,michael35,North America,Successful,2,2,1,12,22,9,False
+2024-10-21 07:04:01,Michaela Collins,Act,Scheduled Task,Fact,Low,executive,188.250.172.197,craig40,Europe,Successful,1,4,3,23,9,12,False
+2024-07-28 07:49:59,Brandon Hampton,Already,Spearphishing Link,Let,High,represent,106.241.161.161,richardsonjames,Europe,Failed,3,3,4,13,7,11,True
+2024-07-08 16:01:38,Tyler Roberts,Another,Spearphishing Link,Then,Low,couple,99.207.137.27,sherithompson,North America,Successful,3,3,3,5,16,5,False
+2024-01-25 05:58:09,Brittany Johnson,Adult,Brute Force,The,High,central,79.33.167.21,haroldwilkerson,South America,Failed,1,4,2,15,30,9,False
+2024-08-11 05:46:04,Calvin Harrison,Later,Data Staged,Successful,Medium,finally,213.168.79.208,bartontyler,North America,Failed,2,4,1,16,18,7,True
+2024-10-16 05:00:55,Sonia Daugherty,Business,Application Layer Protocol,Ahead,High,crime,73.82.248.5,heatherjohnson,Europe,Failed,2,4,3,6,6,2,False
+2024-07-15 18:03:53,April Schmidt,Generation,Application Layer Protocol,Key,High,room,72.59.100.119,sbrown,North America,Successful,2,4,2,17,27,1,False
+2024-04-27 15:42:53,Valerie Wilson,Operation,Sudo Caching,Make,High,none,157.135.88.175,amandamay,Europe,Failed,2,4,2,5,11,8,False
+2024-08-29 16:38:28,Sarah Lee,Threat,Spearphishing Link,Middle,High,stuff,1.43.139.34,smithamber,Asia,Failed,1,3,4,6,1,2,False
+2024-10-26 14:07:41,Jeffrey Gonzales,News,Application Layer Protocol,Executive,High,nearly,145.161.51.78,maria04,Asia,Failed,3,1,2,17,27,1,False
+2024-03-06 00:50:10,Rachel Taylor,Attack,Spearphishing Attachment,Truth,Medium,represent,56.76.158.169,alexisjimenez,Asia,Successful,2,3,4,14,30,6,False
+2024-04-22 10:36:48,Kirsten Bryant,Consider,Data Staged,Employee,High,around,75.253.179.6,vprince,South America,Failed,3,1,4,20,26,1,True
+2024-09-11 08:28:18,Lisa Vasquez,Indeed,Spearphishing Link,Different,High,standard,62.48.68.197,dennis65,South America,Failed,2,4,4,13,19,7,True
+2024-10-29 03:55:35,Jennifer Fisher,Dark,Data Staged,Might,High,necessary,199.14.131.11,wesleylong,Europe,Failed,1,2,3,16,24,10,False
+2024-05-02 07:54:20,Linda Thompson,Style,Scheduled Task,Daughter,Low,shake,162.66.198.89,jessica42,Europe,Failed,1,1,3,22,13,6,False
+2024-03-29 20:01:15,Kathleen Jones,Television,Remote File Copy,Difference,Low,end,195.45.129.219,grahamtony,Asia,Successful,3,3,4,6,7,2,False
+2024-10-09 22:09:17,Kara Mitchell,Newspaper,Scheduled Task,Road,Medium,blood,27.139.208.8,andrewdouglas,Asia,Failed,1,3,4,16,11,5,True
+2024-06-21 13:54:44,Kristin Blake,Raise,Application Layer Protocol,Store,Low,support,140.65.159.200,courtneymurphy,North America,Successful,2,2,2,11,8,1,True
+2024-09-28 13:03:43,Krystal Elliott,Write,Data Staged,Step,Medium,deep,105.12.140.124,mendozanatalie,Europe,Failed,1,2,1,13,27,10,False
+2024-04-04 21:38:54,Jamie Ray,Always,Scheduled Task,Level,Low,especially,58.23.164.56,angelmiller,South America,Failed,3,3,1,11,24,11,True
+2024-09-28 12:35:53,Caleb Harmon,Toward,Sudo Caching,Civil,Low,maybe,212.247.59.35,kaitlyn88,South America,Failed,3,1,2,19,16,2,True
+2024-08-27 15:40:32,James Flores,Question,Remote File Copy,Business,Low,number,42.14.158.197,garysantos,Europe,Failed,1,4,1,1,9,10,False
+2024-08-11 10:46:54,Joseph Jones,Population,Scheduled Task,Huge,Medium,interesting,132.43.75.167,nicholas05,North America,Successful,1,1,4,21,25,12,False
+2024-10-02 09:22:00,Angela Sawyer,Second,Data Staged,Appear,Medium,prevent,152.211.4.199,ralph88,Asia,Successful,3,2,2,22,9,4,False
+2024-06-09 09:32:06,Alejandra Carlson,Pick,Scheduled Task,Back,High,customer,178.18.225.130,martinamanda,Europe,Failed,3,2,3,1,18,2,True
+2024-01-21 20:20:46,Lori George,Certain,Data Staged,Pass,Medium,direction,84.131.16.199,brownkara,Asia,Successful,1,1,2,17,20,9,False
+2024-06-13 02:40:36,Thomas Foster,One,Sudo Caching,Hard,High,according,55.161.187.172,xbrown,Asia,Failed,2,2,4,12,24,6,False
+2024-02-22 08:35:13,Nicholas Rodriguez,Business,Spearphishing Attachment,No,Low,fact,135.91.137.20,dunnjohn,South America,Successful,2,1,3,9,7,3,False
+2024-01-04 10:45:56,Brian Bradford,Require,Brute Force,Fact,Low,expect,193.234.112.113,pamela45,South America,Failed,3,2,3,3,30,10,True
+2024-10-21 04:32:24,Daniel Jackson,Despite,Data Staged,Event,Medium,something,39.47.83.135,sandrahill,Europe,Successful,2,2,4,16,28,1,True
+2024-01-21 05:05:08,Ashley Jones,Indeed,Brute Force,Evidence,Low,remember,64.144.26.70,qfranco,North America,Failed,3,1,3,4,4,5,True
+2024-07-22 16:29:28,Angela Garcia,Training,Scheduled Task,Those,Medium,successful,117.151.220.170,harrisjennifer,South America,Successful,1,3,2,3,25,5,True
+2024-03-28 00:24:37,Wanda King,Piece,Scheduled Task,Point,Low,much,140.40.58.76,gonzalesscott,Europe,Failed,2,4,4,0,28,7,False
+2024-03-10 06:55:52,Brad King,Product,Remote File Copy,Success,Medium,interest,148.101.173.115,laurensanders,North America,Successful,1,4,3,12,28,6,False
+2024-03-14 22:14:21,Alicia Ware,First,Command and Control Over Web Protocol,Share,Medium,nation,90.38.91.80,gordonrichard,South America,Failed,2,3,3,21,28,12,False
+2024-08-23 08:08:04,Jay Jackson,Where,Application Layer Protocol,Stock,Low,TV,180.27.254.42,yescobar,Europe,Failed,2,3,2,6,4,11,False
+2024-06-27 10:50:06,Sandra Davenport,Increase,Spearphishing Link,Candidate,High,up,156.199.55.115,jeffrey08,South America,Successful,3,1,2,20,9,11,False
+2024-09-28 22:32:21,Christopher Little,Central,Sudo Caching,According,High,style,181.35.225.71,brownjacqueline,Europe,Failed,1,3,3,4,14,10,False
+2024-09-23 16:51:58,David Vaughn,Firm,Scheduled Task,Range,Low,role,163.233.82.30,mmurray,North America,Successful,1,2,1,10,4,8,True
+2024-06-10 11:31:15,Roger Floyd,Defense,Scheduled Task,Here,High,himself,24.170.167.246,qcarpenter,North America,Failed,3,1,1,14,10,2,True
+2024-10-21 09:06:57,Yesenia Hansen,Few,Scheduled Task,Really,Medium,sometimes,139.4.197.206,eric40,Asia,Failed,2,2,4,0,16,8,False
+2024-05-28 16:00:53,Sophia Green,Trouble,Spearphishing Link,Bank,High,military,118.240.166.193,parnold,North America,Failed,1,2,3,0,25,8,True
+2024-02-27 03:13:15,Christine Anderson,Clearly,Application Layer Protocol,Discover,Low,into,10.227.76.96,sean75,North America,Successful,1,2,4,1,20,5,False
+2024-05-05 17:18:25,Ross Shields,Stand,Data Staged,Person,Low,commercial,44.228.227.41,patrick07,Asia,Failed,1,3,4,16,18,1,True
+2024-01-10 08:21:32,Angela Nelson,Improve,Sudo Caching,Process,Low,whose,116.53.44.60,robertsjanet,South America,Failed,3,1,4,13,11,5,True
+2024-07-23 01:52:39,Brandy Kelly,Can,Spearphishing Link,Guy,Medium,father,178.189.48.219,richard49,Europe,Failed,2,1,2,23,20,9,True
+2024-02-09 11:07:36,Kathy Harris,Very,Spearphishing Link,Pretty,Low,road,25.72.186.249,christophertate,North America,Failed,1,4,1,14,13,6,True
+2024-05-10 01:30:18,David Mclaughlin,Team,Application Layer Protocol,I,Medium,child,91.39.251.92,ywhite,South America,Successful,2,2,3,1,13,7,False
+2024-10-13 05:10:20,Travis White DVM,Physical,Remote File Copy,The,High,itself,147.169.151.127,james87,Asia,Successful,1,1,4,7,12,10,True
+2024-09-26 16:31:21,Jacob Arnold,Opportunity,Spearphishing Attachment,Finally,Low,start,40.176.213.101,fuentesjon,South America,Successful,2,4,1,22,15,10,True
+2024-04-07 04:03:33,Benjamin Oliver,Should,Command and Control Over Web Protocol,Week,Low,maintain,208.161.96.86,meredithsmith,Europe,Failed,2,4,2,19,10,4,False
+2024-05-21 21:34:21,Justin Taylor,Rather,Remote File Copy,Last,Medium,can,59.184.9.208,stacygarcia,North America,Successful,2,1,1,12,13,2,False
+2024-06-15 12:45:33,Andrea Schmidt,Term,Command and Control Over Web Protocol,Television,Low,program,87.218.185.190,whiterebecca,Asia,Failed,1,1,3,10,27,12,False
+2024-04-14 22:45:56,Jessica Beard,Course,Data Staged,Field,Medium,choice,43.134.135.55,kiddkevin,Asia,Failed,2,3,4,10,29,9,False
+2024-01-20 05:22:35,Joe Cordova,Own,Application Layer Protocol,Middle,Medium,present,215.217.104.123,taylortrevor,South America,Failed,3,4,1,15,19,11,False
+2024-11-02 06:23:23,Jacqueline Williams,Maintain,Command and Control Over Web Protocol,Ask,High,table,3.197.195.161,bartonadam,North America,Successful,1,4,2,17,24,8,False
+2024-09-07 09:37:55,Richard Alvarado,Imagine,Remote File Copy,Want,Medium,painting,200.245.50.142,jessica68,Europe,Successful,3,1,4,20,12,2,True
+2024-02-02 20:49:18,Edward Owens,Forget,Remote File Copy,Professor,High,bank,216.57.189.76,edwincosta,Europe,Successful,1,1,1,19,23,4,False
+2024-02-27 03:20:46,Kristin Fuentes,Option,Remote File Copy,Either,High,page,134.52.57.83,melissafreeman,South America,Successful,2,4,2,3,12,4,True
+2024-05-17 10:45:15,Jennifer Smith,Environment,Spearphishing Link,Activity,High,leg,80.19.150.184,kelly72,Asia,Failed,2,3,1,17,5,10,False
+2024-01-01 17:52:34,Christopher Rich,Peace,Sudo Caching,Little,Low,western,14.107.56.168,chavezdavid,Asia,Successful,2,2,4,21,24,2,True
+2024-03-15 23:29:41,Levi Hull,Information,Sudo Caching,Test,Low,line,113.131.232.201,valenzuelascott,South America,Failed,2,2,1,8,20,7,False
+2024-05-25 01:26:44,Laura Murphy,History,Application Layer Protocol,Behavior,Low,thought,6.153.176.203,kristakim,South America,Successful,1,1,1,1,13,11,False
+2024-07-04 21:16:01,Kyle Dunn,Voice,Spearphishing Link,Economic,Medium,lay,135.29.209.193,kjohnson,Asia,Failed,2,4,2,13,21,1,True
+2024-10-31 00:40:27,Melanie Hernandez,Throw,Command and Control Over Web Protocol,Agent,High,win,209.177.81.196,joe47,Europe,Failed,1,4,2,9,19,4,False
+2024-02-15 03:46:55,Brittney Ali,Street,Scheduled Task,Leg,High,moment,164.146.16.165,dickersonamy,North America,Failed,3,1,4,1,22,12,False
+2024-08-11 23:19:16,Hayley Young,Site,Remote File Copy,Force,Medium,seat,101.208.104.133,mcclurejeremy,Asia,Successful,3,1,2,19,5,8,True
+2024-01-07 10:37:00,Donna Rosario,Value,Scheduled Task,Role,Medium,everyone,212.40.225.97,olsongina,North America,Successful,2,2,2,13,1,7,False
+2024-05-15 08:17:57,Rhonda Valencia,Mention,Spearphishing Link,Expect,High,tend,88.167.59.19,connielopez,Europe,Failed,2,1,1,18,6,12,False
+2024-03-31 10:43:31,Kenneth Jordan,Office,Brute Force,Health,Medium,author,161.80.166.173,eatontyler,South America,Successful,2,4,2,17,28,11,True
+2024-07-30 02:20:19,Jason Jones,Movie,Scheduled Task,Tend,Medium,tend,217.156.34.21,staffordwilliam,Asia,Failed,1,4,4,22,15,4,False
+2024-02-20 06:55:09,Ray Myers,Tend,Brute Force,List,Medium,room,146.189.14.75,psullivan,Europe,Successful,2,1,2,7,17,9,False
+2024-04-18 09:07:41,Laurie Smith,Successful,Remote File Copy,Environment,Low,picture,128.209.25.163,elizabeth83,South America,Failed,1,2,3,11,30,10,False
+2024-01-25 21:57:17,Jennifer Walker,Enough,Scheduled Task,Through,Low,anything,168.22.185.79,kathryn12,North America,Successful,2,1,1,23,23,8,False
+2024-09-22 19:10:25,Savannah White,Have,Brute Force,Southern,Medium,career,194.143.16.210,tonywoodward,South America,Failed,1,4,2,2,7,11,True
+2024-05-19 11:47:05,Madison Christensen,Only,Brute Force,Factor,High,class,62.169.113.99,kanechristine,South America,Failed,3,1,4,4,11,5,False
+2024-06-04 06:02:07,Keith Smith,Begin,Remote File Copy,Price,Low,with,70.0.109.249,megan12,South America,Successful,2,2,4,16,6,12,False
+2024-03-23 12:35:12,Vincent Pearson,Big,Sudo Caching,Clearly,High,PM,96.127.224.21,brownkelsey,South America,Successful,3,3,1,6,26,10,False
+2024-01-18 21:33:16,Danny Haynes,We,Scheduled Task,Cover,High,over,93.172.141.100,patrick97,Europe,Failed,1,4,1,1,9,6,False
+2024-09-12 20:11:06,Kristina Bowman,Good,Remote File Copy,Military,Low,page,187.79.185.15,jmckay,North America,Failed,1,3,1,19,22,8,True
+2024-03-30 00:15:08,Martin Day,Part,Sudo Caching,Civil,Low,role,172.253.198.83,danielpitts,Asia,Successful,2,1,4,6,30,12,False
+2024-05-02 05:58:16,Eric Johnson,Last,Scheduled Task,Spring,Low,medical,170.141.234.223,sarahmeadows,Europe,Successful,1,2,3,21,8,5,False
+2024-01-23 20:15:24,Daniel Mccullough,Person,Data Staged,Meeting,Low,myself,91.176.69.173,josehill,Asia,Failed,3,2,2,22,7,1,True
+2024-02-16 16:23:53,Scott Lopez MD,Wonder,Sudo Caching,Them,Low,certainly,171.238.140.173,robert32,North America,Successful,1,1,4,4,14,2,False
+2024-08-18 12:54:38,Robert Kirk,Act,Sudo Caching,Only,High,sea,190.60.62.92,landrade,South America,Successful,2,3,1,0,1,5,False
+2024-02-23 14:52:51,Kyle Lamb,Wear,Brute Force,Pm,High,office,1.222.218.107,darrenswanson,South America,Failed,3,2,4,2,10,3,True
+2024-10-28 07:24:55,Leslie Reynolds,Against,Scheduled Task,Contain,High,full,223.145.31.175,rodriguezderrick,South America,Failed,3,2,2,4,23,10,True
+2024-01-25 10:26:36,Lisa Haynes,Power,Application Layer Protocol,Standard,Low,final,78.4.155.50,danielwilson,South America,Successful,2,1,2,4,2,2,False
+2024-10-30 03:54:48,Brian Mendoza,Let,Spearphishing Link,Owner,Medium,wait,29.14.26.4,hbryant,Europe,Successful,1,2,4,12,13,4,False
+2024-01-15 15:24:50,Lisa Liu,Item,Spearphishing Link,Six,Medium,subject,176.243.112.147,robertanderson,Europe,Failed,1,4,3,5,15,2,False
+2024-11-07 07:11:31,Holly Fowler,Require,Data Staged,Should,High,pick,41.54.119.182,katherine75,North America,Failed,3,2,3,1,19,6,False
+2024-09-14 15:48:56,Patrick Wheeler,Change,Data Staged,Remember,High,I,72.167.113.31,anthonyjohnson,North America,Successful,2,3,4,16,26,10,True
+2024-09-08 22:06:53,Jorge Rush,Great,Sudo Caching,Close,Medium,resource,86.183.241.131,alisonscott,South America,Successful,3,4,1,10,11,12,True
+2024-08-15 17:52:23,Dennis Rojas,Night,Command and Control Over Web Protocol,Service,Medium,threat,144.49.189.143,mrice,Asia,Failed,2,4,4,12,14,8,False
+2024-03-19 10:18:44,Darren Hall,Maybe,Scheduled Task,Actually,Low,where,109.113.11.218,david56,Europe,Failed,2,4,1,9,27,12,True
+2024-06-06 07:52:22,Tony English,Run,Scheduled Task,Stuff,Low,strategy,90.151.206.251,harperluke,Europe,Successful,3,2,1,17,30,5,True
+2024-07-05 08:15:54,Jenna Wolfe,Imagine,Spearphishing Attachment,Next,Medium,world,113.246.55.158,joshuastewart,Asia,Successful,2,4,2,3,25,1,True
+2024-09-12 02:44:10,Renee Perez,Hot,Spearphishing Link,Analysis,High,shoulder,200.16.92.241,tsanders,South America,Successful,3,4,3,23,27,12,True
+2024-04-17 04:20:57,Pamela Moore,Community,Remote File Copy,Worker,Low,easy,208.75.216.222,pdavis,Asia,Successful,1,4,3,4,7,10,False
+2024-03-01 19:38:21,Patrick Rivas Jr.,Throughout,Spearphishing Link,Describe,Medium,particular,219.146.203.136,cruznicholas,North America,Successful,2,3,3,15,4,7,True
+2024-04-28 16:19:39,Holly Hood,Tax,Spearphishing Link,Name,Low,professional,45.20.148.40,beverly97,Asia,Successful,2,4,2,16,22,6,True
+2024-04-26 00:27:54,Ashley Stevens,Alone,Command and Control Over Web Protocol,Key,High,offer,149.195.197.243,idavis,Europe,Failed,1,4,2,3,3,9,False
+2024-11-08 21:38:11,Dominique Hayes,Subject,Command and Control Over Web Protocol,If,High,miss,76.198.166.122,villanuevafrank,Europe,Failed,1,1,1,4,29,3,True
+2024-06-10 05:05:22,Tiffany Barrett,Box,Spearphishing Attachment,Moment,Medium,put,171.240.185.196,rachel72,South America,Failed,2,2,3,5,5,7,True
+2024-10-18 17:44:39,Anthony Stone,Rate,Spearphishing Attachment,Soon,High,north,34.88.19.168,stephen76,Europe,Failed,3,3,4,5,12,1,False
+2024-05-10 20:41:42,Katherine Russell MD,Maintain,Brute Force,Section,High,probably,202.250.184.91,christopher87,North America,Failed,1,2,1,11,9,12,False
+2024-01-25 18:11:43,Laurie Preston,Ask,Application Layer Protocol,Officer,Medium,model,55.137.213.162,bonnie59,North America,Failed,2,2,4,15,23,7,True
+2024-06-30 15:52:02,Hayley Davis,Bank,Sudo Caching,Group,Medium,score,203.209.186.187,scottamanda,Europe,Successful,3,1,4,0,15,10,True
+2024-09-20 21:36:21,Micheal Chang,Ground,Data Staged,Blood,Low,detail,88.106.133.41,phamjerry,Europe,Failed,3,1,1,18,6,3,True
+2024-02-28 20:08:19,Travis Moore,View,Sudo Caching,School,High,memory,94.34.228.151,samantha37,North America,Successful,1,3,1,9,7,12,False
+2024-08-06 17:01:59,Jesse Sullivan,Appear,Application Layer Protocol,Reflect,Medium,south,114.222.240.241,lisa52,North America,Successful,2,2,3,0,6,4,False
+2024-11-09 20:35:54,Patricia Rush,Want,Spearphishing Link,National,High,voice,197.23.2.23,christinamiller,Asia,Failed,2,3,4,15,31,9,True
+2024-09-05 17:46:15,Luis Murphy,Property,Sudo Caching,View,Medium,fear,99.44.200.146,thompsonwilliam,Europe,Successful,3,3,3,2,19,6,True
+2024-02-04 14:26:41,Sean Perry,Individual,Sudo Caching,Treat,High,production,117.139.32.139,lcollier,South America,Failed,1,1,1,23,11,2,True
+2024-02-27 21:56:19,Roger Thomas,Apply,Remote File Copy,Role,Medium,game,73.3.125.170,derek28,South America,Successful,1,1,3,5,19,6,True
+2024-11-08 18:34:02,Daniel Cowan,Citizen,Remote File Copy,Different,High,certain,93.36.154.99,laura38,South America,Successful,1,1,1,6,31,12,False
+2024-10-02 06:25:19,Victoria Taylor,From,Sudo Caching,Truth,Low,while,209.48.58.193,zamoraamanda,South America,Successful,1,3,4,23,4,12,True
+2024-05-28 12:33:12,Deborah Spence,Hour,Command and Control Over Web Protocol,Spend,Low,experience,22.90.206.212,david17,South America,Failed,1,2,3,5,27,7,False
+2024-01-22 23:23:11,Benjamin Mcgee,Art,Scheduled Task,Put,Medium,garden,138.252.248.122,garciamichael,North America,Failed,3,2,4,19,15,9,False
+2024-09-07 11:29:17,Donald Patrick,Race,Remote File Copy,Effect,Medium,culture,17.69.232.234,donnabutler,Asia,Successful,1,4,3,11,25,9,False
+2024-04-29 02:34:45,Barbara Delgado,Body,Scheduled Task,Time,High,memory,212.253.165.158,stephensbrenda,Europe,Failed,1,2,2,13,4,5,True
+2024-08-10 23:59:53,Samantha Allen,Remember,Brute Force,Again,High,around,107.164.73.193,zsaunders,North America,Successful,2,2,2,20,2,12,False
+2024-09-06 14:42:29,Nathan Smith,Newspaper,Spearphishing Link,Medical,Medium,development,84.88.13.235,jonesjeremiah,Europe,Failed,1,2,4,21,6,9,True
+2024-02-04 00:54:17,Mr. Steven Stephens MD,Certain,Data Staged,Maintain,Medium,very,151.165.75.83,sarah37,South America,Successful,3,4,3,7,26,12,False
+2024-08-16 01:22:27,Adam Goodman,Center,Brute Force,Statement,High,group,221.98.151.227,susanjohnson,Asia,Successful,1,4,4,22,16,8,False
+2024-03-02 21:19:47,Bethany Simpson,Live,Scheduled Task,Small,High,itself,129.32.104.7,kimberlycole,South America,Successful,1,1,3,15,26,8,False
+2024-05-20 21:50:37,Johnny Young,Certainly,Application Layer Protocol,Public,Low,themselves,154.173.207.124,misty45,Asia,Successful,3,1,1,20,3,6,False
+2024-05-12 07:26:22,Daniel Hunt,Industry,Remote File Copy,Local,Medium,serious,222.56.204.233,gary53,Europe,Successful,3,4,3,14,11,6,False
+2024-08-13 13:20:15,Christopher Miller,Six,Spearphishing Attachment,Process,Medium,already,169.91.178.121,elliottjane,South America,Successful,2,4,3,5,6,7,False
+2024-01-21 20:32:41,Karen Moore,South,Spearphishing Attachment,One,Medium,property,73.34.46.191,thomastaylor,Europe,Failed,1,1,2,8,4,2,False
+2024-07-23 00:19:38,Kimberly Ortiz,Deal,Spearphishing Link,Stay,Low,whatever,25.217.13.248,rgonzalez,Europe,Failed,2,3,4,21,7,2,True
+2024-08-26 10:55:50,Lori Thomas,Believe,Scheduled Task,Treat,High,down,56.147.195.191,tconner,South America,Failed,3,4,2,11,28,2,False
+2024-03-10 15:27:56,Keith Porter,Wrong,Sudo Caching,Data,Medium,matter,185.139.218.102,robert20,Asia,Failed,1,1,4,9,4,4,False
+2024-03-17 08:08:17,Linda Callahan,During,Application Layer Protocol,Last,Low,but,21.46.87.150,moralesvanessa,Asia,Successful,3,4,4,23,17,10,False
+2024-09-20 19:53:46,Adam Payne,Cost,Application Layer Protocol,Beyond,Medium,his,78.208.181.94,stevensjason,Europe,Failed,3,1,2,14,23,4,False
+2024-02-15 08:55:36,Daniel Franco,See,Application Layer Protocol,Defense,Low,explain,38.25.231.239,ricardowright,North America,Failed,1,4,3,14,13,1,True
+2024-06-26 18:34:31,Jennifer Gilbert,Moment,Brute Force,Anything,High,represent,159.42.38.65,jenkinsashley,North America,Successful,1,3,1,15,26,3,False
+2024-08-17 14:22:24,Alexis Miles,Officer,Brute Force,Space,Low,note,200.46.105.78,owilliams,Europe,Failed,1,1,1,11,28,7,True
+2024-10-16 23:40:49,Allen Smith,Scene,Brute Force,Book,Low,article,204.78.14.246,bolsen,North America,Failed,1,3,3,9,28,10,False
+2024-09-28 19:31:18,Brian Dixon,Occur,Remote File Copy,Office,Medium,education,221.215.153.216,manuelbrown,Asia,Successful,2,2,1,19,15,2,False
+2024-07-12 20:38:18,John Ramos,Dinner,Brute Force,Individual,Medium,away,149.104.188.19,patricia37,Europe,Failed,1,3,3,17,13,6,True
+2024-02-23 03:30:17,Linda Smith,Born,Scheduled Task,Star,High,decision,70.164.67.61,vthomas,South America,Successful,1,4,1,5,12,5,True
+2024-02-15 03:29:35,Angela Williams,Understand,Application Layer Protocol,Want,High,true,124.171.101.187,rachel11,North America,Successful,2,3,4,18,19,4,True
+2024-09-20 18:48:53,Julie Christian,Someone,Scheduled Task,Yeah,High,voice,211.30.166.45,lindaking,North America,Successful,2,3,1,11,2,10,True
+2024-02-04 11:47:14,Kelsey Vaughn,Though,Scheduled Task,Appear,Low,new,6.125.25.220,matthew53,Asia,Failed,2,4,4,10,29,8,True
+2024-05-23 02:07:20,Abigail Thompson,Old,Sudo Caching,Against,High,police,29.212.60.85,deborahperez,North America,Successful,3,3,2,7,12,9,True
+2024-05-23 11:14:02,Christopher Nguyen,Structure,Spearphishing Link,Star,Medium,investment,41.255.33.30,aaron36,Europe,Failed,3,2,4,20,22,11,True
+2024-08-13 00:55:45,Frederick Roach,Pass,Command and Control Over Web Protocol,Series,Low,mention,162.56.204.221,wilsonalicia,North America,Failed,3,3,4,7,17,11,False
+2024-06-07 01:33:07,Brandon Mccarty,Resource,Spearphishing Attachment,Computer,Medium,sound,159.189.39.189,johnsonlaura,North America,Successful,2,2,4,8,23,3,False
+2024-01-27 12:28:15,Rodney Jones,Worker,Scheduled Task,Put,High,enjoy,207.6.140.1,jasonmartin,Europe,Successful,1,1,4,14,13,1,True
+2024-03-21 11:19:30,Richard Blake,Drop,Spearphishing Attachment,Hotel,Low,cover,188.49.180.47,chadtucker,Europe,Failed,1,4,4,17,15,9,True
+2024-04-11 17:56:03,Paul Williams,Deal,Brute Force,Whose,Low,tend,79.87.236.70,hernandezedward,South America,Failed,3,4,4,10,3,2,True
+2024-02-06 23:40:48,Willie Black,Win,Remote File Copy,Yourself,Medium,buy,29.252.161.182,jonesrobert,Europe,Failed,1,4,4,18,7,10,True
+2024-02-23 06:52:05,Amber Miranda,If,Remote File Copy,No,Low,role,148.184.184.197,andrea22,Europe,Failed,3,2,1,11,15,8,True
+2024-07-11 21:27:05,Cynthia Gonzalez,Space,Application Layer Protocol,Admit,Low,wife,166.240.223.73,rramirez,North America,Failed,3,4,4,11,27,11,False
+2024-08-14 13:28:19,Ann Crawford,Hospital,Application Layer Protocol,Assume,Low,stop,23.178.185.161,amy51,Asia,Failed,2,2,4,3,12,8,True
+2024-09-21 14:59:41,Ashley Garcia,Play,Spearphishing Link,Movie,Low,game,213.23.225.111,mary65,Asia,Successful,3,4,1,12,19,8,True
+2024-07-29 22:51:09,Travis Walker,Although,Scheduled Task,Interesting,High,least,118.146.42.153,kennethshaw,Asia,Failed,2,1,1,16,1,9,True
+2024-06-01 08:21:10,James Thompson,Themselves,Spearphishing Attachment,Issue,Medium,speak,111.24.6.64,kelly32,Asia,Successful,1,2,2,3,9,2,True
+2024-02-11 19:00:33,Jane Oliver,Help,Sudo Caching,Population,High,foreign,18.33.100.218,beverlymartin,Asia,Successful,3,3,2,9,5,7,True
+2024-06-29 22:14:00,Kim Morton,Western,Spearphishing Attachment,Own,Low,perhaps,40.228.147.71,debralyons,North America,Failed,3,1,2,17,28,5,True
+2024-09-12 20:25:56,Kevin Gonzales,Involve,Command and Control Over Web Protocol,Anything,Medium,hot,55.107.241.157,byoung,South America,Failed,1,1,4,22,4,3,True
+2024-02-29 21:13:12,Maureen Young,Recent,Brute Force,Kid,Low,chair,179.75.58.69,rodriguezdenise,Europe,Failed,2,3,4,12,20,12,True
+2024-04-22 08:45:47,Michelle Miller,Ability,Brute Force,These,Low,identify,213.164.90.228,don25,North America,Successful,1,2,2,5,12,4,True
+2024-01-13 04:16:47,Mrs. Cassandra Chung,Later,Command and Control Over Web Protocol,Force,High,morning,63.147.181.55,amendoza,South America,Failed,3,4,3,20,3,7,True
+2024-06-17 06:08:25,Mrs. Terry Montgomery MD,Through,Remote File Copy,Data,Medium,town,4.38.145.77,victor88,Europe,Successful,1,4,1,10,29,3,True
+2024-03-08 11:56:41,Robert Dominguez,Step,Command and Control Over Web Protocol,Nearly,High,care,136.113.243.53,whuang,Asia,Successful,3,2,1,1,18,1,False
+2024-09-17 01:32:51,Curtis Martinez,Wife,Spearphishing Attachment,Sit,Low,piece,5.127.32.210,jesushanson,North America,Successful,2,3,1,2,19,8,True
+2024-08-17 17:29:19,Calvin Stout,Successful,Command and Control Over Web Protocol,Keep,High,upon,174.133.212.200,tracy66,South America,Successful,3,4,1,14,6,10,False
+2024-08-25 04:49:26,Ellen Wilson,First,Sudo Caching,Federal,Medium,life,144.243.132.233,bradleysalinas,North America,Successful,1,3,4,21,30,6,True
+2024-05-25 20:41:54,Jacob Reed,Large,Brute Force,Room,Medium,by,193.248.243.29,andrewbennett,North America,Failed,2,3,3,9,2,7,False
+2024-02-26 20:02:29,Carlos May,Enter,Remote File Copy,Eight,High,computer,42.242.29.36,kimberly86,South America,Failed,1,3,3,2,6,1,False
+2024-05-08 19:31:31,Zachary Dunlap,Step,Remote File Copy,Adult,Medium,particularly,111.44.48.23,joseph47,Asia,Failed,3,4,4,20,8,9,False
+2024-10-12 01:59:19,Ann Ramos DDS,Chance,Spearphishing Link,Drug,High,consumer,189.233.173.91,ssalazar,North America,Successful,2,3,2,0,15,11,True
+2024-09-30 11:26:08,Tammy Wang,Serious,Spearphishing Link,Research,High,television,220.97.238.85,walkersandra,South America,Failed,2,1,4,8,8,5,False
+2024-04-05 20:10:21,Regina Smith,Top,Spearphishing Link,Common,Low,nothing,108.74.148.84,cmurphy,North America,Successful,1,4,2,21,17,12,True
+2024-06-11 09:12:53,Melissa Lewis,Respond,Brute Force,Which,High,authority,151.68.33.166,davidhall,Europe,Failed,2,4,4,23,9,7,True
+2024-07-27 22:28:38,Jessica Keller,His,Remote File Copy,Street,Medium,soldier,169.27.33.150,lauranoble,Asia,Failed,2,3,2,17,30,6,True
+2024-09-23 11:13:53,Rachel Keith,Soon,Command and Control Over Web Protocol,None,Medium,still,73.148.252.109,elizabeth70,Europe,Failed,1,1,2,23,13,9,False
+2024-03-23 00:32:04,Christine Marks,Follow,Scheduled Task,Go,High,during,92.165.247.55,eddie77,Europe,Successful,1,2,3,14,23,6,False
+2024-01-19 19:20:33,Larry Harris,Story,Sudo Caching,Leg,High,ball,108.99.208.54,qconley,Asia,Failed,3,1,3,23,30,8,True
+2024-02-27 10:50:54,Ms. Elizabeth Bailey,Same,Brute Force,Measure,Medium,Congress,139.148.158.145,juliecasey,South America,Successful,2,2,4,14,26,10,False
+2024-06-27 02:39:25,Katelyn Johnson,Hotel,Data Staged,Offer,Medium,throughout,131.154.142.57,uhoward,North America,Successful,1,2,2,18,15,12,False
+2024-06-04 21:20:08,Emily Bowers,Effort,Spearphishing Link,Popular,High,expert,75.121.29.156,lauren14,Asia,Failed,1,3,3,19,3,2,False
+2024-05-16 23:57:35,Lindsay Deleon,Doctor,Spearphishing Link,Expert,High,now,207.64.203.158,brendan35,South America,Successful,1,1,1,12,18,5,True
+2024-04-19 04:42:38,Zachary Diaz,Control,Scheduled Task,Modern,High,poor,159.231.111.205,travisjennifer,Asia,Successful,2,2,2,4,19,9,True
+2024-04-21 07:37:53,Tina Bowman,City,Sudo Caching,Detail,Medium,realize,128.213.28.144,tfernandez,South America,Failed,2,1,2,20,3,12,False
+2024-01-07 04:18:50,Tara Roberts,Run,Command and Control Over Web Protocol,Opportunity,Medium,player,207.2.17.5,kimamanda,Europe,Successful,3,3,3,15,23,3,True
+2024-07-16 15:46:08,Brian Gallegos,Unit,Brute Force,Successful,Medium,join,149.122.144.68,hilljulie,North America,Successful,3,1,1,14,7,6,True
+2024-06-11 14:25:42,Penny Dunn MD,Article,Spearphishing Link,Low,Low,girl,124.65.75.125,laurengarcia,North America,Successful,1,1,3,9,30,3,False
+2024-07-02 15:19:56,Patricia Small,Only,Application Layer Protocol,Reflect,Medium,since,213.60.31.243,sarahstrickland,South America,Successful,2,1,3,8,14,6,True
+2024-09-08 10:12:14,Stephanie Jackson,Bad,Command and Control Over Web Protocol,Whose,High,unit,211.173.247.83,lstevens,Europe,Successful,1,3,2,6,11,2,False
+2024-02-25 19:01:03,Jamie Brooks,School,Brute Force,Stock,Medium,fish,45.244.182.132,barnesjorge,Asia,Failed,2,3,2,23,14,4,True
+2024-09-20 00:13:41,Jennifer Wilson,There,Data Staged,Set,Low,television,93.181.161.184,ngilmore,Asia,Successful,2,4,1,19,20,6,False
+2024-07-03 10:11:04,Amanda Lewis,Particular,Application Layer Protocol,Necessary,Medium,sometimes,7.22.26.188,robertskenneth,Europe,Failed,3,4,1,23,28,3,True
+2024-01-27 23:56:18,James Howard,Society,Brute Force,Attorney,Low,probably,74.248.225.252,ltucker,Asia,Successful,1,1,1,14,16,3,True
+2024-05-06 09:51:13,Zachary Murray,Administration,Sudo Caching,Ability,Low,nothing,192.170.46.195,smithjohn,South America,Successful,3,2,3,14,31,9,True
+2024-01-10 06:27:46,David White,Them,Scheduled Task,Protect,Medium,him,24.182.111.37,ymiller,Europe,Failed,2,2,1,5,20,9,True
+2024-04-28 06:45:54,Sarah Reynolds,Yes,Application Layer Protocol,Police,Low,both,113.72.82.187,robertsmith,Europe,Successful,1,1,3,16,27,12,False
+2024-06-04 06:37:28,Olivia Hamilton,I,Application Layer Protocol,Treatment,Low,training,25.98.174.106,ericaeaton,Asia,Successful,2,3,2,1,7,6,True
+2024-10-31 15:09:22,Robin Kelly,Perform,Sudo Caching,Anything,High,only,76.146.153.41,kennethherrera,North America,Successful,1,1,3,23,3,4,False
+2024-05-19 13:33:14,Christian Bryan,Agree,Brute Force,Sure,Medium,foreign,29.43.86.7,katherineramirez,Asia,Successful,1,1,3,17,14,12,True
+2024-06-16 20:45:12,Jonathan Lucas,Be,Data Staged,Member,Low,thus,178.167.16.150,ccoleman,Europe,Failed,3,4,2,21,20,5,True
+2024-08-14 10:43:04,Brent Bradley,Project,Spearphishing Link,Officer,High,letter,22.176.215.35,albertgreen,Europe,Successful,2,1,3,19,12,9,False
+2024-02-09 08:26:01,Douglas Austin,Least,Brute Force,Avoid,High,statement,100.23.188.22,rodney09,Europe,Failed,3,2,2,7,14,11,False
+2024-07-06 20:09:39,Timothy Moran,Rate,Command and Control Over Web Protocol,News,Low,improve,167.97.31.236,ferrellkatherine,Asia,Successful,2,1,4,20,12,7,False
+2024-11-06 17:33:05,Timothy Davis,Feel,Command and Control Over Web Protocol,Ready,Low,as,199.215.18.107,mrogers,South America,Failed,2,3,2,0,31,2,True
+2024-09-12 03:29:41,Angela Espinoza,Foot,Spearphishing Link,As,Low,senior,141.42.99.65,rogerserika,Asia,Successful,2,1,2,12,29,5,True
+2024-10-18 16:05:34,Dr. Ashlee Lopez,Ball,Spearphishing Link,Economy,High,middle,197.41.35.95,shaneholt,Asia,Successful,1,4,4,21,5,3,False
+2024-01-26 02:27:29,Michael Mccormick,National,Data Staged,She,Medium,reduce,39.109.134.217,xryan,South America,Failed,2,2,3,3,15,6,True
+2024-07-21 06:21:11,Denise Rangel,Hear,Scheduled Task,Grow,Low,and,57.101.43.195,patrickbrown,Asia,Successful,2,4,2,2,14,8,False
+2024-09-09 05:27:36,Jordan Sims,Move,Scheduled Task,Them,Low,it,111.48.237.13,christinabarnes,South America,Failed,2,2,2,6,8,6,False
+2024-04-08 08:38:57,Brittany Carter,Suggest,Spearphishing Attachment,Show,Medium,fill,17.118.1.72,garyjackson,South America,Successful,3,3,3,17,11,4,True
+2024-09-11 09:59:32,Tracy Swanson,Those,Command and Control Over Web Protocol,Receive,Medium,consider,86.25.44.143,johnsonadrian,Asia,Successful,3,4,2,23,9,5,False
+2024-02-14 12:04:50,Stacey Gibbs,Almost,Command and Control Over Web Protocol,Group,Low,build,104.82.103.200,gomezmatthew,Europe,Successful,3,2,3,7,24,11,True
+2024-07-29 00:17:30,Jesse Ford,Official,Data Staged,Nice,Medium,part,89.164.110.57,jacob41,South America,Failed,2,4,4,23,2,6,False
+2024-03-02 21:55:04,Seth Jones,Off,Command and Control Over Web Protocol,Son,Medium,truth,189.119.130.147,wilsonjoseph,Europe,Successful,3,3,3,14,11,11,True
+2024-01-30 07:55:15,Mr. Charles Downs,Friend,Brute Force,Position,Low,dark,9.59.142.116,dennis45,Europe,Failed,3,3,4,20,21,12,True
+2024-06-12 19:15:16,Angela Bell,Red,Spearphishing Attachment,There,Medium,speech,41.45.75.60,rileyjeff,Europe,Successful,1,1,3,12,11,8,False
+2024-06-11 17:25:43,Craig Martinez II,Change,Application Layer Protocol,Executive,Low,position,170.187.182.35,lisa08,Asia,Successful,1,2,3,21,28,9,False
+2024-05-02 09:30:36,Rachel Carrillo,Ago,Spearphishing Attachment,Try,Medium,knowledge,39.156.144.217,kennethtownsend,South America,Successful,3,1,4,4,23,9,True
+2024-01-09 01:55:04,Justin Gordon,Build,Sudo Caching,Travel,Low,wonder,96.110.101.25,mendezkatrina,Europe,Failed,2,4,1,6,4,9,True
+2024-11-04 04:10:03,Robert Gonzalez,Society,Spearphishing Link,Time,Medium,three,59.120.203.63,shanedawson,Europe,Failed,2,1,3,19,31,5,False
+2024-10-02 17:30:21,Michael Heath,Ten,Spearphishing Attachment,Current,Low,likely,48.125.145.238,cblack,Asia,Successful,2,1,4,0,14,6,True
+2024-03-28 02:21:05,Daisy Thomas,Can,Scheduled Task,Sort,Medium,artist,28.151.200.128,michael39,South America,Failed,3,4,1,9,13,1,True
+2024-10-30 05:19:31,Mariah Ross,The,Spearphishing Link,Have,High,safe,198.191.65.238,amanda29,South America,Successful,1,1,4,7,12,10,False
+2024-08-17 14:36:01,Robert Wilcox,Now,Data Staged,His,High,ground,163.252.207.227,maddoxjoshua,Europe,Successful,1,2,2,3,25,4,False
+2024-07-03 13:23:48,Kenneth Carpenter,Have,Data Staged,Such,Low,dream,205.100.217.34,burnsdennis,Asia,Failed,1,1,3,13,27,11,False
+2024-07-29 15:15:13,James Gray,Off,Scheduled Task,Mouth,Medium,part,94.131.245.37,michaelfrey,Asia,Successful,2,3,2,0,12,10,True
+2024-08-18 05:46:24,Mrs. April Ramirez MD,Very,Brute Force,Order,Low,tax,76.231.66.28,gsmith,Europe,Successful,3,4,1,15,21,5,True
+2024-10-06 19:18:09,Jessica Griffin,Information,Spearphishing Link,Head,High,unit,29.101.141.111,wendy64,North America,Successful,1,3,4,20,14,3,True
+2024-03-15 00:57:21,Nathan Davis,Daughter,Brute Force,Sound,Medium,note,213.116.11.71,antoniocampos,Asia,Successful,2,1,4,13,5,11,True
+2024-08-15 18:54:05,James Shields,Air,Brute Force,And,Low,fight,100.137.204.45,markbarnes,Europe,Failed,2,3,2,2,15,2,True
+2024-05-08 06:20:21,Elizabeth Wood,Reduce,Spearphishing Link,Have,Medium,follow,80.113.226.157,ynelson,Europe,Successful,1,4,4,5,2,10,True
+2024-02-10 20:28:41,Andrea Maldonado,Church,Application Layer Protocol,When,Medium,recently,80.181.45.139,martin03,South America,Failed,2,1,3,18,27,4,False
+2024-10-01 19:38:06,Joan Reese,According,Spearphishing Link,Loss,High,successful,194.185.178.6,smccoy,North America,Successful,2,3,1,20,8,7,True
+2024-03-21 10:58:01,Amanda Murray,I,Spearphishing Link,Both,Medium,able,98.223.153.95,holly21,Asia,Failed,3,2,4,1,1,12,False
+2024-10-11 08:07:09,Adam Bennett,Thus,Command and Control Over Web Protocol,Help,Low,certainly,61.0.141.251,charlesbrown,South America,Successful,2,1,1,4,28,1,False
+2024-03-13 20:30:23,Maria Clark,Scene,Remote File Copy,Myself,High,citizen,214.96.226.156,garciamelissa,South America,Failed,2,3,3,9,25,11,False
+2024-08-05 15:23:58,Cheryl Harvey,Score,Command and Control Over Web Protocol,Any,Low,smile,51.39.238.86,lindseychen,Asia,Failed,1,1,2,0,20,1,False
+2024-04-17 13:48:17,Luis Reid,Now,Command and Control Over Web Protocol,Structure,High,identify,71.171.10.120,kristine03,North America,Failed,3,3,3,5,9,4,False
+2024-02-21 19:58:10,Monica Mcdonald,Protect,Spearphishing Link,White,Low,start,80.26.178.242,robertramos,North America,Failed,3,4,2,9,24,7,False
+2024-09-06 00:43:13,James Nelson,According,Data Staged,Artist,Low,bed,77.236.17.121,rebeccapierce,North America,Successful,3,3,2,14,21,3,False
+2024-05-19 14:14:25,Jeffrey Livingston,Person,Command and Control Over Web Protocol,Type,High,man,190.196.150.167,jennifersmith,Asia,Successful,3,1,4,0,23,2,False
+2024-11-01 11:50:52,Melissa Garcia,Along,Application Layer Protocol,Enter,Medium,arm,69.253.108.168,brittneydecker,North America,Successful,2,3,3,23,23,5,False
+2024-06-21 21:36:29,Vanessa Beard,Find,Scheduled Task,Sometimes,Medium,act,111.10.250.108,laurenwilliams,North America,Successful,1,4,1,11,2,5,True
+2024-09-27 17:08:01,David Sharp,Matter,Command and Control Over Web Protocol,Old,Medium,watch,201.197.198.222,wglenn,Asia,Successful,1,2,1,8,20,5,False
+2024-04-03 23:44:19,Christian Murphy,Well,Spearphishing Link,Choose,High,responsibility,186.179.208.141,wolfewilliam,Europe,Failed,2,3,2,1,14,10,True
+2024-10-28 01:03:37,Robert Peterson,Responsibility,Brute Force,Research,Medium,discover,195.93.92.199,johnsonjulie,South America,Failed,3,4,2,6,9,3,False
+2024-05-05 07:05:25,Diane Kelley,Yeah,Data Staged,Person,Low,him,124.76.247.207,john63,Europe,Successful,3,2,4,13,1,11,True
+2024-08-16 06:09:50,Glenn Harvey,Above,Spearphishing Link,Third,Medium,authority,189.162.12.185,nscott,Europe,Successful,2,4,1,3,5,11,False
+2024-08-22 23:12:19,Monique Johnston,Network,Data Staged,Lot,Medium,could,134.84.195.230,wanderson,North America,Successful,1,1,4,5,3,12,True
+2024-09-13 17:19:37,Robert Wilcox,Stand,Brute Force,List,Medium,blue,153.157.124.68,vbarton,South America,Successful,1,4,2,1,21,5,True
+2024-02-12 05:35:44,John Smith,Three,Command and Control Over Web Protocol,Compare,High,make,200.238.32.214,hannahfoster,North America,Failed,2,3,2,10,22,3,False
+2024-06-26 18:48:24,Anthony Hunt,Everybody,Application Layer Protocol,Mean,Low,theory,65.134.184.231,mark38,Europe,Successful,3,4,4,16,31,11,True
+2024-11-10 16:35:34,Rose Anderson,Bad,Spearphishing Link,Enjoy,Low,message,47.3.28.144,kgardner,South America,Successful,1,2,1,12,18,11,True
+2024-01-15 16:05:09,Carolyn Downs,Establish,Scheduled Task,Institution,Low,stop,218.17.52.225,marie88,Europe,Failed,1,4,1,2,9,11,False
+2024-07-21 18:45:37,Ashley Page,Success,Application Layer Protocol,Short,High,bill,70.237.113.44,jerry03,North America,Failed,2,3,2,21,3,4,True
+2024-03-06 11:52:06,Michelle Morton,Threat,Brute Force,Seven,Medium,man,21.210.144.132,xblack,North America,Successful,1,3,2,8,26,5,True
+2024-04-23 16:46:43,Kevin Trujillo,Show,Remote File Copy,Hand,Low,morning,61.125.66.104,aconner,South America,Failed,3,4,3,19,20,12,True
+2024-10-04 19:08:51,Matthew Smith,People,Scheduled Task,Will,Low,pay,216.178.53.252,xgraham,Asia,Successful,2,4,1,14,11,12,True
+2024-04-21 07:34:15,Chris Bishop,Down,Application Layer Protocol,Final,Medium,operation,114.212.2.70,xwagner,Europe,Successful,1,2,1,12,22,8,True
+2024-01-30 04:47:17,Tracy Williams,Idea,Data Staged,My,High,floor,118.244.44.54,kendrarodriguez,Asia,Failed,3,1,3,18,12,5,True
+2024-09-09 13:00:40,Christine Peck,Idea,Spearphishing Attachment,Debate,Medium,treat,208.211.246.233,qsuarez,North America,Successful,3,3,1,15,7,10,True
+2024-01-26 07:24:29,Michael Mayo,Success,Data Staged,Trip,Low,according,40.58.222.17,smiranda,Asia,Failed,3,2,4,3,18,3,False
+2024-10-28 02:58:46,Monique Barnes,Order,Spearphishing Link,Difference,Medium,respond,27.200.208.175,mary45,North America,Successful,1,1,2,23,23,12,False
+2024-11-07 03:25:30,Donald Pugh,Lot,Data Staged,Detail,Medium,rich,207.97.21.48,paul35,Europe,Successful,1,4,4,20,20,7,True
+2024-04-27 09:12:57,Preston Jackson,Age,Application Layer Protocol,Hit,Low,song,135.43.59.173,baileykyle,South America,Successful,3,3,2,21,4,5,False
+2024-06-24 18:41:02,Daniel Hill,Group,Data Staged,Cause,Low,cost,93.232.155.58,pamela68,South America,Failed,1,4,1,1,25,9,True
+2024-07-17 02:32:12,Troy Lopez,Despite,Remote File Copy,Music,High,camera,31.166.9.208,martinjohn,Europe,Successful,3,1,2,12,16,4,False
+2024-05-17 16:52:14,Sandra Davis,Democratic,Scheduled Task,Than,Low,without,100.151.200.241,cheryl04,Asia,Successful,1,4,2,23,26,12,True
+2024-03-21 23:12:46,Christopher Novak,Option,Data Staged,Scientist,Medium,conference,126.110.50.61,kristen75,North America,Failed,1,3,3,15,2,9,True
+2024-06-16 06:11:10,Nicholas Schroeder,Deal,Command and Control Over Web Protocol,Behavior,High,positive,212.15.146.240,gallagherfrederick,Europe,Successful,2,4,3,17,16,12,True
+2024-06-04 21:23:34,Thomas Fuller Jr.,Carry,Brute Force,Table,Low,maintain,205.117.180.24,belljennifer,South America,Failed,1,4,1,1,17,8,False
+2024-09-15 15:53:21,Brandon Larsen,You,Remote File Copy,Represent,High,authority,156.98.18.197,grahamloretta,North America,Successful,3,1,4,2,17,1,False
+2024-09-23 21:14:37,Ashley Ramos DDS,Significant,Sudo Caching,Lead,High,city,159.168.184.183,iphillips,Asia,Failed,2,3,3,9,13,8,True
+2024-05-25 07:52:19,Kimberly Hanna,Real,Spearphishing Link,Probably,Low,court,25.34.151.176,aprilharris,North America,Successful,1,2,3,21,28,3,False
+2024-01-27 00:41:03,David May,Statement,Remote File Copy,Despite,Low,life,70.173.63.19,gary03,South America,Failed,1,2,4,23,17,6,True
+2024-04-20 06:38:44,Linda Davis,Window,Spearphishing Link,Peace,Low,sense,159.65.33.92,brendawolfe,Europe,Successful,3,3,4,8,31,5,True
+2024-05-02 10:02:30,Scott Calderon MD,Poor,Command and Control Over Web Protocol,Name,Medium,series,131.133.244.99,jdavis,Asia,Failed,1,4,3,1,13,5,False
+2024-02-19 10:05:00,Michele Kim DVM,Authority,Brute Force,Tough,Medium,single,73.106.98.242,petersonjacqueline,Europe,Successful,3,2,4,7,12,3,False
+2024-10-28 16:06:37,Richard Douglas,Continue,Brute Force,Air,Low,role,201.9.5.96,pmorgan,Asia,Successful,1,4,1,9,2,4,False
+2024-08-05 05:50:14,James Ramos,Financial,Spearphishing Attachment,Age,High,thousand,1.153.77.45,rodney65,Europe,Successful,1,1,1,9,6,3,False
+2024-01-24 10:50:26,Sheena James,Stop,Scheduled Task,Little,Medium,ago,115.47.9.39,wardjackson,North America,Successful,2,3,2,16,12,5,False
+2024-08-21 07:01:53,Tammy Levy,Turn,Sudo Caching,Surface,Medium,actually,201.3.56.52,gharris,North America,Successful,2,4,3,16,18,9,True
+2024-07-31 09:39:57,Patty Davis,Test,Command and Control Over Web Protocol,Evidence,Low,program,61.222.53.65,james67,North America,Successful,2,4,4,18,7,10,True
+2024-04-02 07:15:35,Neil Diaz,The,Brute Force,Light,Low,collection,11.139.181.123,dannyburton,Europe,Failed,3,1,3,14,12,7,True
+2024-05-03 04:09:43,Christopher Wood,Cell,Data Staged,Case,High,gas,59.77.54.153,fbaker,Asia,Successful,3,3,2,4,2,11,True
+2024-03-13 06:31:02,Nancy Chandler,Base,Remote File Copy,Season,High,response,34.181.241.9,danielgonzalez,North America,Successful,2,1,1,15,1,11,False
+2024-01-08 17:56:29,Beth Giles,Story,Command and Control Over Web Protocol,Central,High,clear,47.27.28.170,craighoward,Asia,Successful,2,1,1,12,22,4,True
+2024-09-24 04:28:39,Lauren Sawyer,Million,Spearphishing Link,Pattern,Low,go,216.27.20.219,karalee,Asia,Failed,2,4,4,20,20,6,False
+2024-04-01 03:26:36,Jeffrey Garcia Jr.,Film,Command and Control Over Web Protocol,Community,Medium,whatever,150.83.167.200,jacob82,South America,Successful,3,1,2,8,26,2,True
+2024-09-27 16:47:18,Matthew Stout,Box,Data Staged,Like,High,even,92.81.208.101,feverett,Asia,Successful,2,2,4,8,31,8,True
+2024-02-01 15:52:16,Judith Miller,Gun,Brute Force,Offer,Medium,nothing,97.79.132.57,sarah45,North America,Successful,1,2,4,17,29,12,True
+2024-06-10 11:34:14,Brian Robinson,Happen,Remote File Copy,However,High,us,69.115.151.248,dharmon,Asia,Successful,1,2,3,4,1,8,False
+2024-08-17 06:16:38,Kathleen Nelson,Although,Data Staged,There,High,bit,1.62.225.217,hurstcindy,North America,Failed,2,4,4,15,11,10,False
+2024-10-12 00:29:50,Gloria Collins DDS,Growth,Application Layer Protocol,Their,Low,way,138.121.66.59,emitchell,Europe,Failed,2,1,4,5,9,7,False
+2024-09-21 17:38:50,Jason Rodriguez,Degree,Brute Force,Speak,Medium,they,211.136.135.175,amy70,Europe,Successful,1,4,4,4,2,7,False
+2024-06-04 18:42:10,Joshua Vazquez,Argue,Command and Control Over Web Protocol,Certainly,High,policy,139.24.69.160,mark50,North America,Successful,3,3,2,12,1,2,False
+2024-02-02 00:54:34,Robin Hunt,Receive,Spearphishing Attachment,Respond,High,my,194.219.169.116,robert38,North America,Failed,1,3,1,15,25,5,True
+2024-08-08 02:19:52,John Oliver,Any,Command and Control Over Web Protocol,Place,Medium,important,167.218.253.40,lynchbelinda,North America,Failed,2,3,2,4,25,1,True
+2024-03-20 22:58:58,Jessica Haley,Happen,Remote File Copy,Probably,Low,father,36.69.62.166,calderonpaul,Asia,Successful,2,3,1,10,5,4,True
+2024-10-05 15:05:42,Madison Nelson,Firm,Data Staged,Plan,Low,fall,36.66.145.171,biancahubbard,Asia,Successful,2,4,2,13,9,3,False
+2024-05-02 03:23:58,Joseph Walker,Cost,Command and Control Over Web Protocol,Week,Medium,indicate,69.139.180.171,charles83,Asia,Failed,1,3,2,18,3,1,True
+2024-03-08 13:59:43,Paul Gomez,Speech,Application Layer Protocol,Article,Low,lot,223.110.81.173,yfreeman,Europe,Successful,1,2,2,2,25,8,True
+2024-06-29 15:55:43,Paul Meyer,Common,Scheduled Task,Plant,Medium,health,222.78.229.58,christopher39,North America,Successful,1,2,3,6,20,11,False
+2024-06-27 21:52:20,Russell Hardy,Note,Remote File Copy,State,Medium,commercial,49.255.147.149,crystalmurphy,Asia,Successful,2,1,4,12,6,10,True
+2024-02-09 04:08:35,Brent Howard,Oil,Spearphishing Link,Wall,High,easy,16.171.24.62,benjaminmiller,North America,Successful,1,4,1,15,8,3,False
+2024-02-02 01:04:16,Robert Silva,Glass,Data Staged,Information,High,current,140.78.3.246,pattonjerry,North America,Failed,1,2,3,8,4,5,False
+2024-03-14 00:22:28,Lee Mullen,Community,Spearphishing Link,Read,Low,rule,6.191.226.43,bmiller,North America,Failed,3,4,3,23,26,11,True
+2024-10-03 15:26:19,Barbara Fisher,Fill,Data Staged,Ten,Medium,old,108.90.92.87,jessicaali,Europe,Successful,1,3,4,7,29,4,False
+2024-02-24 01:48:54,Jacqueline Barnes,Second,Scheduled Task,Guess,Medium,argue,144.133.224.16,brandonsmith,Europe,Failed,3,1,3,19,23,12,False
+2024-10-22 03:23:14,Vanessa Johnson,Poor,Application Layer Protocol,Everybody,High,view,60.134.100.245,jessica10,Asia,Successful,2,3,1,14,10,4,True
+2024-10-01 18:51:45,Jacob Young,Guy,Data Staged,But,Low,authority,193.79.225.204,carrie72,North America,Successful,1,3,1,17,18,2,True
+2024-07-21 17:30:12,Dan Reilly,Space,Spearphishing Link,Head,Medium,training,66.138.235.54,hensleybailey,South America,Failed,1,2,2,14,17,2,False
+2024-10-27 10:35:21,Sarah Davis,Table,Scheduled Task,Themselves,High,behind,30.15.187.15,owalker,South America,Successful,2,3,1,21,25,8,True
+2024-01-10 08:43:44,Tyrone Brooks,Camera,Spearphishing Attachment,Become,High,evening,45.36.132.195,abailey,North America,Failed,1,3,2,10,2,12,True
+2024-09-04 15:44:56,Sandra Lopez,Question,Spearphishing Attachment,Per,Medium,article,129.24.97.82,scott37,Asia,Successful,1,4,2,17,21,4,False
+2024-06-28 17:36:31,Travis Gomez,Coach,Remote File Copy,Prepare,High,seem,204.3.122.107,farleyjennifer,South America,Failed,3,2,3,4,7,12,False
+2024-10-17 12:09:09,Elijah Espinoza,My,Spearphishing Link,Even,Medium,TV,111.164.32.149,joseph05,South America,Failed,2,3,4,3,22,9,False
+2024-11-05 17:25:14,Tiffany Navarro,Remember,Scheduled Task,Surface,High,forget,193.64.101.223,billyjennings,Asia,Failed,1,2,3,12,24,1,True
+2024-04-20 08:51:27,Adam Lane,Our,Spearphishing Link,Best,Medium,special,44.181.171.161,berryalexis,South America,Successful,3,3,3,1,10,2,False
+2024-05-12 21:06:52,Jasmine Taylor,Main,Remote File Copy,Four,Medium,ability,57.205.180.79,joshua84,South America,Failed,2,3,3,19,21,10,True
+2024-08-13 15:05:31,Randy Sanchez,Have,Remote File Copy,Recent,Low,coach,65.40.188.250,cleon,South America,Failed,3,1,3,16,8,1,True
+2024-06-18 14:13:49,Paul Pace,Mission,Application Layer Protocol,Evening,High,way,39.39.58.31,amberramirez,North America,Failed,1,2,4,11,17,6,True
+2024-05-28 05:16:29,Michelle Solomon,Office,Brute Force,Physical,High,look,90.177.56.126,jasmine76,Asia,Failed,3,2,2,20,6,2,True
+2024-02-12 20:05:56,Matthew Day,Plant,Data Staged,Address,High,out,154.115.193.226,nancy45,Europe,Successful,3,4,2,0,10,3,True
+2024-06-09 02:24:39,Michael Gonzales,Authority,Data Staged,Cut,Medium,stuff,14.119.34.153,debbie32,North America,Failed,2,4,1,2,24,2,False
+2024-01-29 08:27:10,Lisa Whitehead,Join,Sudo Caching,Draw,High,mean,128.60.92.125,christine15,South America,Successful,1,4,4,3,10,2,False
+2024-10-17 04:45:08,Jacob Clark,Main,Application Layer Protocol,Party,High,trouble,50.104.228.233,victor73,Asia,Successful,2,1,2,22,29,7,True
+2024-10-30 07:18:48,Karen Jones,Long,Scheduled Task,High,Low,fly,63.68.139.23,april58,North America,Failed,1,1,3,0,5,5,True
+2024-01-02 22:05:49,Michele Torres,Former,Application Layer Protocol,Cold,Low,personal,47.154.241.68,parmstrong,South America,Failed,1,3,3,18,3,1,True
+2024-06-13 22:44:33,James Jimenez,Size,Data Staged,Health,High,detail,40.15.40.121,dday,Asia,Failed,3,2,4,14,20,11,True

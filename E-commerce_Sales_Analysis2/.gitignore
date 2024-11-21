@@ -1,0 +1,8 @@
+generate_data.R
+generated_data.csv
+derby.log
+processed_data.csv
+metastore_db
+
+
+cyber_threat_detection_project/
